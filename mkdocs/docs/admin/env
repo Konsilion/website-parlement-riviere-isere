@@ -12,8 +12,22 @@ extra:
   generator: false
 
 plugins:
-  - search
   - macros
+  - tags
+  - blog:
+        blog_dir: actualite
+        archive: true
+        post_readtime_words_per_minute: 300
+        blog_toc: false
+        archive_name: Chronologie
+        archive_toc: true
+        categories_name: Thèmatiques
+        categories_toc: true
+        categories_allowed:
+            - Evenement
+            - Gouvernance
+            - Documentation
+            - Données
 
 markdown_extensions:
   - tables

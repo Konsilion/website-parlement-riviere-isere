@@ -1,50 +1,43 @@
 ---
+title: Accueil
 hide:
   - toc
   - navigation
 ---
 
 
-![logo-accueil](https://user-images.githubusercontent.com/99027754/209585047-f1e419f1-8f55-43d2-bfc6-6d51aec13ecf.png){style="max-width: 100%; width: 450px"}
+![logo-accueil](https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/banniere-parlement-isere.png?raw=true){style="max-width: 100%; heigth: 450px"}
 
-# Développer, proposer et promouvoir la Low-technologie.
+# A l’écoute de la rivière.
 
-Nous proposons des outils et méthodes utiles au développement, à la fabrication et à l’appropriation de la Low-technologie.
+Participation citoyenne, droits de la nature, démarche fluvio-sensible : le **Parlement de la rivière de l’Isère** entend donner une voix à la rivière. 
 
-<br><br>
+<br>
 
-[On continue ?](./pages/presentation/){ .md-button .md-button--primary style="float: left; margin-bottom: 75px;"}
+[Découvrir le Parlement](./pages/qui-sommes-nous/){ .md-button .md-button--primary style="float: left; margin-bottom: 75px;"}
 
-[Nous contacter](./pages/informations/#contact){ .md-button .md-button--secondary style="float: right; margin-left: 10px; margin-bottom:15px;"}
+[Nous contacter](./pages/contact/){ .md-button .md-button--secondary style="float: right; margin-left: 10px; margin-bottom:15px;"}
+
+[Actualités](./actualite){ .md-button .md-button--secondary style="float: right; margin-left: 10px; margin-bottom:15px;"}
+
 
 <br><br><br><br><br>
 
-??? tip "Qu'est ce que la Low-tech ?"
+??? info "Un Parlement pour la rivière Isère ?"
 
-    ## **Utile, Durable et accessible**
-    
-    ---
-    
-    « La ou les low-tech, mot à mot basses technologies, désignent une catégorie de produits, de services, de procédés ou autres systèmes permettant, via une transformation technique, organisationnelle et culturelle, le développement de nouveaux modèles de société intégrant, dans leurs principes fondamentaux, les exigences de durabilité forte et de résilience collective.
-
-    La low-tech n’est pas une démarche technophobe mais technocritique. Autrement dit, même si elle s’oppose à l’obsession de la high-tech, celle-ci s’accorde du principe de techno-discernement »
-    
-    ---
-    
-    Wikipédia 10-2022 – *Nous vous présentons la définition de Wikipédia car elle issue d’une réflexion collaborative, amenée à évoluer.*
+    En réponse aux inquiétudes des citoyen·ne·s concernant l’eau, sa raréfaction, ses usages et ses pollutions, est né le projet du Parlement de l’Isère. L’objectif est de protéger la rivière et le bien commun qu'est l'eau en prônant la reconnaissance des droits de la nature. Le Parlement de l’Isère a vocation à devenir un espace public de discussion sur l’eau ouvert à tous-tes pour une réappropriation démocratique des enjeux de l’eau. Il serait adossé à un observatoire de l’eau qui rassemblerait et vulgariserait de manière neutre et indépendante toutes les données sur l’eau. Le Parlement de l’Isère aura une dimension artistique et culturelle pour développer l’attachement à la rivière et créer de nouveaux imaginaires autour du « fluvio-sensible ». Le projet est soutenu par un collectif d’associations : France Nature Environnement Isère, Civipole, l'Assemblée des communs, le Jardin des Initiatives et le Pacte pour le Pouvoir de Vivre. Plus d'infos ici : [Lien vers site FNE](https://www.fne-aura.org/actualites/isere/un-parlement-pour-la-riviere-isere/)
 
 
-<br><br><br><br><br><br><br><br>
 
 <style>
    body{ 
-       background-image: url(https://img.freepik.com/free-vector/illustration-human-avatar-with-environment_53876-17627.jpg?w=1380&t=st=1674426096~exp=1674426696~hmac=2a6505eb181a5ab25706e9bbe73c2701cd336aa978023673872f7c15ff97cd55);
+       background-image: url(https://assoplanning.org/wp-content/uploads/sites/46/2023/09/Confluence_de_LIse%CC%80re_et_du_Rho%CC%82ne_sur_la_commune_de_La_Roche_de_Glunla_commune_de_Cha%CC%82teaubourg_se_trouve_au_niveau_du_Rho%CC%82ne_et_en_face.JPG.jpg);
         background-repeat: no-repeat;
         background-position: center;background-size: cover; 
     }
     .md-container {
         background: rgb(255,255,255);
-        background: linear-gradient(180deg, rgba(255,255,255,0.9) 0%, rgba(255,255,255,0.9) 15%, rgba(255,255,255,0.75) 60%, rgba(255,255,255,0.1) 100%);
+        background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0.9) 50%, rgba(255,255,255,0.75) 75%, rgba(255,255,255,0.1) 100%);
     }
     .md-content{
         margin: 50px auto;

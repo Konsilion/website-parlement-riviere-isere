@@ -1,11 +1,12 @@
 ---
-title: Ingénierie collaborative
-add: true
-edit: true
+title: Actualités
+add: false
+edit: false
 slider: true
 comments: false
 hide:
     -toc
+    -navigation
 ---
 
 # Développons ensemble les technologies et savoirs de demain 

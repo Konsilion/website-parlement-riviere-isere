@@ -9,7 +9,14 @@ nav:
 
     - Accueil: index.md
         
-    - À propos: pages/informations.md
+    - Le Parlement: pages/qui-sommes-nous.md
+
+    - Documentation: pages/documentation/accueil.md
+
+    - Actualités:
+        - actualite/index.md
+
+    - Contact: pages/contact.md
 
 
 
@@ -37,7 +44,7 @@ theme:
     palette:
         primary: blue grey
         accent: blue
-    logo: https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/logo.png?raw=true
+    logo: https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/banniere-parlement-isere.png?raw=true
     favicon: https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/logo-parlement-isere.png?raw=true
 
 
@@ -45,7 +52,7 @@ theme:
 # MENTIONS 
 # -------------------------------------------------
 
-copyright: Une plateforme open-source codé avec ❤ par Konsilion - Licence juridique Creative Commons CC-BY-NC 4.0 <br> Un grand merci à <u><a href="https://www.multi.coop/" target="_blank">multi</a></u> et <u><a href="https://squidfunk.github.io/mkdocs-material/" target="_blank">mkdocs-material</a></u> pour le support technique 
+copyright: Une plateforme open-source codé avec ❤ par <u><a href="https://www.konsilion.fr/" target="_blank">Konsilion</a></u> - Licence juridique Creative Commons CC-BY-NC 4.0
 
 
 # /!\   NE PAS MODIFIER CI-DESSOUS   /!\
