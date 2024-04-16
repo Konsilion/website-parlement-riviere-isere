@@ -1,0 +1,10 @@
+/* ======= OVERWRITE COLOR MKDOCS - Deactivate ======= */
+
+:root > * {
+    --md-primary-fg-color: #56B7F5 !important;
+}
+
+	
+.md-tabs {
+    background-color: #023D64;
+}
