@@ -37,8 +37,8 @@ theme:
     palette:
         primary: blue grey
         accent: blue
-    logo: https://github.com/Konsilion/website/blob/master/media/logo.png?raw=true
-    favicon: https://user-images.githubusercontent.com/99027754/209714307-ab199f0d-509b-404f-9dd8-d8bd8fb99e37.png
+    logo: https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/logo.png?raw=true
+    favicon: https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/logo-parlement-isere.png?raw=true
 
 
 
