@@ -1,0 +1,53 @@
+# BIENVENU ! MODIFIER ICI LES PARAMETRES DE VOTRE PLATEFORME KATALOG
+# -------------------------------------------------
+
+
+# NAVIGATION
+# -------------------------------------------------
+
+nav:
+
+    - Accueil: index.md
+        
+    - À propos: pages/informations.md
+
+
+
+# SITE INFORMATIONS 
+# -------------------------------------------------
+
+site_name: Parlement de la rivière Isère
+site_author: Nicolas Brémond
+site_description: A l'écoute de la rivière et de ses affluents.
+repo_url: https://github.com/konsilion/website-parlement-riviere-isere
+
+extra:
+  katalog_repo: "https://github.com/konsilion/website"
+  katalog_site: "https://konsilion.fr"
+  katalog_mdp: "azerty123"
+  
+
+# LANGUE, COULEURS et LOGO
+#
+# [Liste des couleurs](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#primary-color)
+# -------------------------------------------------
+
+theme:
+    language: fr
+    palette:
+        primary: blue grey
+        accent: blue
+    logo: https://github.com/Konsilion/website/blob/master/media/logo.png?raw=true
+    favicon: https://user-images.githubusercontent.com/99027754/209714307-ab199f0d-509b-404f-9dd8-d8bd8fb99e37.png
+
+
+
+# MENTIONS 
+# -------------------------------------------------
+
+copyright: Une plateforme open-source codé avec ❤ par Konsilion - Licence juridique Creative Commons CC-BY-NC 4.0 <br> Un grand merci à <u><a href="https://www.multi.coop/" target="_blank">multi</a></u> et <u><a href="https://squidfunk.github.io/mkdocs-material/" target="_blank">mkdocs-material</a></u> pour le support technique 
+
+
+# /!\   NE PAS MODIFIER CI-DESSOUS   /!\
+# -------------------------------------------------
+INHERIT: ./docs/admin/env
