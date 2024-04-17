@@ -6,7 +6,7 @@ hide:
 ---
 
 
-![logo-accueil](https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/banniere-parlement-isere.png?raw=true){style="max-width: 100%; heigth: 450px"}
+![logo-accueil](https://github.com/Konsilion/konsilion-drive/blob/main/logo_banniere_index.png?raw=true){style="width: 600px; heigth: 450px"}
 
 # A l’écoute de la rivière.
 
@@ -21,7 +21,7 @@ Participation citoyenne, droits de la nature, démarche fluvio-sensible : le **P
 [Actualités](./actualite){ .md-button .md-button--secondary style="float: right; margin-left: 10px; margin-bottom:15px;"}
 
 
-<br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 ??? info "Un Parlement pour la rivière Isère ?"
 
@@ -37,7 +37,7 @@ Participation citoyenne, droits de la nature, démarche fluvio-sensible : le **P
     }
     .md-container {
         background: rgb(255,255,255);
-        background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0.9) 50%, rgba(255,255,255,0.75) 75%, rgba(255,255,255,0.1) 100%);
+        background: linear-gradient(180deg, rgba(255,255,255,1), rgba(255,255,255,0.9), rgba(255,255,255,0.75), rgba(255,255,255,1));
     }
     .md-content{
         margin: 50px auto;
