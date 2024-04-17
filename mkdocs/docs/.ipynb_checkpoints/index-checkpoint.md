@@ -6,7 +6,7 @@ hide:
 ---
 
 
-![logo-accueil](https://github.com/Konsilion/konsilion-drive/blob/main/logo_banniere_index.png?raw=true){style="width: 600px; heigth: 450px"}
+![logo-accueil](https://github.com/Konsilion/konsilion-drive/blob/main/logo_banniere_index.png?raw=true){style="width: 600px; heigth: 450px; max-width: 100%"}
 
 # A l’écoute de la rivière.
 
@@ -21,9 +21,9 @@ Participation citoyenne, droits de la nature, démarche fluvio-sensible : le **P
 [Actualités](./actualite){ .md-button .md-button--secondary style="float: right; margin-left: 10px; margin-bottom:15px;"}
 
 
-<br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
-??? info "Un Parlement pour la rivière Isère ?"
+??? info "Un Parlement pour la rivière ?"
 
     En réponse aux inquiétudes des citoyen·ne·s concernant l’eau, sa raréfaction, ses usages et ses pollutions, est né le projet du Parlement de l’Isère. L’objectif est de protéger la rivière et le bien commun qu'est l'eau en prônant la reconnaissance des droits de la nature. 
     

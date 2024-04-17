@@ -8,9 +8,10 @@ hide:
   - navigation
 ---
 
-![logo-accueil](https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/banniere-parlement-isere.png?raw=true){style="max-width: 100%; heigth: 450px"}
+![logo-accueil](https://github.com/Konsilion/konsilion-drive/blob/main/logo_banniere_index.png?raw=true){style="width: 600px; heigth: 450px; max-width: 100%"}
 
 # 
+
 
 === "Contact"
 
@@ -22,6 +23,12 @@ hide:
 
     **Newsletter** :  [Cliquer ici pour vous inscrire à notre newsletter](https://listes.gresille.org/sympa/subscribe/newsletter-parlement-isere?previous_action=edit_list_request)
 
+    <br>
+    
+    !!! info
+    
+        Sur internet, soyez **prudent** lorsque vous cliquez sur un lien.
+
 === "Notre motivation"
 
     
@@ -31,3 +38,4 @@ hide:
 
     
     A définir
+    
