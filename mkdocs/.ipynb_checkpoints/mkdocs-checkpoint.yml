@@ -13,6 +13,8 @@ nav:
 
     - Documentation: pages/documentation/accueil.md
 
+    - Données: pages/donnees/index.md
+
     - Actualités:
         - actualite/index.md
 
@@ -29,8 +31,8 @@ site_description: A l'écoute de la rivière et de ses affluents.
 repo_url: https://github.com/konsilion/website-parlement-riviere-isere
 
 extra:
-  katalog_repo: "https://github.com/konsilion/website"
-  katalog_site: "https://konsilion.fr"
+  katalog_repo: "https://github.com/Konsilion/website-parlement-riviere-isere"
+  katalog_site: ""
   katalog_mdp: "azerty123"
   
 
@@ -46,13 +48,6 @@ theme:
         accent: blue
     logo: https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/banniere-parlement-isere.png?raw=true
     favicon: https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/logo-parlement-isere.png?raw=true
-
-
-
-# MENTIONS 
-# -------------------------------------------------
-
-copyright: Une plateforme open-source codé avec ❤ par <u><a href="https://www.konsilion.fr/" target="_blank">Konsilion</a></u> - Licence juridique Creative Commons CC-BY-NC 4.0
 
 
 # /!\   NE PAS MODIFIER CI-DESSOUS   /!\

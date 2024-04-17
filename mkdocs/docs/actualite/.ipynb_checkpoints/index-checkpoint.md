@@ -1,4 +1,5 @@
 ---
+title: Actualités
 hide:
     -toc
 ---

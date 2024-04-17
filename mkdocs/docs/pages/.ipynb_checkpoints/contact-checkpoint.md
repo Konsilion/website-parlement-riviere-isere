@@ -1,6 +1,6 @@
 ---
-title: Qui sommes-nous ?
-add: true
+title: Contacts
+add: false
 modify: false
 slider: false
 hide:
@@ -16,9 +16,11 @@ hide:
 
     <br>
 
-    **Mail** : parlement-isere@gresille.org
+    **Mail** :  [parlement-isere@gresille.org](mailto:parlement-isere@gresille.org)
 
-    [Cliquer ici pour vous inscrire à notre newsletter](https://listes.gresille.org/sympa/subscribe/newsletter-parlement-isere?previous_action=edit_list_request)
+    ---
+
+    **Newsletter** :  [Cliquer ici pour vous inscrire à notre newsletter](https://listes.gresille.org/sympa/subscribe/newsletter-parlement-isere?previous_action=edit_list_request)
 
 === "Notre motivation"
 
