@@ -36,9 +36,15 @@ Participation citoyenne, droits de la nature, démarche fluvio-sensible : le **P
 
 
 <style>
+
+    body{ 
+       background-image: url(https://img.freepik.com/photos-gratuite/plan-vertical-vagues-eau-mousseuses-dans-mer_181624-6899.jpg?w=826&t=st=1713434584~exp=1713435184~hmac=1bfad19e0257b8189236e34b1b5e9f6c536d7c398aeb013aba4f43774e8a2166);
+        background-repeat: no-repeat;
+        background-position: center;background-size: cover; 
+    }
     .md-container {
         background: rgb(255,255,255);
-        background: linear-gradient(180deg, rgba(255,255,255,1), rgba(255,255,255,0.9), rgba(255,255,255,0.75), rgba(255,255,255,1));
+        background: linear-gradient(180deg, rgba(255,255,255,0.4), rgba(255,255,255,0.9), rgba(255,255,255,1), rgba(255,255,255,1));
     }
     .md-content{
         margin: 50px auto;
