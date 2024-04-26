@@ -14,6 +14,7 @@ extra:
 plugins:
   - macros
   - tags
+  - search
   - blog:
         blog_dir: actualite
         archive: true
@@ -32,7 +33,7 @@ plugins:
 # MENTIONS 
 # -------------------------------------------------
 
-copyright: Une plateforme sobre et pleine de ❤ - <u><a href="https://www.konsilion.fr/" target="_blank">Konsilion</a></u> - Licence juridique Creative Commons CC-BY-NC 4.0
+copyright: Une plateforme sobre et pleine de ❤ - <u><a href="https://www.konsilion.fr/" target="_blank">Konsilion</a></u> - Licence juridique Creative Commons CC-BY-NC
 
 markdown_extensions:
   - tables

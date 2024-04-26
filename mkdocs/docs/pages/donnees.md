@@ -5,7 +5,6 @@ modify: false
 slider: false
 hide:
   - toc
-  - navigation
 ---
 
 ![logo-accueil](https://github.com/Konsilion/konsilion-drive/blob/main/logo_banniere_index.png?raw=true){style="width: 600px; heigth: 450px; max-width: 100%"}
@@ -20,4 +19,21 @@ hide:
 
 ---
 
+
 Lien source : [Cliquer ici](https://public.tableau.com/views/2024GlobalRisksReport/CurrentRisks?:language=fr-FR&:sid=&:display_count=n&:origin=viz_share_link) - *soyez toujours prudent quand vous cliquez sur un lien.*
+
+<style>
+
+	.md-tabs__item.md-tabs__item--active {
+        color: white;
+        font-weight: 600;
+        background-color: var(--md-primary-fg-color);
+    }
+
+    .md-tabs__link {font-size: 14px;}
+
+    .md-nav__source {display:none !important;}
+
+    .md-nav__title {padding-left: 15px !important;}
+    
+</style>

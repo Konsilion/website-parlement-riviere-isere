@@ -11,9 +11,9 @@ nav:
         
     - Le Parlement: pages/presentation_parlement.md
 
-    - Documentation: pages/documentation/index.md
-
-    - Données: pages/donnees/index.md
+    - Documentation & Données: 
+        - Documentation: pages/documentation.md
+        - Données: pages/donnees.md
 
     - Actualités:
         - actualite/index.md
@@ -46,7 +46,7 @@ theme:
     palette:
         primary: blue grey
         accent: blue
-    logo: https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/logo-parlement-isere.png?raw=true
+    logo: https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/logo-blanc-flaticon-PRI.png?raw=true
     favicon: https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/logo-parlement-isere.png?raw=true
 
 

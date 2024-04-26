@@ -2,11 +2,12 @@
 
 :root > * {
     --md-primary-fg-color: #0b4387 !important;
+    --md-tabs-bg-color: rgba(235,235,235,1) !important
 }
 
-	
+
 .md-tabs {
-    background-color: #EEE;
+    background-color: var(--md-tabs-bg-color);
     color: black;
 }
 
@@ -15,9 +16,10 @@
 h1 {
     color : #005DAB !important;
     font-family: 'Roboto'; 
-    font-size: 52px !important;
+    font-size: 48px !important;
     font-weight: 400 !important;
     margin-bottom: 50px !important;
+    margin-top: 50px !important;
 }
 
 
@@ -29,8 +31,22 @@ h2 {
     margin-bottom: 25px !important;
 }
 
+h3 {
+    color : grey !important;
+    font-family: 'Dosis'; 
+    font-size: 42px !important;
+    font-weight: 300 !important;
+    margin-bottom: 25px !important;
+    margin-top: 25px !important;
+    border-bottom: 1px solid #EEE !important;
+    
+}
+
+
+
 article p, article li {
     text-align: left;
     font-family: 'Roboto'; 
-    font-size: 21px !important;
+    font-size: 19px !important;
+    line-height: 35px !important;
 }

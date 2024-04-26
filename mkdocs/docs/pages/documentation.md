@@ -2,7 +2,6 @@
 title: Documentation
 hide:
     -toc
-    -navigation
 ---
 
 

@@ -3,7 +3,6 @@ title: Présentation
 hide:
     -navigation
 ---
-![logo-accueil](https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/logo-parlement-isere.png?raw=true){style="float: right; width: 100px;"}
 
 <br>
 
@@ -11,9 +10,14 @@ hide:
 
 ---
 
+![logo-accueil](https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/logo-parlement-isere.png?raw=true){style="float: right; max-width:14vw; width: 100px; margin: 25px 0 25px 25px;"}
+
+
 ## Le projet du Parlement
 
 L’idée de créer un Parlement de l’Isère naît des initiatives croissantes mondiales, européennes et françaises, de collectifs, groupements citoyens et autres pour représenter les entités naturelles en adoptant un paradigme différent de celui de la protection qui positionne l’humain au-dessus de la nature, et seul susceptible de prétendre au statut de sujet de droit.
+
+
 
 Ainsi, le Parlement de Loire, l’Appel du Rhône, le collectif Tavignanu Vivu, collectifs visant à donner une personnalité juridique à des fleuves, mais aussi l’Institut écocitoyen de Fos-sur-Mer, le collectif des Gammares, les Ambassadeurs de l’Aire, et bien d’autres, sont des éléments d’inspiration permettant la constitution du Parlement de l’Isère, **dont le nom n’est pas plus définitif que la forme**.
 
@@ -43,3 +47,6 @@ Le Parlement a vocation à s’appuyer sur :
 * Le **soutien des institutions et collectivités** ayant les compétences de l’eau dans le bassin versant de l’Isère.
 * Le **développement d’une structure autonome** composée des associations et autres structures intéressées à prendre part au Parlement sur tout le territoire du bassin versant et animée par FNE Isère.
 * L’ **action** de personnes engagées, attachées à l’Isère, des associations / structures partenaires du Parlement.
+
+
+
