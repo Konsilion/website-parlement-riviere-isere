@@ -8,9 +8,9 @@ date: 2024-09-15
 
 # Première session du Parlement de l’Isère 
 
-!!! Abstract "Date à venir"
+!!! quote "Date à venir - automne 2024" 
 
-    La première session du Parlement de l’Isère aura lieu à l’automne prochain !
+    
 
 Pour mener à bien cet événement, nous voulons constituer ^^3 groupes de travail^^ ouverts à celles et ceux qui voudraient s’investir :
 

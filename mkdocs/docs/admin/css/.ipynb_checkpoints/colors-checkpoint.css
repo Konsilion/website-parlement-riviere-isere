@@ -1,10 +1,36 @@
 /* ======= OVERWRITE COLOR MKDOCS - Deactivate ======= */
 
 :root > * {
-    --md-primary-fg-color: #56B7F5 !important;
+    --md-primary-fg-color: #0b4387 !important;
 }
 
 	
 .md-tabs {
-    background-color: #023D64;
+    background-color: #EEE;
+    color: black;
+}
+
+
+
+h1 {
+    color : #005DAB !important;
+    font-family: 'Roboto'; 
+    font-size: 52px !important;
+    font-weight: 400 !important;
+    margin-bottom: 50px !important;
+}
+
+
+h2 {
+    color : grey !important;
+    font-family: 'Dosis'; 
+    font-size: 42px !important;
+    font-weight: 300 !important;
+    margin-bottom: 25px !important;
+}
+
+article p, article li {
+    text-align: left;
+    font-family: 'Roboto'; 
+    font-size: 21px !important;
 }
