@@ -1,10 +1,8 @@
 ---
 title: Présentation
 hide:
-    -navigation
+    -toc
 ---
-
-<br>
 
 # Parlement de la rivière Isère
 

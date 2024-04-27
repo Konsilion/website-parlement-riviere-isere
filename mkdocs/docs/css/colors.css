@@ -2,7 +2,7 @@
 
 :root > * {
     --md-primary-fg-color: #0b4387 !important;
-    --md-tabs-bg-color: rgba(235,235,235,1) !important
+    --md-tabs-bg-color: rgba(245, 245, 245, 1) !important
 }
 
 
@@ -11,12 +11,13 @@
     color: black;
 }
 
+.md-nav__title{padding-left:15px !important;}
+
 
 
 h1 {
     color : #005DAB !important;
     font-family: 'Roboto'; 
-    font-size: 48px !important;
     font-weight: 400 !important;
     margin-bottom: 50px !important;
     margin-top: 50px !important;
@@ -25,16 +26,14 @@ h1 {
 
 h2 {
     color : grey !important;
-    font-family: 'Dosis'; 
-    font-size: 42px !important;
+    font-family: 'Roboto'; 
     font-weight: 300 !important;
     margin-bottom: 25px !important;
 }
 
 h3 {
     color : grey !important;
-    font-family: 'Dosis'; 
-    font-size: 42px !important;
+    font-family: 'Roboto'; 
     font-weight: 300 !important;
     margin-bottom: 25px !important;
     margin-top: 25px !important;

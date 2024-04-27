@@ -9,14 +9,17 @@ nav:
 
     - Accueil: index.md
         
-    - Le Parlement: pages/presentation_parlement.md
+    - Le Parlement: 
+        - Présentation du projet: pages/le_parlement/presentation_parlement.md
+        - Le collectif: pages/le_parlement/collectif/qui-sommes-nous.md
+        - Modes de gouvernance: pages/le_parlement/collectif/orga_et_gouvernance.md
 
     - Documentation & Données: 
         - Documentation: pages/documentation.md
         - Données: pages/donnees.md
 
     - Actualités:
-        - actualite/index.md
+        - Actualités: actualite/index.md
 
     - Contact: pages/contact.md
 
@@ -36,20 +39,74 @@ extra:
   katalog_mdp: "azerty123"
   
 
-# LANGUE, COULEURS et LOGO
-#
-# [Liste des couleurs](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#primary-color)
-# -------------------------------------------------
 
+# /!\   NE PAS MODIFIER CI-DESSOUS   /!\
+# -------------------------------------------------
 theme:
+    name: material
     language: fr
     palette:
         primary: blue grey
         accent: blue
     logo: https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/logo-blanc-flaticon-PRI.png?raw=true
     favicon: https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/logo-parlement-isere.png?raw=true
+    features:
+      - navigation.indexes
+      - navigation.tracking
+      - navigation.top
+      - navigation.tabs
+      - navigation.tabs.sticky
+      - navigation.expand
+      
+extra:
+  generator: false
 
+plugins:
+  - macros
+  - tags
+  - search
+  - blog:
+        blog_dir: actualite
+        archive: true
+        post_readtime_words_per_minute: 390
+        blog_toc: false
+        archive_name: Chronologie
+        archive_toc: true
+        categories_name: Thèmatiques
+        categories_toc: true
+        categories_allowed:
+            - Evenement
+            - Gouvernance
+            - Documentation
+            - Données
 
-# /!\   NE PAS MODIFIER CI-DESSOUS   /!\
+# MENTIONS 
 # -------------------------------------------------
-INHERIT: ./docs/admin/env
+
+copyright: Une plateforme sobre et pleine de ❤ - <u><a href="https://www.konsilion.fr/" target="_blank">Konsilion</a></u> - Licence juridique Creative Commons CC-BY-NC
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_css:
+  - https://konsilion.github.io/katalog-setup/css/konsilion-mkdocs.css
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css
+  - css/colors.css

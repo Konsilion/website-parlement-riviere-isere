@@ -12,10 +12,11 @@ hide:
 # A l’écoute de la rivière
 
 
-[Découvrir le Parlement ➜](./pages/qui-sommes-nous/){ .md-button .md-button--primary style="float: right; margin: 10px 0 15px 35px;"}
+[Découvrir le Parlement ➜](./pages/presentation_parlement/){ .md-button .md-button--primary style="float: right; margin: 10px 0 15px 35px;"}
 
 Participation citoyenne, droits de la nature, démarche fluvio-sensible : le **Parlement de la rivière de l’Isère** entend donner une voix à la rivière. 
 
+<br>
 
 ??? Info "En savoir plus ?"
 
@@ -29,7 +30,7 @@ Participation citoyenne, droits de la nature, démarche fluvio-sensible : le **P
 <br>
 
 
-[Actualités](./actualite){ .md-button .md-button--secondary style="float: left; margin-left: 10px; margin-bottom:15px;"}
+[Actualités](./actualite){ .md-button .md-button--secondary style="float: left; margin-left: 0px; margin-bottom:15px;"}
 
 [Nous contacter](./pages/contact/){ .md-button .md-button--secondary style="float: left; margin-left: 10px; margin-bottom:15px;"}
 
@@ -45,7 +46,7 @@ Participation citoyenne, droits de la nature, démarche fluvio-sensible : le **P
     
     .md-container {
         background: rgb(255,255,255,0);
-        background: linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0.6) 20vh, rgba(255,255,255,0.95) 40vh, rgba(255,255,255,1) 50%);
+        background: linear-gradient(180deg, rgba(255,255,255,1) 40%, rgba(255,255,255,0.85) 55%, rgba(255,255,255,0.6) 65%, rgba(255,255,255,0) 90%);
     }
     
     .md-content{
@@ -53,4 +54,12 @@ Participation citoyenne, droits de la nature, démarche fluvio-sensible : le **P
         max-width: 1250px;
         padding: 0 25px;
     }    
+
 </style>
+
+
+
+
+
+
+
