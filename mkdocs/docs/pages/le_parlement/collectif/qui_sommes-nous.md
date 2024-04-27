@@ -1,5 +1,5 @@
 ---
-title: Le Collectif
+title: Le Collectif et ses membres
 hide:
     -toc
 ---

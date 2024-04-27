@@ -1,5 +1,5 @@
 ---
-title: Présentation
+title: Présentation générale
 hide:
     -toc
 ---

@@ -12,13 +12,13 @@ hide:
 # A l’écoute de la rivière
 
 
-[Découvrir le Parlement ➜](./pages/presentation_parlement/){ .md-button .md-button--primary style="float: right; margin: 10px 0 15px 35px;"}
+[Découvrir le Parlement ➜](./pages/le_parlement/presentation_parlement/){ .md-button .md-button--primary style="float: right; margin: 0 0 50px 20px;"}
 
 Participation citoyenne, droits de la nature, démarche fluvio-sensible : le **Parlement de la rivière de l’Isère** entend donner une voix à la rivière. 
 
 <br>
 
-??? Info "En savoir plus ?"
+??? Info "En quelques mots"
 
     En réponse aux inquiétudes des citoyen·ne·s concernant l’eau, sa raréfaction, ses usages et ses pollutions, est né le projet du Parlement de l’Isère. L’objectif est de protéger la rivière et le bien commun qu'est l'eau en prônant la reconnaissance des droits de la nature. 
     
@@ -26,13 +26,17 @@ Participation citoyenne, droits de la nature, démarche fluvio-sensible : le **P
     
     Le Parlement de l’Isère aura une dimension artistique et culturelle pour développer l’attachement à la rivière et créer de nouveaux imaginaires autour du « fluvio-sensible ». Le projet est soutenu par un collectif d’associations : France Nature Environnement Isère, Civipole, l'Assemblée des communs, le Jardin des Initiatives et le Pacte pour le Pouvoir de Vivre. 
 
-
 <br>
 
+[Actualités](./actualite){ .md-button .md-button--secondary style="float: left; margin: 10px 5px 10px 0;"}
 
-[Actualités](./actualite){ .md-button .md-button--secondary style="float: left; margin-left: 0px; margin-bottom:15px;"}
+[Nous contacter](./pages/contact/){ .md-button .md-button--secondary style="float: left; margin: 10px 0 10px 0;"}
 
-[Nous contacter](./pages/contact/){ .md-button .md-button--secondary style="float: left; margin-left: 10px; margin-bottom:15px;"}
+<br><br><br><br><br>
+
+[Facebook :fontawesome-brands-facebook:](https://www.facebook.com/people/Parlement-de-lIs%C3%A8re/61557683175720/){target="_blank" .md-button .md-button--primary style="background-color: rgb(180,220,250, 0.7); border-color: #007AEC; border-width: 2px; color: #007AEC; float: right; margin: 0px 0 15px 5px;"}
+
+[Instagram :fontawesome-brands-instagram:](https://www.instagram.com/parlement_isere/){target="_blank" .md-button .md-button--primary style="background-color: rgb(255,200,220, 0.7); border-color: #C6007E; border-width: 2px; color: #C6007E; float: right; margin: 0px 0 5px 0;"}
 
 
 

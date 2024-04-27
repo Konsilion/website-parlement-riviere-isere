@@ -7,21 +7,23 @@
 
 nav:
 
-    - Accueil: index.md
-        
-    - Le Parlement: 
-        - Présentation du projet: pages/le_parlement/presentation_parlement.md
-        - Le collectif: pages/le_parlement/collectif/qui-sommes-nous.md
-        - Modes de gouvernance: pages/le_parlement/collectif/orga_et_gouvernance.md
+    - Le projet: 
+        - pages/le_parlement/presentation_parlement.md
+        - pages/le_parlement/nos_actions.md
 
-    - Documentation & Données: 
-        - Documentation: pages/documentation.md
-        - Données: pages/donnees.md
+    - Le collectif: 
+        - pages/le_parlement/collectif/qui_sommes-nous.md
+        - pages/le_parlement/collectif/cartographies.md
+        - pages/le_parlement/orga_et_gouvernance.md
 
+    - Documentation & Données:
+        - La documentation: pages/documentation.md
+        - Les données: pages/donnees.md
+    
     - Actualités:
-        - Actualités: actualite/index.md
+        - actualite/index.md
 
-    - Contact: pages/contact.md
+    - Nous contacter: pages/contact.md
 
 
 
