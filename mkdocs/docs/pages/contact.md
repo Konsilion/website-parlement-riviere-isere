@@ -8,7 +8,6 @@ hide:
   - navigation
 ---
 
-<br><br>
 
 # Contact
 

@@ -74,7 +74,7 @@ plugins:
         blog_toc: false
         archive_name: Chronologie
         archive_toc: true
-        categories_name: Thèmatiques
+        categories_name: Thématiques
         categories_toc: true
         categories_allowed:
             - Evenement
