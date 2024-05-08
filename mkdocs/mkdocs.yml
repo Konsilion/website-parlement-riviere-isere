@@ -7,7 +7,7 @@
 
 nav:
 
-    - Accueil: docs/index.md
+    - Accueil: index.md
 
     - Le projet: 
         - pages/le_parlement/presentation_parlement.md
