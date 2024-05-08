@@ -7,11 +7,7 @@
 
 nav:
 
-<<<<<<< HEAD
     - Acceuil: index.md
-=======
-    - Accueil: index.md
->>>>>>> 8c88d944d70f5b049e6a053ad74cafa81da4061c
 
     - Le projet: 
         - pages/le_parlement/presentation_parlement.md
@@ -22,7 +18,7 @@ nav:
         - pages/le_parlement/collectif/cartographies.md
         - pages/le_parlement/orga_et_gouvernance.md
 
-    - Documentation & Données:
+    - L'observatoire de l'eau:
         - La documentation: pages/documentation.md
         - Les données: pages/donnees.md
     
