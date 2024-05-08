@@ -8,3 +8,7 @@ hide:
 
 ---
 
+<style>
+    .h2 {font-weight; 800 !important;}
+    
+</style>

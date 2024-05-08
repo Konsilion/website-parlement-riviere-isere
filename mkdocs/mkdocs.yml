@@ -7,6 +7,8 @@
 
 nav:
 
+    - Acceuil: index.md
+
     - Le projet: 
         - pages/le_parlement/presentation_parlement.md
         - pages/le_parlement/nos_actions.md
