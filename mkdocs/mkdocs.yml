@@ -9,12 +9,9 @@ nav:
 
     - Acceuil: index.md
 
-    - Le projet: pages/le_parlement/presentation_parlement.md
-
-    - Le collectif: 
+    - Le Parlement:
+        - pages/le_parlement/presentation_parlement.md
         - pages/le_parlement/collectif/qui_sommes-nous.md
-        - pages/le_parlement/collectif/cartographies.md
-        - pages/le_parlement/orga_et_gouvernance.md
 
     - Observatoire de l'eau:
         - La documentation: pages/documentation.md
