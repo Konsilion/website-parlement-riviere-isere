@@ -13,10 +13,9 @@ nav:
         - pages/le_parlement/presentation_parlement.md
         - pages/le_parlement/collectif/qui_sommes-nous.md
 
-    - Observatoire de l'eau:
+    - Documentation:
         - La documentation: pages/documentation.md
-        - Les données: pages/donnees.md
-    
+        
     - Actualités:
         - actualite/index.md
 
