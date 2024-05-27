@@ -13,38 +13,20 @@ hide:
 
 ## Le projet du Parlement
 
-L’idée de créer un Parlement de l’Isère naît des initiatives croissantes mondiales, européennes et françaises, de collectifs, groupements citoyens et autres pour représenter les entités naturelles en adoptant un paradigme différent de celui de la protection qui positionne l’humain au-dessus de la nature, et seul susceptible de prétendre au statut de sujet de droit.
+L’idée de créer un Parlement pour la rivière Isère est née des initiatives croissantes mondiales, européennes et françaises, de collectifs, de groupements citoyens pour représenter les entités naturelles. L’objectif est de réfléchir aux **droits de la nature** pour une meilleure protection. Le fleuve Tavignanu en Corse est un exemple parmi d’autres.
 
+L’idée de créer un Parlement de l’Isère grandit également face à l’engouement croissant de **réappropriation démocratique autour des enjeux de l’eau** : raréfaction de la ressource en eau, pollution, répartition de ses usages, nécessité de gérer une telle ressource qui est un bien commun.
 
+La création d’un Parlement de l’Isère répondrait notamment aux inquiétudes des citoyens de la vallée du Grésivaudan et des bassins grenoblois et voironnais. L’opinion publique s’inquiète de l’état des nappes phréatiques affectées par des polluants éternels, ainsi que des rejets industriels dans les cours d’eau, sans compter les perspectives de sécheresse à venir. Les manifestations d’inquiétude expriment un déficit d’information et d’implication des citoyens, pourtant attachés à la qualité et à la quantité de leur eau.
 
-Ainsi, le Parlement de Loire, l’Appel du Rhône, le collectif Tavignanu Vivu, collectifs visant à donner une personnalité juridique à des fleuves, mais aussi l’Institut écocitoyen de Fos-sur-Mer, le collectif des Gammares, les Ambassadeurs de l’Aire, et bien d’autres, sont des éléments d’inspiration permettant la constitution du Parlement de l’Isère, **dont le nom n’est pas plus définitif que la forme**.
+Le Parlement de l’Isère serait un collectif interdépartemental d’associations, de citoyens, d’entreprises, de collectivités et autres organismes qui se réunissent pour s’informer, débattre et faire des propositions.
 
-L’idée du Parlement de l’Isère grandit également face à l’engouement croissant de réappropriation démocratique autour des enjeux de l’eau, notamment suscité par la prise de conscience de la raréfaction de la ressource en eau, des enjeux liés à sa pollution et à la répartition de ses usages, de la nécessité de gérer une telle ressource en **commun**.
+**5 grands axes de travail sont proposés :**
 
-De récentes études nationales montrent l’étendue de la contamination par les substances per- et polyfluoroalkylées (PFAS), ou « polluants éternels », toxiques, bioaccumulables et persistants se déclinant en milliers de composés chimiques ne se dégradant pas dans l’environnement avec le temps et constituant une des contaminations de l’eau, de la faune et de la flore, ayant des risques sur la santé (cancers, augmentation des risques de certaines maladies, cholestérol, etc.).
+* **La constitution d’un observatoire de l’eau** qui aura pour fonction de rassembler et vulgariser d’une manière neutre et indépendante toutes les informations relatives à l’eau (cours d’eau et nappes) qui peuvent impacter les territoires.
+* L’animation d’une **mobilisation citoyenne** autour des enjeux de l’eau.
+* L’animation de **manifestations culturelles et artistiques** autour du même thème afin de révéler et amplifier les attachements à la rivière et à l’eau.
+* Le **plaidoyer et la communication** des suggestions ressorties lors des discussions citoyennes dans les instances publiques de l’eau.
+* Un **groupe de réflexion et d’innovation écologique** autour des enjeux de l’eau et des droits de la nature. 
 
-**Ces enjeux de santé publique conduisent les citoyens et citoyennes à vouloir s’engager afin de protéger la rivière et la biodiversité qu’elle abrite et à défendre ses intérêts. L’enjeu est également d’informer, de sensibiliser et de développer les connaissances autour de l’Isère.**
-
-En ce qui concerne la rivière Isère et son bassin versant, des rejets polluants dans le Drac et la Romanche contaminent l’eau, menacent la biodiversité et risquent d’impacter les champs de captage permettant l’approvisionnement en eau potable. A titre d’exemple, quatre zones sont considérées comme « hot spots » au sud de Grenoble, c’est-à-dire que la concentration de PFAS détectée atteint un niveau estimé dangereux pour la santé.
-
-Les aspects de réappropriation démocratique dépassent la seule question des menaces et pollutions de la rivière : le Parlement entendrait également faire émerger le lien d’attachement émotionnel, développer la fibre culturelle et artistique qui peut exister autour de la rivière, s’attacherait à redécouvrir les liens entre les personnes, la rivière et son environnement, les perceptions de celle-ci. Pour cela, d’autres types d’acteurs et actrices sont inclu.ses : Sciences Po Grenoble et son Master “Transitions Écologiques”, l’ENSAG et son Master « Design, Résilience, Habiter », et des collaborations sont envisagées avec différentes structures de spectacle engagé, des collectifs comme Hydromondes, à la croisée des arts, des sciences et des luttes, l’Assemblée des communs, ou encore Civipole.
-
-
-## Les dimensions du Parlement
-
-Ainsi, l’idée du Parlement mûrit en se voulant multidimensionnelle, avec plusieurs dimensions :
-
-* **Une dimension démocratique et politique incluant les citoyen.nes sur la réflexion autour du partage de l’eau, de la gouvernance de la rivière Isère visant d’abord à créer un groupe de citoyen.es et spécialistes ambassadeur.ices ou gardien.nes de l’Isère, ayant vocation à intégrer
-ensuite les instances de discussion du bassin versant.** Cette dimension passe par le développement d’ateliers citoyens de réflexion autour de l’Isère, de sensibilisation et de formation aux enjeux environnementaux autour de la rivière.
-* **Une dimension écologique et environnementale de suivi des pollutions, et démocratique incluant les citoyen.nes et scientifiques et visant à mieux connaitre les risques et pollutions liées aux activités humaines, notamment industrielles.** Cela passe par la prise de contact avec l’Institut
-écocitoyen, centre d’étude de l’environnement et de l’effet des pollutions sur la santé afin de collaborer avec lui, de solliciter les principaux industriels captant de l’eau issue des nappes du bassin versant afin d’organiser un suivi et dialogue démocratique et transparent sur les captages réalisés. Cette dimension peut aussi être l’occasion d’être le relai des alertes autour de la limitation de la consommation en eau, des mesures de sécheresse, etc.
-* **Une dimension artistique, culturelle, pédagogique introduisant le sensible pour l’appropriation de la rivière par tous et toutes, la sensibilisation à ses enjeux, ainsi qu’une dimension prospective afin d’inventer un futur souhaitable et durable pour la rivière.** Cette dimension passe par l’organisation d’événements culturels permettant de sensibiliser le public, susciter l’engouement citoyen pour le projet, faire émerger différentes voix et perspectives de la rivière.
-
-Le Parlement a vocation à s’appuyer sur :
-
-* Le **soutien des institutions et collectivités** ayant les compétences de l’eau dans le bassin versant de l’Isère.
-* Le **développement d’une structure autonome** composée des associations et autres structures intéressées à prendre part au Parlement sur tout le territoire du bassin versant et animée par FNE Isère.
-* L’ **action** de personnes engagées, attachées à l’Isère, des associations / structures partenaires du Parlement.
-
-
-
+Ce Parlement de la rivière Isère n’a pas vocation à se substituer aux institutions décisionnaires. Il n’aura pas de consistance juridique. Il se propose de porter la voix du public auprès de ces institutions.
