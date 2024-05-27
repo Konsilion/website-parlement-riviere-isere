@@ -7,7 +7,7 @@
 
 nav:
 
-    - Acceuil: index.md
+    - Accueil: index.md
 
     - Le Parlement:
         - pages/le_parlement/presentation_parlement.md
