@@ -9,19 +9,13 @@ nav:
 
     - Acceuil: index.md
 
-    - Le projet: 
+    - Le Parlement:
         - pages/le_parlement/presentation_parlement.md
-        - pages/le_parlement/nos_actions.md
-
-    - Le collectif: 
         - pages/le_parlement/collectif/qui_sommes-nous.md
-        - pages/le_parlement/collectif/cartographies.md
-        - pages/le_parlement/orga_et_gouvernance.md
 
-    - Obeservatoire de l'eau:
+    - Documentation:
         - La documentation: pages/documentation.md
-        - Les données: pages/donnees.md
-    
+        
     - Actualités:
         - actualite/index.md
 
