@@ -23,7 +23,7 @@ Le Parlement de l’Isère serait un collectif interdépartemental d’associati
 
 **5 grands axes de travail sont proposés :**
 
-* **La constitution d’un observatoire de l’eau** qui aura pour fonction de rassembler et vulgariser d’une manière neutre et indépendante toutes les informations relatives à l’eau (cours d’eau et nappes) qui peuvent impacter les territoires.
+* La constitution d’un **observatoire de l’eau** qui aura pour fonction de rassembler et vulgariser d’une manière neutre et indépendante toutes les informations relatives à l’eau (cours d’eau et nappes) qui peuvent impacter les territoires.
 * L’animation d’une **mobilisation citoyenne** autour des enjeux de l’eau.
 * L’animation de **manifestations culturelles et artistiques** autour du même thème afin de révéler et amplifier les attachements à la rivière et à l’eau.
 * Le **plaidoyer et la communication** des suggestions ressorties lors des discussions citoyennes dans les instances publiques de l’eau.
