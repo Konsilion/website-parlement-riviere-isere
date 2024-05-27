@@ -8,7 +8,7 @@ hide:
 
 ---
 
-![logo-accueil](https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/logo-parlement-isere.png?raw=true){style="float: right; max-width:14vw; width: 100px; margin: 25px 0 25px 25px;"}
+![logo-accueil](https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/logo-parlement.png){style="float: right; max-width:14vw; width: 100px; margin: 25px 0 25px 25px;"}
 
 
 ## Le projet du Parlement
