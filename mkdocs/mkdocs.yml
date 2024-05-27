@@ -18,11 +18,7 @@ nav:
         - pages/le_parlement/collectif/cartographies.md
         - pages/le_parlement/orga_et_gouvernance.md
 
-<<<<<<< HEAD
-    - L'observatoire de l'eau:
-=======
     - Obeservatoire de l'eau:
->>>>>>> b160d4e02945ce9994a19cb5c2b6160b0e404daf
         - La documentation: pages/documentation.md
         - Les données: pages/donnees.md
     
