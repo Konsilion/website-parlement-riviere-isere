@@ -24,7 +24,7 @@ Participation citoyenne, droits de la nature, démarche fluvio-sensible : le **P
     
     Le Parlement de l’Isère a vocation à devenir un espace public de discussion sur l’eau ouvert à tous-tes pour une réappropriation démocratique des enjeux de l’eau. Il serait adossé à un observatoire de l’eau qui rassemblerait et vulgariserait de manière neutre et indépendante les données disponibles sur l’eau. 
     
-    Le Parlement de l’Isère aura une dimension artistique et culturelle afin de développer l’attachement à la rivière et créer de nouveaux imaginaires autour du « fluvio-sensible ». Le projet est soutenu par un collectif d’associations : France Nature Environnement Isère, Civipole, l'Assemblée des communs, le Jardin des Initiatives et le Pacte pour le Pouvoir de Vivre. 
+    Le Parlement de l’Isère aura une dimension artistique et culturelle afin de développer l’attachement à la rivière et créer de nouveaux imaginaires autour du « fluvio-sensible ». Le projet est soutenu par un collectif d’associations : France Nature Environnement Isère, Civipole, l'Assemblée des communs, le Jardin des Initiatives et le Pacte du Pouvoir de Vivre Isère. 
 
 <br>
 
