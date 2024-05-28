@@ -9,7 +9,7 @@ categories:
 date: 2024-03-18
 ---
 
-#  Retour sur les actions passées Ateliers porteur de paroles sur l’eau (14-15-16 mars)
+#  Ateliers porteur de paroles sur l’eau (14-15-16 mars)
 
  ![image](https://github.com/Konsilion/konsilion-drive/blob/main/Ateliers_porteur_de_paroles.png?raw=true){style="width: 400px; heigth: 450px"}
 

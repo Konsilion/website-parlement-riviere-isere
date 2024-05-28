@@ -6,24 +6,24 @@ hide:
 
 # Qui sommes-nous ? 
 
-## L'idée de "Collectif" autour d'un commun
+## France Nature Environnement Isère
 
 (à définir)
 
-## Les membres et leur rôle(s)
+## Civipole
 
 (à définir)
 
-# Les liens entre les membres
+## L'Assemblée des communs
 
-## Des valeurs communes
+(à définir)
+
+## Le Jardin des Initiatives
+
+(à définir)
+
+## Le Pacte du Pouvoir de Vivre Isère
 
 (à définir)
 
 
-## Cartographie des acteurs et de leurs connexions
-
-(à définir)
-
-
-(...)
