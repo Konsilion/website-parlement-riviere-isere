@@ -14,7 +14,10 @@ nav:
         - pages/le_parlement/collectif/qui_sommes-nous.md
 
     - Documentation:
-        - La documentation: pages/documentation.md
+        - Etudes & Rapports: pages/documentation/etudes_rapports.md
+        - Presse: pages/documentation/presse.md
+        - Vidéos & Podcasts: pages/documentation/media.md
+        - Données: pages/documentation/données.md
         
     - Actualités:
         - actualite/index.md
