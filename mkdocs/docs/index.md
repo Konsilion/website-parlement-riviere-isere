@@ -6,7 +6,7 @@ hide:
 ---
 
 
-![logo-accueil](https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/Le%20Parlement%20de%20la%20rivi%C3%A8re%20Is%C3%A8re.jpg){style="width: 600px; heigth: 450px; max-width: 100%"}
+![logo-accueil](https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/banniere-parlement-isere.png?raw=true){style="width: 600px; heigth: 450px; max-width: 100%"}
 
 
 # A l’écoute de la rivière
