@@ -9,15 +9,13 @@ nav:
 
     - Accueil: index.md
 
-    - Le Parlement:
-        - pages/le_parlement/presentation_parlement.md
-        - pages/le_parlement/collectif/qui_sommes-nous.md
+    - Le Parlement: pages/le_parlement/presentation_parlement.md
 
     - Documentation:
         - Etudes & Rapports: pages/documentation/etudes_rapports.md
-        - Presse: pages/documentation/presse.md
-        - Vidéos & Podcasts: pages/documentation/media.md
-        - Données: pages/documentation/données.md
+        - Articles de presse: pages/documentation/article_presse.md
+        - Vidéos & Podcasts: pages/documentation/videos_podcast.md
+        - Données: pages/documentation/data.md
         
     - Actualités:
         - actualite/index.md
@@ -85,7 +83,7 @@ plugins:
 # MENTIONS 
 # -------------------------------------------------
 
-copyright: Une plateforme sobre et pleine de ❤ - <u><a href="https://www.konsilion.fr/" target="_blank">Konsilion</a></u> - Licence juridique Creative Commons CC-BY-NC
+copyright: Une plateforme sobre et pleine de ❤ - <u><a href="https://www.konsilion.fr/" target="_blank">Konsilion</a></u>
 
 markdown_extensions:
   - tables
