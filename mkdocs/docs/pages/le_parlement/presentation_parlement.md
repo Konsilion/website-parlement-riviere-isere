@@ -63,12 +63,12 @@ hide:
         <div class="ksln-cards" style="margin: 0px auto auto auto;">
             <h3><img src="https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/logo%20jardin%20des%20initiatives.png?raw=true" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
             <b>Le Jardin des Initiatives</b></h3>
-            <a class="md-button md-button--primary" href="[https://www.le-tamis.info/structure/le-jardin-des-initiatives](https://jardin-des-initiatives6.webnode.page/)" target="_blank">Lien</a>
+            <a class="md-button md-button--primary" href="https://jardin-des-initiatives6.webnode.page/" target="_blank">Lien</a>
         </div>
         <div class="ksln-cards" style="margin: 0px auto auto auto;">
             <h3><img src="https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/Logo-Pacte-Pouvoir-Vivre.png?raw=true" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
             <b>Le Pacte du pouvoir vivre</b></h3>
-            <a class="md-button md-button--primary" href="[https://www.pactedupouvoirdevivre.fr/](https://www.pactedupouvoirdevivre.fr/isere)" target="_blank">Lien</a>
+            <a class="md-button md-button--primary" href="https://www.pactedupouvoirdevivre.fr/isere" target="_blank">Lien</a>
         </div>
     </div>
 
