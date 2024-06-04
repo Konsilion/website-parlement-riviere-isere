@@ -8,9 +8,6 @@ date: 2024-05-01
 
 # Première session du Parlement de l’Isère 
 
-!!! quote "Date à venir - automne 2024" 
-
-    
 
 Pour mener à bien cet événement, nous voulons constituer ^^3 groupes de travail^^ ouverts à celles et ceux qui voudraient s’investir :
 
