@@ -8,7 +8,7 @@ date: 2024-09-15
 
 # Réunion préparatoire de la 1re session du Parlement
 
-https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/R%C3%A9union%20de%20synth%C3%A8se%20des%20groupes%20de%20travail.png?raw=true{style="width: 400px; heigth: 450px"}
+ ![image](https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/R%C3%A9union%20de%20synth%C3%A8se%20des%20groupes%20de%20travail.png?raw=true){style="width: 400px; heigth: 450px"}
 
 La première session du Parlement de la rivière Isère aura lieu à l’automne prochain ! 🍂
 
