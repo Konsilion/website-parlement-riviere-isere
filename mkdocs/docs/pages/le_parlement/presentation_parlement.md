@@ -22,29 +22,25 @@ Les dimensions du Parlement :
 
     !!! tip ""
     
-         * Une dimension **politique et citoyenne** : Créer un espace public de discussion sur l’eau ouvert à tous·tes pour élargir la participation citoyenne et porter la parole citoyenne auprès des institutions. 
+        * Une dimension **politique et citoyenne** : Créer un espace public de discussion sur l’eau ouvert à tous·tes pour élargir la participation citoyenne et porter la parole citoyenne auprès des institutions. 
         * Une dimension **scientifique** : Constituer un observatoire de l’eau qui rassemblerait et vulgariserait de manière neutre et indépendante les données disponibles sur l’eau.
         * Une dimension **juridique** : Engager une réflexion sur les droits de la nature et considérer la rivière comme une entité ayant une valeur intrinsèque et pouvant prétendre à la personnalité juridique et morale.
         * Une dimension **culturelle et artistique** : Développer l’attachement à la rivière et à l’eau et créer de nouveaux imaginaires autour du « fluvio-sensible » par différentes formes (récits, peinture, podcast, balades, spectacles, etc.).
-
+        
+    Le projet est soutenu par un **collectif d’associations** : France Nature Environnement Isère, Civipole, l'Assemblée des communs, le Jardin des Initiatives et le Pacte du Pouvoir de Vivre Isère. 
     
-Le projet est soutenu par un **collectif d’associations** : France Nature Environnement Isère, Civipole, l'Assemblée des communs, le Jardin des Initiatives et le Pacte du Pouvoir de Vivre Isère. 
-
-Des étudiant·e·s de Sciences Po Grenoble et de l’École Nationale Supérieure d’Architecture de Grenoble ont également travaillé sur le projet pour des rapports ou mémoires. 
-
-La gouvernance et les contours de ce Parlement restent encore à déterminer. Il n’a cependant pas vocation à se substituer aux institutions décisionnaires mais se propose d’être une instance de plaidoyer auprès de celles-ci. 
-
-Après plusieurs événements (café-rencontre, atelier porteur de paroles, interventions diverses, …), une première session à l’automne 2024 lancera véritablement le Parlement.
-
-
+    Des étudiant·e·s de Sciences Po Grenoble et de l’École Nationale Supérieure d’Architecture de Grenoble ont également travaillé sur le projet pour des rapports ou mémoires. 
+    
+    La gouvernance et les contours de ce Parlement restent encore à déterminer. Il n’a cependant pas vocation à se substituer aux institutions décisionnaires mais se propose d’être une instance de plaidoyer auprès de celles-ci. 
+    
+    Après plusieurs événements (café-rencontre, atelier porteur de paroles, interventions diverses, …), une première session à l’automne 2024 lancera véritablement le Parlement.
 
 === "Qui sommes-nous ? "
 
     Le Parlement de la rivière Isère est un collectif d'associations. Fonctionnant en archipel, il s'organise autour d'un projet commun sans pour autant créer une nouvelle structure.
     
     Un archipel est un ensemble de structures relativement proches les unes des autres. Cette notion est utilisée pour désigner un mode d'appropriation spécifique de sujets et thématiques entre des éléments indépendants, entretenant néanmoins des liens importants. 
-    
-    
+     
     ## Les différentes structures
         
     <div class="ksln-grid">
