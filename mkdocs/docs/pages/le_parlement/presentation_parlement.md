@@ -14,25 +14,28 @@ hide:
 
 === "Le projet du Parlement ?"
 
-    L'opinion publique s'inquiète des usages de l'eau dans la vallée du Grésivaudan, dans les bassins grenoblois et voironnais. Elle s'inquiète aussi de l'état des nappes phréatiques affectées par des polluants éternels et elle s'inquiète des rejets industriels dansles cours d'eau, sans compter les perspectives de sécheresse à venir. Le déficit d'information est criant et les manifestations d'inquiétude expriment un défa ut d'information et d'implication des citoyens qui sont attachés à la qualité et à la quantité de leur eau.
-    
-    En réponse à cette inquiétude, les associations France Nature Environnement Isère, Civipole, l'Assemblée des Communs, le Jardin des Initiatives et le Pacte du Pouvoir de Vivre Isère proposent le projet de **Parlement de la rivière Isère** qui prévoit les éléments suivants : 
-    
+    En réponse aux inquiétudes des citoyen·ne·s concernant l’eau, sa raréfaction, ses pollutions et son accaparement, est né le projet du Parlement de la rivière Isère. 
+
+L’objectif est de **protéger la rivière** et le **bien commun** qu'est l'eau par la reconnaissance de **droits à la nature** et la **réappropriation démocratique des enjeux de l’eau**. 
+
+Les dimensions du Parlement :
+
     !!! tip ""
     
-        * La constitution d’un **observatoire de l’eau** qui aura pour fonction de rassembler et vulgariser d’une manière neutre et indépendante toutes les informations relatives à l’eau (cours d’eau et nappes) qui peuvent impacter les territoires.
-        * L’animation d’une **mobilisation citoyenne** autour des enjeux de l’eau.
-        * L’animation de **manifestations culturelles et artistiques** autour du même thème afin de révéler et amplifier les attachements à la rivière et à l’eau.
-        * Le **plaidoyer et la communication** des suggestions ressorties lors des discussions citoyennes dans les instances publiques de l’eau.
-        * Un **groupe de réflexion et d’innovation écologique** autour des enjeux de l’eau et des droits de la nature. 
+         * Une dimension **politique et citoyenne** : Créer un espace public de discussion sur l’eau ouvert à tous·tes pour élargir la participation citoyenne et porter la parole citoyenne auprès des institutions. 
+        * Une dimension **scientifique** : Constituer un observatoire de l’eau qui rassemblerait et vulgariserait de manière neutre et indépendante les données disponibles sur l’eau.
+        * Une dimension **juridique** : Engager une réflexion sur les droits de la nature et considérer la rivière comme une entité ayant une valeur intrinsèque et pouvant prétendre à la personnalité juridique et morale.
+        * Une dimension **culturelle et artistique** : Développer l’attachement à la rivière et à l’eau et créer de nouveaux imaginaires autour du « fluvio-sensible » par différentes formes (récits, peinture, podcast, balades, spectacles, etc.).
+
     
-    
-    
-    Pour cela le Parlement se propose de fédérer toutes les personnes privées ou publiques qui sont ou se sentent concernées par le devenir de la rivière, autant que le devenir des masses d'eau souterrainesCe Parlement de la rivière Isère n’a pas vocation à se substituer aux institutions décisionnaires. Il n’aura pas de consistance juridique. Il se propose de porter la voix du public auprès de ces institutions.
-    
-    L’idée de créer un Parlement de l’Isère est née des initiatives croissantes mondiales, européennes et françaises, de collectifs, de groupements citoyens pour représenter les entités naturelles. L’objectif est de réfléchir aux droits de la nature pour une meilleure protection. Le fleuve Tavignanu en Corse est un exemple parmi d’autres.
-    
-    L’idée de créer un Parlement de l’Isère grandit également face à l’engouement croissant de **réappropriation démocratique autour des enjeux de l’eau** : raréfaction de la ressource en eau, pollution, répartition de ses usages, nécessité de gérer une telle ressource qui est un bien commun.
+Le projet est soutenu par un **collectif d’associations** : France Nature Environnement Isère, Civipole, l'Assemblée des communs, le Jardin des Initiatives et le Pacte du Pouvoir de Vivre Isère. 
+
+Des étudiant·e·s de Sciences Po Grenoble et de l’École Nationale Supérieure d’Architecture de Grenoble ont également travaillé sur le projet pour des rapports ou mémoires. 
+
+La gouvernance et les contours de ce Parlement restent encore à déterminer. Il n’a cependant pas vocation à se substituer aux institutions décisionnaires mais se propose d’être une instance de plaidoyer auprès de celles-ci. 
+
+Après plusieurs événements (café-rencontre, atelier porteur de paroles, interventions diverses, …), une première session à l’automne 2024 lancera véritablement le Parlement.
+
 
 
 === "Qui sommes-nous ? "
