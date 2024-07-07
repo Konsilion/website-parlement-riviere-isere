@@ -15,7 +15,6 @@ nav:
         - Etudes & Rapports: pages/documentation/etudes_rapports.md
         - Articles de presse: pages/documentation/article_presse.md
         - Vidéos & Podcasts: pages/documentation/videos_podcast.md
-        - Données: pages/documentation/data.md
         
     - Actualités:
         - actualite/index.md
