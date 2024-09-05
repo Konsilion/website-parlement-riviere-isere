@@ -5,8 +5,15 @@ hide:
   - navigation
 ---
 
+[Facebook :fontawesome-brands-facebook:](https://www.facebook.com/people/Parlement-de-lIs%C3%A8re/61557683175720/){target="_blank" .md-button .md-button--primary style="background-color: rgb(180,220,250, 0.7); border-color: #007AEC; border-width: 2px; color: #007AEC; float: right; margin: 0px 0 15px 5px;"}
+
+[Instagram :fontawesome-brands-instagram:](https://www.instagram.com/parlement_isere/){target="_blank" .md-button .md-button--primary style="background-color: rgb(255,200,220, 0.7); border-color: #C6007E; border-width: 2px; color: #C6007E; float: right; margin: 0px 0 5px 0;"}
+
+[LinkedIn :fontawesome-brands-linkedin:](https://www.linkedin.com/company/parlement-de-la-rivi%C3%A8re-is%C3%A8re){target="_blank" .md-button .md-button--primary style="background-color: rgb(180,220,250, 0.7); border-color: #007AEC; border-width: 2px; color: #007AEC; float: right; margin: 0px 0 15px 5px;"}
+
 
 ![logo-accueil](https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/banniere-parlement-isere.png?raw=true){style="width: 450px; max-width: 100%"}
+
 
 
 # A l’écoute de la rivière
@@ -43,13 +50,6 @@ Participation citoyenne, droits de la nature, démarche fluvio-sensible : le **P
 [Nous contacter](./pages/contact/){ .md-button .md-button--secondary style="float: left; margin: 10px 0 10px 0;"}
 
 <br><br><br><br><br>
-
-[Facebook :fontawesome-brands-facebook:](https://www.facebook.com/people/Parlement-de-lIs%C3%A8re/61557683175720/){target="_blank" .md-button .md-button--primary style="background-color: rgb(180,220,250, 0.7); border-color: #007AEC; border-width: 2px; color: #007AEC; float: right; margin: 0px 0 15px 5px;"}
-
-[Instagram :fontawesome-brands-instagram:](https://www.instagram.com/parlement_isere/){target="_blank" .md-button .md-button--primary style="background-color: rgb(255,200,220, 0.7); border-color: #C6007E; border-width: 2px; color: #C6007E; float: right; margin: 0px 0 5px 0;"}
-
-[LinkedIn :fontawesome-brands-linkedin:](https://www.linkedin.com/company/parlement-de-la-rivi%C3%A8re-is%C3%A8re){target="_blank" .md-button .md-button--primary style="background-color: rgb(180,220,250, 0.7); border-color: #007AEC; border-width: 2px; color: #007AEC; float: right; margin: 0px 0 15px 5px;"}
-
 
 <style>
     body { 
