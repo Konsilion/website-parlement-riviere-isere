@@ -45,7 +45,7 @@ Participation citoyenne, droits de la nature, démarche fluvio-sensible : le **P
 <br>
 
 
-??? Info "En quelques mots"
+??? Info "Le Parlement en quelques mots"
 
     En réponse aux inquiétudes des citoyen·ne·s concernant l’eau, sa raréfaction, ses usages et ses pollutions, est né le projet du Parlement de l’Isère. L’objectif est de protéger la rivière et le bien commun qu'est l'eau en prônant la reconnaissance des droits de la nature. 
     
