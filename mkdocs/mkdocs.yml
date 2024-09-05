@@ -17,6 +17,8 @@ nav:
         - Vidéos & Podcasts: pages/documentation/videos_podcast.md
 
     - Nous contacter: pages/contact.md
+    
+    - Actualités: actualite/index.md
 
 
 
