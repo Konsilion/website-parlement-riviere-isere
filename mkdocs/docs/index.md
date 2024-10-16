@@ -19,33 +19,6 @@ hide:
 Participation citoyenne, droits de la nature, démarche fluvio-sensible : le **Parlement de la rivière Isère** entend donner une voix à la rivière. 
 
 
-!!! tip ""
-    ## Première session du Parlement : WE du 28 & 29 septembre 2024
-    
-    **Maison des habitants centre ville** 
-    2 Rue du Vieux Temple, 38000 Grenoble
-    
-    ### Programme du WE
-    
-    **Samedi :**
-    
-    * 9h : Accueil 
-    * 9h30 : Présentation du projet du Parlement de la rivière Isère : contexte et intentions
-    * 10h : Récit sur la géographie et l'histoire de la rivière Isère
-    * 11h : Atelier « Les voix de l'Isère » : Imaginaire et représentation de la rivière Isère
-        
-    -- Repas de midi (prix accessible)
-    
-    * 14h : Faire ensemble : atelier sur la gouvernance et la structuration du Parlement de la rivière Isère 
-    * 15h30 : Ateliers « world café » sur les dimensions juridique, artistique et scientifique
-    * 17h30 : Conclusion avec une déclaration de principe
-
-    **Dimanche :**
-    
-    * 10h : Prendre soin de nos eaux : balade/nettoyage le long de l’Isère. *(RDV à la Fontaine au Lion, 105 rue Saint-Laurent, Grenoble)*
-
-
-
 <br>
 
 
