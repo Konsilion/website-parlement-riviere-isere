@@ -19,7 +19,7 @@ Participation citoyenne, droits de la nature, démarche fluvio-sensible : le **P
 
 <br><br>
 
-[Compte Rendu de la Première Session ➜](https://nuage.phoenix-conseil.org/s/KYyDpRiMgfqjFMs){ .md-button .md-button--secondary style="margin: 20px 0 50px 0px;"}
+[Compte Rendu de la Première Session ➜](https://parlement-isere.org/pages/cr/premiere_session/){ .md-button .md-button--secondary style="margin: 20px 0 50px 0px;"}
 
 <br>
 
