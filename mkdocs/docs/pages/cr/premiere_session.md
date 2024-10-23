@@ -11,7 +11,5 @@ Vieux Temple), s’est déroulée la première session du Parlement de la riviè
 Une cinquantaine de personnes ont participé à ce premier moment fort qui lance véritablement le
 Parlement de la rivière Isère, en gestation depuis deux ans.
 
-<br>
-
 [Compte Rendu de la Première Session ➜](https://nuage.phoenix-conseil.org/s/KYyDpRiMgfqjFMs){ .md-button .md-button--primary style="margin: 20px 0 50px 0px;"}
 
