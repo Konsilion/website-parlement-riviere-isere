@@ -13,11 +13,13 @@ hide:
 
 # A l’écoute de la rivière
 
+[Découvrir le Parlement ➜](./pages/le_parlement/presentation_parlement/){ .md-button .md-button--primary style="float: right; margin: 0 0 50px 20px;"}
+
 Participation citoyenne, droits de la nature, démarche fluvio-sensible : le **Parlement de la rivière Isère** entend donner une voix à la rivière. 
+
 <br><br>
 
-[Découvrir le Parlement ➜](./pages/le_parlement/presentation_parlement/){ .md-button .md-button--primary style="margin: 0 0 50px 20px;"}
-[Compte Rendu de la Première Session ➜](https://nuage.phoenix-conseil.org/s/KYyDpRiMgfqjFMs){ .md-button .md-button--primary style="margin: 0 0 50px 20px;"}
+[Compte Rendu de la Première Session ➜](https://nuage.phoenix-conseil.org/s/KYyDpRiMgfqjFMs){ .md-button .md-button--secondary style="margin: 20px 0 50px 0px;"}
 
 <br>
 
