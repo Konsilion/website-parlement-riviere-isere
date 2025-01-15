@@ -7,8 +7,6 @@ hide:
 
 ---
 
-![QRcode WhatsApp GT Sciences](https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/WhatsApp%20-%20GT%20Sciences.png?raw=true){style="width: 200px; max-width: 100%; float: right"}
-
 * Lien vers le groupe de discussion WhatsApp : [Cliquer ici](https://chat.whatsapp.com/Cg6IxKsEGKu0NHbYyJ3jR3)
 
 **Dossier de travail**
@@ -19,3 +17,6 @@ hide:
 
 * Nicolas Brémond - nicolas.bremond@konsilion.fr
 * ???
+
+
+![QRcode WhatsApp GT Sciences](https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/WhatsApp%20-%20GT%20Sciences.png?raw=true){style="width: 200px; max-width: 100%; float: right"}
