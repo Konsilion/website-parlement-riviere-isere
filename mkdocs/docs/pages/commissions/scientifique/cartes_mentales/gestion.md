@@ -24,13 +24,14 @@ hide:
     margin: 0 !important;
     padding-top: 0 !important;
   }
+  
   .iframe-container {
       top: 50px; /* Décalage par défaut de 50px */
   }
 
   @media (min-width: 1220px) {
       .iframe-container {
-          top: 100px; /* Décalage de 100px pour les écrans de largeur supérieure à 1219px */
+          top: 100px !important; /* Décalage de 100px pour les écrans de largeur supérieure à 1219px */
       }
   }
 
