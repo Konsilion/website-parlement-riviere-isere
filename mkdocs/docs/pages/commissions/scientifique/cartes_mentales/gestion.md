@@ -19,14 +19,14 @@ hide:
     top: 50px; /* Décalage par défaut */
     left: 0;
     width: 100%;
-    height: calc(100% - 50px); /* Ajustement de la hauteur en fonction du top */
+    height: calc(100% - 55px); /* Ajustement de la hauteur en fonction du top */
   } 
   
   /* Media query pour écrans larges */
   @media (min-width: 1220px) { 
     .iframe-container { 
       top: 100px; /* Décalage augmenté */
-      height: calc(100% - 100px); /* Ajustement correspondant */
+      height: calc(100% - 105px); /* Ajustement correspondant */
     }
   }
 
