@@ -1,0 +1,34 @@
+:root > * {--md-primary-fg-color: #0D756A !important}
+
+.md-tabs {background-color: #074942}
+
+.md-header__source {display: none}
+
+.md-typeset__table thead {
+    background-color: #0D756A; /* Vert d'eau */
+    color: #ffffff; /* Texte blanc pour le contraste */
+}
+
+.md-content {margin-bottom: 75px !important;}
+
+/* Style pour les titres h1 */
+h1 {
+    font-weight: 700 !important; /* Gras */
+    color: #0D756A !important; /* Vert d'eau */
+}
+
+/* Style pour les titres h2 */
+h2 {
+    font-weight: 700 !important; /* Gras */
+}
+
+/* Style pour les titres h3 */
+h3 {
+    font-style: italic !important; /* Italique */
+    color: #0D756A !important; /* Vert d'eau */
+}
+
+.md-content p,
+.md-content li {
+    text-align: justify;
+}
