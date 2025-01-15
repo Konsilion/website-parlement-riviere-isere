@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# Nous rejoindre
+# Rejoindre le Groupe de Travail - Sciences
 
 ---
 
