@@ -11,6 +11,7 @@ hide:
 **Groupe WhatsApp**
 
 * Lien vers le groupe de discussion WhatsApp : [Cliquer ici](https://chat.whatsapp.com/Cg6IxKsEGKu0NHbYyJ3jR3)
+* [Afficher le QR code](https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/WhatsApp%20-%20GT%20Sciences.png?raw=true)
 
 **Dossier de travail**
 
