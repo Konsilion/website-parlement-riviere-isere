@@ -63,5 +63,6 @@ extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css
   - personnel.css
   - https://konsilion.github.io/katalog-setup/css/konsilion-mkdocs.css
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css
 
 copyright: Une plateforme développé avec ❤ par Nicolas Brémond pour le Collectif du Parlement de la rivière Isère.
