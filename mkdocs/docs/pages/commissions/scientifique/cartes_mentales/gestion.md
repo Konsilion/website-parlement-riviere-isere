@@ -25,7 +25,6 @@ hide:
     padding-top: 0 !important;
   }
   .iframe-container {
-      position: relative;
       top: 50px; /* Décalage par défaut de 50px */
   }
 
