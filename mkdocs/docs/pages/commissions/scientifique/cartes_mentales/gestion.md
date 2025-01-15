@@ -6,10 +6,10 @@ hide:
 
 
 
-<body style="margin:0px;padding:0px;overflow:hidden">
-    <iframe src="https://embed.kumu.io/b3d59a64f47bc07d82f594c808a8a6b3" frameborder="0" style="overflow:hidden;height:100%;width:100%" height="100%" width="100%"></iframe>
-</body>
 
+ <div id="fakeiframe" style="height: 500px; width: 800px; overflow-y: scroll; overflow-x: hidden;">
+   <iframe src="https://embed.kumu.io/b3d59a64f47bc07d82f594c808a8a6b3" style="width: 1500px; height: 2000px;"></iframe>
+ </div>
 
 <style>
   h1 {display: none !important;}
