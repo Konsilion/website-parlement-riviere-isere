@@ -1,10 +1,11 @@
 ---
 hide:
+  - toc
   - navigation
 ---
 
 <div class="iframe-container" style="margin:0px;padding:0px;overflow:hidden">
-    <iframe name="iframe" onload="totop()" src="https://embed.kumu.io/b3d59a64f47bc07d82f594c808a8a6b3?scroll=1" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:100%;width:100%;left:0px;right:0px;bottom:0px" height="100%" width="100%"></iframe>
+    <iframe name="iframe" src="https://embed.kumu.io/b3d59a64f47bc07d82f594c808a8a6b3?scroll=1" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:100%;width:100%;left:0px;right:0px;bottom:0px" height="100%" width="100%"></iframe>
 </div>
 
 <style>
