@@ -16,17 +16,17 @@ hide:
   /* Style pour la container */
   .iframe-container { 
     position: absolute; 
-    top: 50px; /* Décalage par défaut */
+    top: 52px; /* Décalage par défaut */
     left: 0;
     width: 100%;
-    height: calc(100% - 55px); /* Ajustement de la hauteur en fonction du top */
+    height: calc(100% - 103px); /* Ajustement de la hauteur en fonction du top */
   } 
   
   /* Media query pour écrans larges */
   @media (min-width: 1220px) { 
     .iframe-container { 
-      top: 100px; /* Décalage augmenté */
-      height: calc(100% - 105px); /* Ajustement correspondant */
+      top: 102px; /* Décalage augmenté */
+      height: calc(100% - 153px); /* Ajustement correspondant */
     }
   }
 
