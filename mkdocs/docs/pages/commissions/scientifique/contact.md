@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Nous rejoindre
 
 **Discussion WhatsApp**
