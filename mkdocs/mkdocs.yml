@@ -1,5 +1,4 @@
 nav:
-
     - Accueil: index.md
 
     - Le Parlement: pages/le_parlement/presentation_parlement.md
@@ -12,6 +11,8 @@ nav:
     - Nous contacter: pages/contact.md
 
 
+
+
 site_name: Parlement de la rivière Isère
 site_author: Nicolas Brémond
 site_description: A l'écoute de la rivière et de ses affluents.
@@ -19,7 +20,6 @@ site_url: https://konsilion.github.io/website-parlement-riviere-isere
 repo_url: https://github.com/konsilion/website-parlement-riviere-isere
 repo_name: konsilion/website-parlement-riviere-isere
 edit_uri: edit/master/mkdocs/docs/
-
 
 extra:
     generator: false
@@ -61,5 +61,6 @@ markdown_extensions:
 
 extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css
+  - personnel.css
 
 copyright: Une plateforme développé avec ❤ par Nicolas Brémond pour le Collectif du Parlement de la rivière Isère.
