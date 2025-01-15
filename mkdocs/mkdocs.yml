@@ -1,10 +1,3 @@
-# BIENVENU ! MODIFIER ICI LES PARAMETRES DE VOTRE PLATEFORME KATALOG
-# -------------------------------------------------
-
-
-# NAVIGATION
-# -------------------------------------------------
-
 nav:
 
     - Accueil: index.md
@@ -19,26 +12,20 @@ nav:
     - Nous contacter: pages/contact.md
 
 
-# SITE INFORMATIONS 
-# -------------------------------------------------
-
 site_name: Parlement de la rivière Isère
 site_author: Nicolas Brémond
 site_description: A l'écoute de la rivière et de ses affluents.
+site_url: https://konsilion.github.io/website-parlement-riviere-isere
 repo_url: https://github.com/konsilion/website-parlement-riviere-isere
+repo_name: konsilion/website-parlement-riviere-isere
+edit_uri: edit/master/mkdocs/docs/
+
 
 extra:
-  katalog_repo: "https://github.com/Konsilion/website-parlement-riviere-isere"
-  katalog_site: ""
-  katalog_mdp: "azerty123"
+    generator: false
   
-
-
-# /!\   NE PAS MODIFIER CI-DESSOUS   /!\
-# -------------------------------------------------
 theme:
     name: material
-    language: fr
     palette:
         primary: blue grey
         accent: blue
@@ -51,34 +38,13 @@ theme:
       - navigation.tabs
       - navigation.tabs.sticky
       - navigation.expand
+    language: fr
       
-extra:
-  generator: false
-
 plugins:
   - macros
+  - search
   - mkdocs-video
   - tags
-  - search
-  - blog:
-        blog_dir: actualite
-        archive: true
-        post_readtime_words_per_minute: 390
-        blog_toc: false
-        archive_name: Chronologie
-        archive_toc: true
-        categories_name: Thématiques
-        categories_toc: true
-        categories_allowed:
-            - Evenement
-            - Gouvernance
-            - Documentation
-            - Données
-
-# MENTIONS 
-# -------------------------------------------------
-
-copyright: Une plateforme sobre et pleine de ❤ - <u><a href="https://www.konsilion.fr/" target="_blank">Konsilion</a></u>
 
 markdown_extensions:
   - tables
@@ -92,16 +58,8 @@ markdown_extensions:
       anchor_linenums: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
-  - pymdownx.critic
-  - pymdownx.caret
-  - pymdownx.keys
-  - pymdownx.mark
-  - pymdownx.tilde
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra_css:
-  - https://konsilion.github.io/katalog-setup/css/konsilion-mkdocs.css
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css
-  - admin/colors.css
+
+copyright: Une plateforme développé avec ❤ par Nicolas Brémond pour le Collectif du Parlement de la rivière Isère.
