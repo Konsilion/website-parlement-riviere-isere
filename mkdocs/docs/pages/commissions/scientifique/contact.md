@@ -14,6 +14,6 @@ Lien vers le dossier de travail (Drive) : [Cliquer ici](https://drive.google.com
 * Nicolas Brémond - nicolas.bremond@konsilion.fr
 * ???
 
---
+---
 
 ![QRcode WhatsApp GT Sciences](https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/WhatsApp%20-%20GT%20Sciences.png?raw=true){style="width: 200px; max-width: 100%; float: right"}
