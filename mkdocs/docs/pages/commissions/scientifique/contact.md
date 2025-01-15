@@ -1,7 +1,7 @@
 # Nous rejoindre
 
 
-**WhatsApp**
+**Discussion WhatsApp**
 
 Lien vers la groupe de discussion : [Cliquer ici](https://chat.whatsapp.com/Cg6IxKsEGKu0NHbYyJ3jR3)
 
@@ -9,7 +9,7 @@ Lien vers la groupe de discussion : [Cliquer ici](https://chat.whatsapp.com/Cg6I
 
 Lien vers le dossier de travail (Drive) : [Cliquer ici](https://drive.google.com/drive/folders/1ftQkwXW_yrAfSbwhLJ6lXW3MVYIHM7_u?usp=sharing)
 
-**Les référent.e.s** :
+**Référent.e.s**
 
 * Nicolas Brémond - nicolas.bremond@konsilion.fr
 * ???
