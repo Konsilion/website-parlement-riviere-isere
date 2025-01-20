@@ -16,10 +16,6 @@
 .md-header__source {display: none}
 
 
-
-
-
-
 @media only screen and (min-width: 1220px) {
     .md-sidebar--primary .md-nav__item > a {
         border-radius: 7px 0 0 7px !important;
@@ -29,7 +25,22 @@
         margin-right: 0 !important;
         box-shadow: rgba(0, 0, 0, 0.01) 5px 0px 5px 5px inset, rgba(0, 0, 0, 0.1) 5px 0px 5px 0px !important;
     }
+
+	.md-nav--primary .md-nav__item > .md-nav__link {
+		border-radius: 10px;
+	}
+	
+	.md-sidebar.md-sidebar--primary > * {
+		border-right: 1px solid #CCC;
+    }    
 }
+
+
+
+
+
+
+
 
 
 .ksln-grid {
