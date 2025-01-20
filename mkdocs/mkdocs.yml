@@ -15,7 +15,7 @@ nav:
 
 site_name: Parlement de la rivière Isère
 site_author: Nicolas Brémond
-site_description: A l'écoute de la rivière et de ses affluents.
+site_description: Ecouter la rivière et ses affluents.
 site_url: https://konsilion.github.io/website-parlement-riviere-isere
 repo_url: https://github.com/konsilion/website-parlement-riviere-isere
 repo_name: konsilion/website-parlement-riviere-isere
@@ -26,12 +26,8 @@ extra:
   
 theme:
     name: material
-    palette:
-        primary: blue grey
-        accent: blue
-    logo: https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/logo-blanc-flaticon-PRI.png?raw=true
-    favicon: https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/logo-parlement-isere.png?raw=true
     features:
+      - content.action.edit
       - navigation.indexes
       - navigation.tracking
       - navigation.top
@@ -39,11 +35,15 @@ theme:
       - navigation.tabs.sticky
       - navigation.expand
     language: fr
-      
+    palette:
+        primary: blue grey
+        accent: blue
+    logo: https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/logo-blanc-flaticon-PRI.png?raw=true
+    favicon: https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/logo-parlement-isere.png?raw=true
+    
 plugins:
   - macros
   - mkdocs-video
-  - tags
 
 markdown_extensions:
   - tables
