@@ -42,7 +42,6 @@ theme:
       
 plugins:
   - macros
-  - search
   - mkdocs-video
   - tags
 
