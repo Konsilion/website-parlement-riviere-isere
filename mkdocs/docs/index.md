@@ -8,7 +8,7 @@ hide:
 
 ![logo-accueil](https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/banniere-parlement-isere.png?raw=true){style="width: 450px; max-width: 100%"}
 
-[Compte Rendu de la Première Session ➜](./pages/cr/premiere_session/){ .md-button .md-button--secondary style="float: right; margin: 20px 0 50px 0px;"}
+[Compte Rendu de la Première Session ➜](./pages/cr/premiere_session/){ .md-button .md-button--secondary style="float: right; margin: 20px 0 50px 0px; border-radius: 50px !important"}
 
 # A l’écoute de la rivière
 
