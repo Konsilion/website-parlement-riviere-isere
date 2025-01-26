@@ -55,7 +55,7 @@ Les gardien.ne.s de la rivière s'organisent autour de **quatre commisions**, su
 
 ### Le collectif
 
-Le Parlement de la rivière Isère est un collectif d'associations. Fonctionnant en archipel[^1], il s'organise autour d'un projet commun sans pour autant créer une nouvelle structure.
+Le Parlement de la rivière Isère est un collectif d'associations. Fonctionnant en archipel[^1], il s'organise autour d'un projet commun sans pour autant créer une nouvelle structure. Des étudiant·e·s de Sciences Po Grenoble et de l’École Nationale Supérieure d’Architecture de Grenoble ont également travaillé sur le projet pour des rapports ou mémoires. 
     
 <div class="ksln-grid">
     <div class="ksln-cards" style="margin: 0px auto auto auto;">
@@ -84,8 +84,6 @@ Le Parlement de la rivière Isère est un collectif d'associations. Fonctionnant
         <a class="md-button md-button--primary" href="https://civipole.org/" target="_blank">Lien</a>
     </div>
 </div>
-
-Des étudiant·e·s de Sciences Po Grenoble et de l’École Nationale Supérieure d’Architecture de Grenoble ont également travaillé sur le projet pour des rapports ou mémoires. 
 
 [^1]: Un archipel est un ensemble de structures relativement proches les unes des autres. Cette notion est utilisée pour désigner un mode d'appropriation spécifique de sujets et thématiques entre des éléments indépendants, entretenant néanmoins des liens importants. 
 
