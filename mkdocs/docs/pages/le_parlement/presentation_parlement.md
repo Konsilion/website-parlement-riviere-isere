@@ -85,6 +85,3 @@ Le Parlement de la rivière Isère est un collectif d'associations fonctionnant 
 </div>
 
 [^1]: Un archipel est un ensemble de structures relativement proches les unes des autres. Cette notion est utilisée pour désigner un mode d'appropriation spécifique de sujets et thématiques entre des éléments indépendants, entretenant néanmoins des liens importants. 
-
-
-<br><br><br>
