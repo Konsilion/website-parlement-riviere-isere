@@ -14,7 +14,7 @@ hide:
 
 [Découvrir le Parlement ➜](./pages/le_parlement/presentation_parlement/){ .md-button .md-button--primary style="float: right; margin: 0 0 50px 20px;"}
 
-Participation citoyenne, droits de la nature, démarche fluvio-sensible : le **Parlement de la rivière Isère** entend donner une voix à la rivière. 
+Le **Parlement de la rivière Isère** entend donner une voix à la rivière : participation citoyenne, droits de la nature, démarche fluvio-sensible, appropriation des enjeux. 
 
 
 <br>
