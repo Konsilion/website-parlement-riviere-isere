@@ -46,6 +46,8 @@ plugins:
   - mkdocs-video
 
 markdown_extensions:
+  - toc:
+      toc_depth: 3
   - tables
   - admonition
   - pymdownx.details
