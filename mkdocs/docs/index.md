@@ -5,14 +5,15 @@ hide:
   - navigation
 ---
 
-[Compte Rendu de la Première Session ➜](./pages/cr/premiere_session/){ .md-button .md-button--secondary style="text-align: center; float: right; margin: 20px 0 50px 0px; border-radius: 50px !important"}
-
 ![logo-accueil](https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/banniere-parlement-isere.png?raw=true){style="width: 450px; max-width: 100%"}
 
-
-# A l’écoute de la rivière
+[Compte Rendu de la Première Session ➜](./pages/cr/premiere_session/){ .md-button .md-button--secondary style="text-align: center; float: right; margin: 20px 0 50px 0px; border-radius: 50px !important"}
 
 [Découvrir le Parlement ➜](./pages/le_parlement/presentation_parlement/){ .md-button .md-button--primary style="float: right; margin: 0 0 50px 20px;"}
+
+---
+
+# A l’écoute de la rivière
 
 Le **Parlement de la rivière Isère** entend donner une voix à la rivière : 
 
