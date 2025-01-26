@@ -14,9 +14,9 @@ hide:
 
 En réponse aux inquiétudes des citoyen·ne·s concernant l’eau, sa raréfaction, ses pollutions et son accaparement, est né le projet du Parlement de la rivière Isère. 
 
-L’objectif est de **protéger la rivière** et le **bien commun** qu'est l'eau par la reconnaissance de **droits à la nature** et la **réappropriation démocratique des enjeux de l’eau**. Il ne s’agit pas d’abandonner la démocratie représentative, mais de l’enrichir avec des formes participatives et directes. Cela pourrait passer par des droits confiés à des assemblées populaires, tels que le droit de veto temporaire, l'institution de conventions citoyennes à l’initiative de référendums.  Nous proposons de resocialiser la liberté, en la rendant collective, et d’élargir l’espace démocratique. Dans une contexte de décroissance, cela permettrait de repenser des institutions plus inclusives aux enjeux écologiques et sociaux.
+L’objectif est de **protéger la rivière** et le **bien commun** qu'est l'eau par la reconnaissance de **droits à la nature** et la **réappropriation démocratique des enjeux de l’eau**. Il ne s’agit pas d’abandonner la démocratie représentative, mais de l’enrichir avec des formes participatives et directes. Cela pourrait passer par des droits confiés à des assemblées populaires, tels que le droit de veto temporaire, l'institution de conventions citoyennes à l’initiative de référendums.  Nous proposons de resocialiser la liberté, en la rendant collective, et d’élargir l’espace démocratique. Dans un contexte de décroissance, cela permettrait de repenser des institutions plus inclusives aux enjeux écologiques et sociaux.
 
-Les gardien.ne.s de la rivière s'organisent autour des **quatre commisions**. Le [comité d'organisation](./pages/contact/) est chagré principalement de faire du lien entre les commissions et le territoire. 
+Les gardien.ne.s de la rivière s'organisent autour des **quatre commissions**. Le [comité d'organisation](./pages/contact/) est chargé principalement de faire du lien entre les commissions et le territoire. 
 
 <div class="ksln-grid-4c">
     <a href="https://parlement-isere.org/pages/commissions/democratie/contact">
@@ -57,7 +57,7 @@ Les gardien.ne.s de la rivière s'organisent autour des **quatre commisions**. L
 
 ## Le collectif
 
-Le Parlement de la rivière Isère est un collectif d'associations fonctionnant en archipel[^1]. Il s'organise autour d'un projet commun sans pour autant créer une nouvelle structure. Des étudiant·e·s de SciencesPo Grenoble et de l’École Nationale Supérieure d’Architecture de Grenoble ont également travaillé sur le projet pour des rapports ou mémoires. 
+Le Parlement de la rivière Isère est un collectif d'associations fonctionnant en archipel[^1]. Il s'organise autour d'un projet commun, sans pour autant créer une nouvelle structure. Des étudiant·e·s de SciencesPo Grenoble et de l’École Nationale Supérieure d’Architecture de Grenoble ont également travaillé sur le projet pour des rapports ou mémoires. 
     
 <div class="ksln-grid">
     <div class="ksln-cards" style="margin: 0px auto auto auto;">
