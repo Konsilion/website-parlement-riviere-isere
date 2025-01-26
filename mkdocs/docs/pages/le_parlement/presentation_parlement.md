@@ -36,18 +36,21 @@ Les gardien.ne.s de la rivière s'organisent autour de **quatre commisions**, su
             <b>Commission Démocratique</b>
         </div>
     </a>
-    <div class="ksln-cards" style="margin: 0px auto auto auto;">
-        <h3><b>Commission Juridique</b></h3>
-        <a class="md-button md-button--primary" href="https://civipole.org/" target="_blank">Lien</a>
-    </div>
-    <div class="ksln-cards" style="margin: 0px auto auto auto;">
-        <h3><b>Commission Scientifique</b></h3>
-        <a class="md-button md-button--primary" href="https://assemblee.lescommuns.org/" target="_blank">Lien</a>
-    </div>
-    <div class="ksln-cards" style="margin: 0px auto auto auto;">
-        <h3><b>Commission Artistique</b></h3>
-        <a class="md-button md-button--primary" href="https://jardin-des-initiatives6.webnode.page/" target="_blank">Lien</a>
-    </div>
+    <a href="https://www.fne-aura.org/isere/">
+        <div class="ksln-cards" style="margin: 0px auto auto auto; text-align: center;">
+            <b>Commission Juridique</b>
+        </div>
+    </a>
+    <a href="https://www.fne-aura.org/isere/">
+        <div class="ksln-cards" style="margin: 0px auto auto auto; text-align: center;">
+            <b>Commission Artistique</b>
+        </div>
+    </a>
+    <a href="https://www.fne-aura.org/isere/">
+        <div class="ksln-cards" style="margin: 0px auto auto auto; text-align: center;">
+            <b>Commission Scientifique</b>
+        </div>
+    </a>
 </div>
 
 Le [comité d'organisation](./pages/contact/) est chagré principalement de faire du lien entre les commissions et le territoire. 
