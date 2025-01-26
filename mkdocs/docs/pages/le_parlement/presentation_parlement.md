@@ -22,7 +22,7 @@ L’objectif est de **protéger la rivière** et le **bien commun** qu'est l'eau
     * Une dimension **juridique** : Engager une réflexion sur les droits de la nature et considérer la rivière comme une entité ayant une valeur intrinsèque et pouvant prétendre à la personnalité juridique et morale.
     * Une dimension **culturelle et artistique** : Révéler et développer l’attachement à la rivière et à l’eau et créer de nouveaux imaginaires autour du « fluvio-sensible » par différentes formes (récits, peinture, podcast, balades, spectacles, etc.).
 
-<br><br>
+<br>
 
 ## Fonctionnement du Parlement
 
