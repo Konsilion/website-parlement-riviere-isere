@@ -22,8 +22,6 @@ L’objectif est de **protéger la rivière** et le **bien commun** qu'est l'eau
     * Une dimension **juridique** : Engager une réflexion sur les droits de la nature et considérer la rivière comme une entité ayant une valeur intrinsèque et pouvant prétendre à la personnalité juridique et morale.
     * Une dimension **culturelle et artistique** : Révéler et développer l’attachement à la rivière et à l’eau et créer de nouveaux imaginaires autour du « fluvio-sensible » par différentes formes (récits, peinture, podcast, balades, spectacles, etc.).
 
-<br>
-
 
 <div class="ksln-grid-4c">
     <a href="./pages/commissions/scientifique/">
@@ -49,14 +47,15 @@ L’objectif est de **protéger la rivière** et le **bien commun** qu'est l'eau
 </div>
 
 
-## Fonctionnement du Parlement
+<br>
 
-### Les Gardien.ne.s de la rivière
+
+## Les Gardien.ne.s de la rivière
 
 Les gardien.ne.s de la rivière s'organisent autour de **quatre commisions**, suivant les quatre dimensions du Parlement. Le [comité d'organisation](./pages/contact/) est chagré principalement de faire du lien entre les commissions et le territoire. 
 
 
-### Le collectif
+## Le collectif
 
 Le Parlement de la rivière Isère est un collectif d'associations. Fonctionnant en archipel[^1], il s'organise autour d'un projet commun sans pour autant créer une nouvelle structure. Des étudiant·e·s de SciencesPo Grenoble et de l’École Nationale Supérieure d’Architecture de Grenoble ont également travaillé sur le projet pour des rapports ou mémoires. 
     
