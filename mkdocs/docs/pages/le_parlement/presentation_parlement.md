@@ -28,8 +28,6 @@ L’objectif est de **protéger la rivière** et le **bien commun** qu'est l'eau
 
 ### Les Gardien.ne.s de la rivière
 
-Les gardien.ne.s de la rivière s'organisent autour de **quatre commisions**, suivant les quatre dimensions du Parlement. Le [comité d'organisation](./pages/contact/) est chagré principalement de faire du lien entre les commissions et le territoire. 
-
 <div class="ksln-grid-4c">
     <a href="./pages/commissions/scientifique/">
         <div class="ksln-cards" style="margin: 0px auto auto auto; text-align: center;">
@@ -52,6 +50,9 @@ Les gardien.ne.s de la rivière s'organisent autour de **quatre commisions**, su
         </div>
     </a>
 </div>
+
+Les gardien.ne.s de la rivière s'organisent autour de **quatre commisions**, suivant les quatre dimensions du Parlement. Le [comité d'organisation](./pages/contact/) est chagré principalement de faire du lien entre les commissions et le territoire. 
+
 
 ### Le collectif
 
