@@ -4,11 +4,10 @@ hide:
     -navigation
 ---
 
-![logo-accueil](https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/logo-parlement.png?raw=true){style="float: right; max-width:14vw; width: 100px; margin: 25px 0 25px 25px;"}
-
 
 # Parlement de la rivière Isère
 
+[Compte Rendu de la Première Session ➜](./pages/cr/premiere_session/){ .md-button .md-button--secondary style="float: right; margin: 20px 0 50px 0px;"}
 
 ## Un projet de Parlement ?
 
@@ -52,6 +51,8 @@ Les gardien.ne.s de la rivière s'organisent autour des **quatre commissions**. 
 <br>
 
 ## Le collectif
+
+![logo-accueil](https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/logo-parlement.png?raw=true){style="float: right; max-width:14vw; width: 100px; margin: 25px 0 25px 25px;"}
 
 Le Parlement de la rivière Isère est un collectif d'associations fonctionnant en archipel[^1]. Il s'organise autour d'un projet commun, sans pour autant créer une nouvelle structure. Des étudiant·e·s de SciencesPo Grenoble et de l’École Nationale Supérieure d’Architecture de Grenoble ont également travaillé sur le projet pour des rapports ou mémoires. 
     
