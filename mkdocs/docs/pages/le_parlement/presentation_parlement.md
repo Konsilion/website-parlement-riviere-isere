@@ -24,22 +24,22 @@ L’objectif est de **protéger la rivière** et le **bien commun** qu'est l'eau
 
 
 <div class="ksln-grid-4c">
-    <a href="./pages/commissions/scientifique/">
+    <a href="./pages/commissions/democratie/contact">
         <div class="ksln-cards" style="margin: 0px auto auto auto; text-align: center;">
             <b>Commission Démocratique</b>
         </div>
     </a>
-    <a href="https://www.fne-aura.org/isere/">
+    <a href="./pages/commissions/juridique/contact">
         <div class="ksln-cards" style="margin: 0px auto auto auto; text-align: center;">
             <b>Commission Juridique </b>
         </div>
     </a>
-    <a href="https://www.fne-aura.org/isere/">
+    <a href="./pages/commissions/artistique/contact">
         <div class="ksln-cards" style="margin: 0px auto auto auto; text-align: center;">
             <b>Commission Artistique</b>
         </div>
     </a>
-    <a href="https://www.fne-aura.org/isere/">
+    <a href="./pages/commissions/scientifique/contact">
         <div class="ksln-cards" style="margin: 0px auto auto auto; text-align: center;">
             <b>Commission Scientifique</b>
         </div>
