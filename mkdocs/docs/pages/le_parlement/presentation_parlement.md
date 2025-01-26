@@ -55,8 +55,6 @@ Les gardien.ne.s de la rivière s'organisent autour de **quatre commisions**, su
 
 Le [comité d'organisation](./pages/contact/) est chagré principalement de faire du lien entre les commissions et le territoire. 
 
-<br>
-
 ### Le collectif
 
 Le Parlement de la rivière Isère est un collectif d'associations. Fonctionnant en archipel[^1], il s'organise autour d'un projet commun sans pour autant créer une nouvelle structure.
