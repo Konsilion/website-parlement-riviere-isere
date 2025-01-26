@@ -38,17 +38,17 @@ Les gardien.ne.s de la rivière s'organisent autour de **quatre commisions**, su
     </a>
     <a href="https://www.fne-aura.org/isere/">
         <div class="ksln-cards" style="margin: 0px auto auto auto; text-align: center;">
-            <b>Commission   Juridique</b>
+            <b> Commission  Juridique </b>
         </div>
     </a>
     <a href="https://www.fne-aura.org/isere/">
         <div class="ksln-cards" style="margin: 0px auto auto auto; text-align: center;">
-            <b>Commission   Artistique</b>
+            <b>Commission  Artistique</b>
         </div>
     </a>
     <a href="https://www.fne-aura.org/isere/">
         <div class="ksln-cards" style="margin: 0px auto auto auto; text-align: center;">
-            <b>Commission   Scientifique</b>
+            <b>Commission  Scientifique</b>
         </div>
     </a>
 </div>
