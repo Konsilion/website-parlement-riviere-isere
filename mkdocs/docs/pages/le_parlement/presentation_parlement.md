@@ -7,7 +7,7 @@ hide:
 
 # Parlement de la rivière Isère
 
-<a class="md-button md-button--secondary" style="float: right; margin: 20px 0 50px 0px;" href="https://parlement-isere.org/pages/cr/premiere_session/">Compte Rendu de <br> la Première Session ➜</a>
+<a class="md-button md-button--secondary" style="float: right; margin: 25px;" href="https://parlement-isere.org/pages/cr/premiere_session/">Compte Rendu de <br> la Première Session ➜</a>
 
 ## Un projet de Parlement ?
 
