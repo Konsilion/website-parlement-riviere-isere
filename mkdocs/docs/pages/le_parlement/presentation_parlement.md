@@ -24,6 +24,11 @@ Les dimensions du Parlement :
     * Une dimension **juridique** : Engager une réflexion sur les droits de la nature et considérer la rivière comme une entité ayant une valeur intrinsèque et pouvant prétendre à la personnalité juridique et morale.
     * Une dimension **culturelle et artistique** : Révéler et développer l’attachement à la rivière et à l’eau et créer de nouveaux imaginaires autour du « fluvio-sensible » par différentes formes (récits, peinture, podcast, balades, spectacles, etc.).
 
+### Fonctionnement du Parlement
+
+Les gardiennes et gardiens de la rivière s'organisent autour de **quatre commisions**, suivant les quatre dimensions du Parlement. Le **comité d'organisation** est chagré principalement de faire du lien entre les commissions et le territoire.
+
+
 ## Qui sommes-nous ?
 
 Le Parlement de la rivière Isère est un collectif d'associations. Fonctionnant en archipel, il s'organise autour d'un projet commun sans pour autant créer une nouvelle structure.
@@ -64,10 +69,6 @@ Un archipel est un ensemble de structures relativement proches les unes des autr
 </div>
 
 Des étudiant·e·s de Sciences Po Grenoble et de l’École Nationale Supérieure d’Architecture de Grenoble ont également travaillé sur le projet pour des rapports ou mémoires. 
-
-### La gouvernance et les contours de ce Parlement
-
-Les gardiennes et gardiens de la rivière s'organisent autour de **quatre commisions**, suivant les quatre dimensions du Parlement. Le **comité d'organisation** est chagré principalement de faire du lien entre les commissions et le territoire.
 
 
 <br><br>
