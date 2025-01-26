@@ -19,7 +19,7 @@ Nous proposons de resocialiser la liberté, en la rendant collective, et d’él
 
 ---
 
-Les gardien.ne.s de la rivière s'organisent autour des **quatre commissions**. Le [comité d'organisation](./pages/contact/) est chargé principalement de faire du lien entre les commissions et le territoire. 
+Les gardien.ne.s de la rivière s'organisent autour de **quatre commissions**. Le [comité d'organisation](./pages/contact/) est chargé principalement de faire du lien entre les commissions et le territoire. 
 
 <div class="ksln-grid-4c">
     <a href="https://parlement-isere.org/pages/commissions/democratie/contact">
