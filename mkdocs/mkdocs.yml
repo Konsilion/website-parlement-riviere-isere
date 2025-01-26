@@ -47,7 +47,7 @@ plugins:
 
 markdown_extensions:
   - toc:
-      toc_depth: 1
+      toc_depth: 2
   - tables
   - admonition
   - pymdownx.details
