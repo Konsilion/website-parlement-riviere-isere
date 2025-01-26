@@ -33,11 +33,6 @@ Le Parlement de la rivière Isère est un collectif d'associations. Fonctionnant
     
 <div class="ksln-grid">
     <div class="ksln-cards" style="margin: 0px auto auto auto;">
-        <h3>
-        <b>Gardiennes & Gardiens de la rivière Isère</b></h3>
-        <a class="md-button md-button--primary" href="https://www.pactedupouvoirdevivre.fr/isere" target="_blank">Lien</a>
-    </div>
-    <div class="ksln-cards" style="margin: 0px auto auto auto;">
         <h3><img src="https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/FNE_Logo_Is%C3%A8re.png?raw=true" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
         <b>France Nature Environnement 38</b></h3>
         <a class="md-button md-button--primary" href="https://www.fne-aura.org/isere/" target="_blank">Lien</a>
@@ -62,6 +57,15 @@ Le Parlement de la rivière Isère est un collectif d'associations. Fonctionnant
         <b>Le Pacte du pouvoir vivre</b></h3>
         <a class="md-button md-button--primary" href="https://www.pactedupouvoirdevivre.fr/isere" target="_blank">Lien</a>
     </div>
+    <div class="ksln-cards" style="margin: 0px auto auto auto;">
+        <h3>
+        <b>Gardiennes & Gardiens de la rivière Isère</b></h3>
+        <a class="md-button md-button--primary" href="https://www.pactedupouvoirdevivre.fr/isere" target="_blank">Lien</a>
+        <a class="md-button md-button--primary" href="https://www.pactedupouvoirdevivre.fr/isere" target="_blank">Lien</a>
+        <a class="md-button md-button--primary" href="https://www.pactedupouvoirdevivre.fr/isere" target="_blank">Lien</a>
+        <a class="md-button md-button--primary" href="https://www.pactedupouvoirdevivre.fr/isere" target="_blank">Lien</a>
+    </div>
+    
 </div>
 
 Des étudiant·e·s de Sciences Po Grenoble et de l’École Nationale Supérieure d’Architecture de Grenoble ont également travaillé sur le projet pour des rapports ou mémoires. 
