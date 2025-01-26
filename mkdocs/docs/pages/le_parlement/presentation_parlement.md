@@ -31,7 +31,7 @@ Les gardien.ne.s de la rivière s'organisent autour de **quatre commisions**, su
 <div class="ksln-grid-4c">
     <a href="https://www.fne-aura.org/isere/" target="_blank">
         <div class="ksln-cards" style="margin: 0px auto auto auto;">
-            <h3><b>Commission Démocratique</b></h3>
+            <b>Commission Démocratique</b>
         </div>
     </a>
     <div class="ksln-cards" style="margin: 0px auto auto auto;">
