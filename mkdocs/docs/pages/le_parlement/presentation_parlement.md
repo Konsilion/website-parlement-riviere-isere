@@ -5,8 +5,8 @@ hide:
 ---
 
 
-<a class="md-button md-button--secondary" style="float: right; margin: 20px 0 25px 25px; text-align: center; border-radius: 50px !important;" href="https://parlement-isere.org/pages/cr/premiere_session/">Compte Rendu de <br> la Première Session ➜</a>
 
+[Compte Rendu de la Première Session ➜](./pages/cr/premiere_session/){ .md-button .md-button--secondary style="float: right; margin: 20px 0 50px 0px;"}
 
 # Parlement de la rivière Isère
 
@@ -85,6 +85,7 @@ Le Parlement de la rivière Isère est un collectif d'associations fonctionnant 
         <b>Civipole</b></h3>
         <a class="md-button md-button--primary" href="https://civipole.org/" target="_blank">Lien</a>
     </div>
+    <a class="md-button md-button--secondary" style="float: right; margin: 20px 0 25px 25px; text-align: center; border-radius: 50px !important;" href="https://parlement-isere.org/pages/cr/premiere_session/">Compte Rendu de <br> la Première Session ➜</a>
 </div>
 
 ![logo-accueil](https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/logo-parlement.png?raw=true){style="float: right; max-width:14vw; width: 100px; margin: 25px 0 25px 25px;"}
