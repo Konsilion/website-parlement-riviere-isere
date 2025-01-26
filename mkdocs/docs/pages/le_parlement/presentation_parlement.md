@@ -16,7 +16,7 @@ En réponse aux inquiétudes des citoyen·ne·s concernant l’eau, sa raréfact
 
 L’objectif est de **protéger la rivière** et le **bien commun** qu'est l'eau par la reconnaissance de **droits à la nature** et la **réappropriation démocratique des enjeux de l’eau**. Il ne s’agit pas d’abandonner la démocratie représentative, mais de l’enrichir avec des formes participatives et directes. Cela pourrait passer par des droits confiés à des assemblées populaires, tels que le droit de veto temporaire, l'institution de conventions citoyennes à l’initiative de référendums. L’objectif est de resocialiser la liberté, en la rendant collective, et d’élargir l’espace démocratique. Dans une contexte de décroissance, cela permettrait de repenser des institutions plus inclusives aux enjeux écologiques et sociaux.
 
-??? question "Les dimensions du Parlement"
+???+ question "Les dimensions du Parlement"
     * Une dimension **politique et citoyenne** : Créer un espace public de discussion sur l’eau ouvert à tous·tes pour élargir la participation citoyenne et porter la parole citoyenne auprès des institutions. 
     * Une dimension **scientifique** : Constituer un observatoire de l’eau qui rassemblerait et vulgariserait de manière neutre et indépendante les données disponibles sur l’eau.
     * Une dimension **juridique** : Engager une réflexion sur les droits de la nature et considérer la rivière comme une entité ayant une valeur intrinsèque et pouvant prétendre à la personnalité juridique et morale.
