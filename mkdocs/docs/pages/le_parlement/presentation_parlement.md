@@ -31,7 +31,7 @@ L’objectif est de **protéger la rivière** et le **bien commun** qu'est l'eau
 Les gardien.ne.s de la rivière s'organisent autour de **quatre commisions**, suivant les quatre dimensions du Parlement. 
 
 <div class="ksln-grid-4c">
-    <a href="https://www.fne-aura.org/isere/">
+    <a href="./pages/commissions/scientifique/">
         <div class="ksln-cards" style="margin: 0px auto auto auto; text-align: center;">
             <b>Commission Démocratique</b>
         </div>
