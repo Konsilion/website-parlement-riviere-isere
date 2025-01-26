@@ -52,9 +52,6 @@ Le **comité d'organisation** est chagré principalement de faire du lien entre 
 
 [Nous contacter](./pages/contact/){ .md-button .md-button--secondary style="float: right; margin: 10px 0 10px 0;"}
 
-
----
-
 ### Le collectif
 
 Le Parlement de la rivière Isère est un collectif d'associations. Fonctionnant en archipel[^1], il s'organise autour d'un projet commun sans pour autant créer une nouvelle structure.
