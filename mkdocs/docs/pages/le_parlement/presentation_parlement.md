@@ -26,7 +26,7 @@ Les dimensions du Parlement :
 
 ### Fonctionnement du Parlement
 
-Les gardiennes et gardiens de la rivière s'organisent autour de **quatre commisions**, suivant les quatre dimensions du Parlement. Le **comité d'organisation** est chagré principalement de faire du lien entre les commissions et le territoire.
+Les gardien.ne.s de la rivière s'organisent autour de **quatre commisions**, suivant les quatre dimensions du Parlement. Le **comité d'organisation** est chagré principalement de faire du lien entre les commissions et le territoire.
 
 
 ## Qui sommes-nous ?
@@ -36,7 +36,7 @@ Le Parlement de la rivière Isère est un collectif d'associations. Fonctionnant
 <div class="ksln-grid">
     <div class="ksln-cards" style="margin: 0px auto auto auto;">
         <h3>
-        <b>Gardien.nes de l'Isère</b></h3>
+        <b>Gardiennes & Gardiens</b></h3>
         <a class="md-button md-button--primary" href="https://www.pactedupouvoirdevivre.fr/isere" target="_blank">Lien</a>
     </div>
     <div class="ksln-cards" style="margin: 0px auto auto auto;">
