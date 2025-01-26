@@ -66,9 +66,9 @@ Le Parlement de la rivière Isère est un collectif d'associations. Fonctionnant
         <a class="md-button md-button--primary" href="https://www.fne-aura.org/isere/" target="_blank">Lien</a>
     </div>
     <div class="ksln-cards" style="margin: 0px auto auto auto;">
-        <h3><img src="https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/Logo%20civipole.png?raw=true" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
-        <b>Civipole</b></h3>
-        <a class="md-button md-button--primary" href="https://civipole.org/" target="_blank">Lien</a>
+        <h3><img src="https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/Logo-Pacte-Pouvoir-Vivre.png?raw=true" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
+        <b>Le Pacte du pouvoir vivre</b></h3>
+        <a class="md-button md-button--primary" href="https://www.pactedupouvoirdevivre.fr/isere" target="_blank">Lien</a>
     </div>
     <div class="ksln-cards" style="margin: 0px auto auto auto;">
         <h3><img src="https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/assembl%C3%A9e%20des%20communs%20Grenoble.jpg?raw=true" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
@@ -81,9 +81,9 @@ Le Parlement de la rivière Isère est un collectif d'associations. Fonctionnant
         <a class="md-button md-button--primary" href="https://jardin-des-initiatives6.webnode.page/" target="_blank">Lien</a>
     </div>
     <div class="ksln-cards" style="margin: 0px auto auto auto;">
-        <h3><img src="https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/Logo-Pacte-Pouvoir-Vivre.png?raw=true" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
-        <b>Le Pacte du pouvoir vivre</b></h3>
-        <a class="md-button md-button--primary" href="https://www.pactedupouvoirdevivre.fr/isere" target="_blank">Lien</a>
+        <h3><img src="https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/Logo%20civipole.png?raw=true" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
+        <b>Civipole</b></h3>
+        <a class="md-button md-button--primary" href="https://civipole.org/" target="_blank">Lien</a>
     </div>
 </div>
 
