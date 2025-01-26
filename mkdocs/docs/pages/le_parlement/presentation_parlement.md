@@ -14,7 +14,9 @@ hide:
 
 En réponse aux inquiétudes des citoyen·ne·s concernant l’eau, sa raréfaction, ses pollutions et son accaparement, est né le projet du Parlement de la rivière Isère. 
 
-L’objectif est de **protéger la rivière** et le **bien commun** qu'est l'eau par la reconnaissance de **droits à la nature** et la **réappropriation démocratique des enjeux de l’eau**. Il ne s’agit pas d’abandonner la démocratie représentative, mais de l’enrichir avec des formes participatives et directes. Cela pourrait passer par des droits confiés à des assemblées populaires, tels que le droit de veto temporaire, l'institution de conventions citoyennes à l’initiative de référendums. L’objectif est de resocialiser la liberté, en la rendant collective, et d’élargir l’espace démocratique. Dans une contexte de décroissance, cela permettrait de repenser des institutions plus inclusives aux enjeux écologiques et sociaux.
+L’objectif est de **protéger la rivière** et le **bien commun** qu'est l'eau par la reconnaissance de **droits à la nature** et la **réappropriation démocratique des enjeux de l’eau**. Il ne s’agit pas d’abandonner la démocratie représentative, mais de l’enrichir avec des formes participatives et directes. Cela pourrait passer par des droits confiés à des assemblées populaires, tels que le droit de veto temporaire, l'institution de conventions citoyennes à l’initiative de référendums. 
+
+Nous proposons de resocialiser la liberté, en la rendant collective, et d’élargir l’espace démocratique. Dans une contexte de décroissance, cela permettrait de repenser des institutions plus inclusives aux enjeux écologiques et sociaux.
 
 ??? abstract "Les dimensions du Parlement"
     * Une dimension **politique et citoyenne** : Créer un espace public de discussion sur l’eau ouvert à tous·tes pour élargir la participation citoyenne et porter la parole citoyenne auprès des institutions. 
