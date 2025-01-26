@@ -105,7 +105,7 @@
 
 @media only screen and (min-width: 1400px) {
 	.ksln-grid-4c {
-	  grid-template-columns: 25% 25% 25% 25%;
+	  grid-template-columns: 24% 24% 24% 24%;
 	}
 }
 
