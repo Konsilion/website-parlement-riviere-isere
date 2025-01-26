@@ -28,25 +28,21 @@ L’objectif est de **protéger la rivière** et le **bien commun** qu'est l'eau
 
 Les gardien.ne.s de la rivière s'organisent autour de **quatre commisions**, suivant les quatre dimensions du Parlement. 
 
-<div class="ksln-grid">
+<div class="ksln-grid-4c">
     <div class="ksln-cards" style="margin: 0px auto auto auto;">
-        <h3><img src="https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/FNE_Logo_Is%C3%A8re.png?raw=true" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
-        <b>Commission Démocratique</b></h3>
+        <h3><b>Commission Démocratique</b></h3>
         <a class="md-button md-button--primary" href="https://www.fne-aura.org/isere/" target="_blank">Lien</a>
     </div>
     <div class="ksln-cards" style="margin: 0px auto auto auto;">
-        <h3><img src="https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/Logo%20civipole.png?raw=true" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
-        <b>Commission Juridique</b></h3>
+        <h3><b>Commission Juridique</b></h3>
         <a class="md-button md-button--primary" href="https://civipole.org/" target="_blank">Lien</a>
     </div>
     <div class="ksln-cards" style="margin: 0px auto auto auto;">
-        <h3><img src="https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/assembl%C3%A9e%20des%20communs%20Grenoble.jpg?raw=true" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
-        <b>Commission Scientifique</b></h3>
+        <h3><b>Commission Scientifique</b></h3>
         <a class="md-button md-button--primary" href="https://assemblee.lescommuns.org/" target="_blank">Lien</a>
     </div>
     <div class="ksln-cards" style="margin: 0px auto auto auto;">
-        <h3><img src="https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/logo%20jardin%20des%20initiatives.png?raw=true" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
-        <b>Commission Artistique</b></h3>
+        <h3><b>Commission Artistique</b></h3>
         <a class="md-button md-button--primary" href="https://jardin-des-initiatives6.webnode.page/" target="_blank">Lien</a>
     </div>
 </div>
