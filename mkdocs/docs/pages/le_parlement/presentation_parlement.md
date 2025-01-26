@@ -56,8 +56,6 @@ Les gardien.ne.s de la rivière s'organisent autour des **quatre commissions**. 
 
 ## Le collectif
 
-![logo-accueil](https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/logo-parlement.png?raw=true){style="float: right; max-width:14vw; width: 100px; margin: 25px 0 25px 25px;"}
-
 Le Parlement de la rivière Isère est un collectif d'associations fonctionnant en archipel[^1]. Il s'organise autour d'un projet commun, sans pour autant créer une nouvelle structure. Des étudiant·e·s de SciencesPo Grenoble et de l’École Nationale Supérieure d’Architecture de Grenoble ont également travaillé sur le projet pour des rapports ou mémoires. 
     
 <div class="ksln-grid">
@@ -87,5 +85,9 @@ Le Parlement de la rivière Isère est un collectif d'associations fonctionnant 
         <a class="md-button md-button--primary" href="https://civipole.org/" target="_blank">Lien</a>
     </div>
 </div>
+
+![logo-accueil](https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/logo-parlement.png?raw=true){style="float: right; max-width:14vw; width: 100px; margin: 25px 0 25px 25px;"}
+
+
 
 [^1]: Un archipel est un ensemble de structures relativement proches les unes des autres. Cette notion est utilisée pour désigner un mode d'appropriation spécifique de sujets et thématiques entre des éléments indépendants, entretenant néanmoins des liens importants. 
