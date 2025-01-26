@@ -6,7 +6,7 @@ hide:
 
 
 
-[Compte Rendu de la Première Session ➜](./pages/cr/premiere_session/){ .md-button .md-button--secondary style="float: right; margin: 20px 0 50px 0px;"}
+[Compte Rendu de la Première Session ➜](./pages/cr/premiere_session/){ .md-button .md-button--secondary style="float: right; margin: 20px 0 50px 0px; text-align: left;"}
 
 # Parlement de la rivière Isère
 
