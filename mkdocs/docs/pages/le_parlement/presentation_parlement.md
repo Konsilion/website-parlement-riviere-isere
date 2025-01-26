@@ -47,12 +47,12 @@ Les gardien.ne.s de la rivière s'organisent autour de **quatre commisions**, su
     </div>
 </div>
 
----
-
 Le **comité d'organisation** est chagré principalement de faire du lien entre les commissions et le territoire. 
 
 [Nous contacter](./pages/contact/){ .md-button .md-button--secondary style="float: left; margin: 10px 0 10px 0;"}
 
+
+---
 
 ### Le collectif
 
