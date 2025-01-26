@@ -51,10 +51,6 @@ Les gardien.ne.s de la rivière s'organisent autour des **quatre commissions**. 
 
 <br>
 
-
-## Les Gardien.ne.s de la rivière
-
-
 ## Le collectif
 
 Le Parlement de la rivière Isère est un collectif d'associations fonctionnant en archipel[^1]. Il s'organise autour d'un projet commun, sans pour autant créer une nouvelle structure. Des étudiant·e·s de SciencesPo Grenoble et de l’École Nationale Supérieure d’Architecture de Grenoble ont également travaillé sur le projet pour des rapports ou mémoires. 
