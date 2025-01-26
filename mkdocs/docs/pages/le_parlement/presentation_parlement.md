@@ -22,6 +22,8 @@ L’objectif est de **protéger la rivière** et le **bien commun** qu'est l'eau
     * Une dimension **juridique** : Engager une réflexion sur les droits de la nature et considérer la rivière comme une entité ayant une valeur intrinsèque et pouvant prétendre à la personnalité juridique et morale.
     * Une dimension **culturelle et artistique** : Révéler et développer l’attachement à la rivière et à l’eau et créer de nouveaux imaginaires autour du « fluvio-sensible » par différentes formes (récits, peinture, podcast, balades, spectacles, etc.).
 
+<br><br>
+
 ## Fonctionnement du Parlement
 
 ### Les Gardien.ne.s de la rivière
@@ -48,9 +50,9 @@ Les gardien.ne.s de la rivière s'organisent autour de **quatre commisions**, su
     </div>
 </div>
 
-Le **comité d'organisation** est chagré principalement de faire du lien entre les commissions et le territoire. 
+Le [comité d'organisation](./pages/contact/) est chagré principalement de faire du lien entre les commissions et le territoire. 
 
-[Nous contacter](./pages/contact/){ .md-button .md-button--secondary style="float: right; margin: 10px 0 10px 0;"}
+<br>
 
 ### Le collectif
 
