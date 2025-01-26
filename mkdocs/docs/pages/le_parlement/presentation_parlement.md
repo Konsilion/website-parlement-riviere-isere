@@ -31,9 +31,7 @@ Les gardiennes et gardiens de la rivière s'organisent autour de **quatre commis
 
 ## Qui sommes-nous ?
 
-Le Parlement de la rivière Isère est un collectif d'associations. Fonctionnant en archipel, il s'organise autour d'un projet commun sans pour autant créer une nouvelle structure.
-
-Un archipel est un ensemble de structures relativement proches les unes des autres. Cette notion est utilisée pour désigner un mode d'appropriation spécifique de sujets et thématiques entre des éléments indépendants, entretenant néanmoins des liens importants. 
+Le Parlement de la rivière Isère est un collectif d'associations. Fonctionnant en archipel[^1], il s'organise autour d'un projet commun sans pour autant créer une nouvelle structure.
     
 <div class="ksln-grid">
     <div class="ksln-cards" style="margin: 0px auto auto auto;">
@@ -69,6 +67,8 @@ Un archipel est un ensemble de structures relativement proches les unes des autr
 </div>
 
 Des étudiant·e·s de Sciences Po Grenoble et de l’École Nationale Supérieure d’Architecture de Grenoble ont également travaillé sur le projet pour des rapports ou mémoires. 
+
+[^1]: Un archipel est un ensemble de structures relativement proches les unes des autres. Cette notion est utilisée pour désigner un mode d'appropriation spécifique de sujets et thématiques entre des éléments indépendants, entretenant néanmoins des liens importants. 
 
 
 <br><br>
