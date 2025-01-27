@@ -14,7 +14,7 @@ hide:
 
   /* Style pour la container */
   .iframe-container { 
-    position: absolute; 
+    position: relative; 
     top: 55px; /* Décalage par défaut */
     left: 0;
     width: 100%;
