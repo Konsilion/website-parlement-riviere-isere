@@ -18,7 +18,7 @@ hide:
   .parent-container {
     position: relative; /* Pour que l'iframe-container se positionne par rapport à ce div */
     width: 100%; /* ou une largeur spécifique */
-    height: calc(100% - 105px); /* ou une hauteur spécifique si besoin */
+    height: 100vh; /* ou une hauteur spécifique si besoin */
   }
   
   /* Style pour la container */
@@ -27,7 +27,7 @@ hide:
     top: 55px; /* Décalage par défaut */
     left: 0;
     width: 100%;
-    height: 100vh; /* Ajustement de la hauteur en fonction du top */
+    height: calc(100% - 105px); /* Ajustement de la hauteur en fonction du top */
   } 
   
   /* Media query pour écrans larges */
