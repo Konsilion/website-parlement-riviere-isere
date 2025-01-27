@@ -4,8 +4,7 @@ nav:
     - Le Parlement: pages/le_parlement/presentation_parlement.md
 
     - Les Comissions : 
-        - Artistique : pages/commissions/artistique/contact.md
-            - Approche sensible : pages/commissions/artistique/images.md
+        - Approche sensible : pages/commissions/artistique/images.md
         - Documentation : pages/commissions/scientifique/contact.md
 
     - Documentation:
