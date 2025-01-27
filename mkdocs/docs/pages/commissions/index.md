@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# Organisation opérationnelle du Parlement
+# Organisation du Parlement
 
 ## Gardiennes & Gardiens de la Rivière
 
