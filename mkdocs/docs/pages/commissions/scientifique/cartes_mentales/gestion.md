@@ -23,8 +23,7 @@ hide:
   
   /* Style pour la container */
   .iframe-container { 
-    position: absolute; 
-    top: 55px; /* Décalage par défaut */
+    position: absolute;
     left: 0;
     width: 100%;
     height: calc(100% - 105px); /* Ajustement de la hauteur en fonction du top */
@@ -33,7 +32,6 @@ hide:
   /* Media query pour écrans larges */
   @media (min-width: 1220px) { 
     .iframe-container { 
-      top: 102px; /* Décalage augmenté */
       height: calc(100% - 155px); /* Ajustement correspondant */
     }
   }
