@@ -3,18 +3,27 @@ hide:
   - toc
 ---
 
-<div class="iframe-container">
-  <iframe src="https://embed.kumu.io/b3d59a64f47bc07d82f594c808a8a6b3?scroll=1" frameborder="0"></iframe>
+<div class="parent-container">
+  <div class="iframe-container">
+    <iframe src="https://embed.kumu.io/b3d59a64f47bc07d82f594c808a8a6b3?scroll=1" frameborder="0"></iframe>
+  </div>  
 </div>
+
 
 <style> 
   h1 { display: none !important; } 
   .md-content { padding: 0 !important; } 
   article { margin: 0 !important; padding: 0 !important; } 
 
+  .parent-container {
+    position: relative; /* Pour que l'iframe-container se positionne par rapport à ce div */
+    width: 100%; /* ou une largeur spécifique */
+    height: 100vh; /* ou une hauteur spécifique si besoin */
+  }
+  
   /* Style pour la container */
   .iframe-container { 
-    position: relative; 
+    position: absolute; 
     top: 55px; /* Décalage par défaut */
     left: 0;
     width: 100%;
