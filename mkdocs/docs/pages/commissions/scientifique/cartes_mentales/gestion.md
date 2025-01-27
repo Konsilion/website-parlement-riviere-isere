@@ -27,7 +27,7 @@ hide:
     top: 55px; /* Décalage par défaut */
     left: 0;
     width: 100%;
-    height: calc(100% - 105px); /* Ajustement de la hauteur en fonction du top */
+    height: 100vh; /* Ajustement de la hauteur en fonction du top */
   } 
   
   /* Media query pour écrans larges */
