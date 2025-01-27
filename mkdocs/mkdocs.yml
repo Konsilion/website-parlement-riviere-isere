@@ -27,7 +27,7 @@ edit_uri: edit/master/mkdocs/docs/
 
 extra:
     generator: false
-  
+
 theme:
     name: material
     features:
@@ -38,6 +38,7 @@ theme:
       - navigation.tabs
       - navigation.tabs.sticky
       - navigation.expand
+      - navigation.sections
     language: fr
     palette:
         primary: blue grey
