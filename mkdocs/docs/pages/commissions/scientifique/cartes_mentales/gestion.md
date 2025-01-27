@@ -42,4 +42,10 @@ hide:
     height: 100%; 
     border: none; 
   }
+
+  .md-grid {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+  }
 </style>
