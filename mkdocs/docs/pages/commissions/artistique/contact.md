@@ -1,7 +1,6 @@
 ---
 hide:
   - toc
-  - navigation
 ---
 
 # Rejoindre le Groupe de Travail - Arstistique & Approche sensible
