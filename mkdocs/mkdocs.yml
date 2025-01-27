@@ -7,8 +7,9 @@ nav:
         - Artistique : 
             - Images : pages/commissions/artistique/images.md
             - Contact : pages/commissions/artistique/contact.md
-        - Scientifique : 
-            - Gestion de l'eau : pages/commissions/scientifique/cartes_mentales/gestion.md
+        - Scientifique :
+            - Gare du numérique : pages/commissions/scientifique/cartes_mentales/gestion.md
+                - Gestion de l'eau : pages/commissions/scientifique/cartes_mentales/gestion.md
             - Contact : pages/commissions/scientifique/contact.md
 
     - Documentation:
