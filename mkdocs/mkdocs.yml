@@ -44,7 +44,6 @@ theme:
       - navigation.top
       - navigation.tabs
       - navigation.tabs.sticky
-      - navigation.expand
     language: fr
     palette:
         primary: blue grey
