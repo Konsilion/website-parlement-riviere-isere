@@ -4,7 +4,9 @@ nav:
     - Le Parlement: pages/le_parlement/presentation_parlement.md
 
     - Les Commissions : 
-        - Artistique : pages/commissions/artistique/images.md
+        - Artistique : 
+            - Images : pages/commissions/artistique/images.md
+            - Contact : pages/commissions/artistique/contact.md
         - Scientifique : pages/commissions/scientifique/contact.md
 
     - Documentation:
