@@ -18,9 +18,9 @@ L’objectif est de **protéger la rivière** et le **bien commun** qu'est l'eau
 
 Nous proposons de resocialiser la liberté, en la rendant collective, et d’élargir l’espace démocratique. Dans un contexte de décroissance, cela permettrait de repenser des institutions plus inclusives aux enjeux écologiques et sociaux.
 
----
+### Gardiennes & Gardiens de la rivière
 
-Les gardien.ne.s de la rivière s'organisent autour de **quatre commissions**. Le [comité d'organisation](https://parlement-isere.org/pages/contact) est chargé principalement de faire du lien entre les commissions et le territoire. 
+Les gardien.ne.s de la rivière s'organisent autour de **quatre commissions** afin de collectivement, prendre part à la réappropriation des enjeux de l'Eau. Le [comité d'organisation](https://parlement-isere.org/pages/contact) est chargé principalement de faire du lien entre les commissions et le territoire. 
 
 <div class="ksln-grid-4c">
     <a href="https://parlement-isere.org/pages/commissions/democratie/contact">
