@@ -3,10 +3,10 @@ hide:
   - toc
 ---
 
-# Rejoindre le Groupe de Travail - Arstistique & Approche sensible
+# Rejoindre le Groupe de Travail - Artistique & Approche sensible
 
 ---
 
-**Référent.e.s**
+**Référent**
 
 * Pierre Louis Serero - civipole@gmail.com
