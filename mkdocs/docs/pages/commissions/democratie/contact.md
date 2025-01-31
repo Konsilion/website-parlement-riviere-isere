@@ -7,6 +7,6 @@ hide:
 
 ---
 
-**Référent.e.s**
+**Référent**
 
-* Pierre Louis Serero - civipole@gmail.com
+* Lucas Mercuri - lucas.mercuri@outlook.fr
