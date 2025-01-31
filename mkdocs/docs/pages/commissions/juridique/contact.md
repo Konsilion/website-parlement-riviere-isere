@@ -7,6 +7,6 @@ hide:
 
 ---
 
-**Référent.e.s**
+**Référent**
 
-* Lucas Mercuri - lucas.mercuri@outlook.fr
+* Philippe Dubois - phdpdc@free.fr
