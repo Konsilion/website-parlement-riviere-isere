@@ -4,7 +4,9 @@
 
 Tout au long des siècles, des artistes ont réalisé des dessins, des peintures, des gravures et plus récemment des photographies de la rivière Isère et de ses affluents. Ruisseau ou torrents s'élargissant dans la vallée, les rivières de l'Isère composent le paysage et nos représentations du territoire. 
 
-A travers cette galerie d'image, nous proposons aux gardiens-iennes de la rivière et à tous les sympathisant.es du Parlement de l'Isère de (re)découvrir les images de la rivière Isère et contribuer à diffuser une connaissance sensible de notre bien commun. Si vous souhaitez proposer vos images, n'hésitez pas à nous contacter (responsable du projet : davidgabriel(a)zaclys.net) ! 
+A travers cette galerie d'image, nous proposons aux gardiens-iennes de la rivière et à tous les sympathisant.es du Parlement de l'Isère de (re)découvrir les images de la rivière Isère et contribuer à diffuser une connaissance sensible de notre bien commun. 
+
+Si vous souhaitez participer à ce projet en proposant des images, en apportant des précisions ou commentaires, n'hésitez pas à nous contacter (responsable du projet : davidgabriel(a)zaclys.net) ! 
 
 ![Image title](https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/commission_artistique/abc009ed-b9bb-4488-85bf-ecf93e3c65b0.png?raw=true)
 
