@@ -1,4 +1,4 @@
-# Galerie d'image
+# Galerie d'images
 
 ## L'Isère
 
