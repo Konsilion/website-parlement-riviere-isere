@@ -9,4 +9,4 @@ hide:
 
 **Référent**
 
-* Pierre Louis Serero - civipole@gmail.com
+* Pierre Louis Serero - pierrelouisserero@gmail.com
