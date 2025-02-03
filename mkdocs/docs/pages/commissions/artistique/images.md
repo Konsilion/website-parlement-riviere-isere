@@ -8,4 +8,4 @@ Tout au long des siècles, des artistes ont réalisé des dessins, des peintures
 
 Source : Emile Duchemin (1862-1914)
 
-![Image title](https://github.com/Konsilion/website-parlement-riviere-isere/commit/41fe4a0481e55db82f48a46ffa3f939d54fe36cf#diff-d3eaaee0d962b4be819bd715daee7bb7b23879b942330460fea069b0d9671e3f)?raw=true){ align=center}
+![Image title](https://github.com/Konsilion/website-parlement-riviere-isere/mkdocs/media/Grenoble_(Isère)___C_Pégeron_Pégeron_Claude_btv1b106635952_1.jpeg)
