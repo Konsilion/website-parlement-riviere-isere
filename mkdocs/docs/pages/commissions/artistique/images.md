@@ -1,6 +1,6 @@
 # Galerie d'images
 
-## L'Isère
+## Présentation du projet
 
 Tout au long des siècles, des artistes ont réalisé des dessins, des peintures, des gravures et plus récemment des photographies de la rivière Isère et de ses affluents. Ruisseau ou torrents s'élargissant dans la vallée, les rivières de l'Isère composent le paysage et nos représentations du territoire. 
 
