@@ -8,7 +8,7 @@ nav:
         - Démocratique : pages/commissions/democratie/contact.md
         - Juridique : pages/commissions/juridique/contact.md
         - Artistique : 
-            - Gallerie d'image : pages/commissions/artistique/images.md
+            - Galerie d'image : pages/commissions/artistique/images.md
             - Contact : pages/commissions/artistique/contact.md
         - Scientifique :
             - Accueil : pages/commissions/scientifique/cartes_mentales/gare_numerique.md
