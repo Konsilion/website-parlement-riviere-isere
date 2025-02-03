@@ -8,4 +8,6 @@ Tout au long des siècles, des artistes ont réalisé des dessins, des peintures
 
 Source : Emile Duchemin (1862-1914)
 
-![5E47944](https://github.com/user-attachments/assets/b30ea363-301c-40e9-81ea-2332485b05ef)
+![image](https://github.com/user-attachments/assets/c61bc790-6088-4478-b469-08a856a76b5c)
+
+Source : Deroy, Vue de Grenoble, 19e siècle, estampe sur papier : n. et b. ; 20,7 x 34,7 cm, Etrait de "Galerie du Palais royal", de Théodore Gudin.
