@@ -10,10 +10,9 @@ nav:
         - Artistique : 
             - Galerie d'image : pages/commissions/artistique/images.md
             - Contact : pages/commissions/artistique/contact.md
-        - Scientifique :
+        - Scientifique : pages/commissions/scientifique/contact.md
             - Accueil : pages/commissions/scientifique/cartes_mentales/gare_numerique.md
             - Comprendre la gestion de l'eau ? : pages/commissions/scientifique/cartes_mentales/gestion.md
-            - Contact : pages/commissions/scientifique/contact.md
 
     - Nous contacter: pages/contact.md
 
