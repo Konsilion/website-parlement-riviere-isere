@@ -87,7 +87,7 @@ Le Parlement de la rivière Isère est un collectif d'associations fonctionnant 
     </div>
     <div class="ksln-cards" style="margin: 0px auto auto auto;">
         <h3><img src="https://media.istockphoto.com/id/1472347042/fr/vectoriel/trois-personnes-ligne-noire-ic%C3%B4ne-vectorielle.jpg?s=612x612&w=0&k=20&c=vFdAS5ZS7fSutaKPCLj9Iuc94Fs2IESmOReegLw078U=" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
-        <b>Pourquoi pas vous ?</b></h3>
+        <b>Vous ?</b></h3>
         Devenez Gardiennes & Gardiens de l'Isère.
     </div>
 </div>
