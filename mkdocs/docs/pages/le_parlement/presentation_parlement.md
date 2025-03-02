@@ -51,10 +51,6 @@ Les gardien.ne.s de la rivière s'organisent autour de **quatre commissions** af
     * Une dimension **juridique** : Engager une réflexion sur les droits de la nature et considérer la rivière comme une entité ayant une valeur intrinsèque et pouvant prétendre à la personnalité juridique et morale.
     * Une dimension **culturelle et artistique** : Révéler et développer l’attachement à la rivière et à l’eau et créer de nouveaux imaginaires autour du « fluvio-sensible » par différentes formes (récits, peinture, podcast, balades, spectacles, etc.).
 
-
-
-<br>
-
 ## Le collectif
 
 Le Parlement de la rivière Isère est un collectif d'associations fonctionnant en archipel[^1]. Il s'organise autour d'un projet commun, sans pour autant créer une nouvelle structure. Des étudiant·e·s de SciencesPo Grenoble et de l’École Nationale Supérieure d’Architecture de Grenoble ont également travaillé sur le projet pour des rapports ou mémoires. 
@@ -92,8 +88,19 @@ Le Parlement de la rivière Isère est un collectif d'associations fonctionnant 
     </div>
 </div>
 
+
+## Présentation lors de la Biennale des Villes en Transition
+
+Lien vers la vidéo : [Cliquer ici](https://vimeo.com/836806665)* 
+
+<center><iframe src="https://player.vimeo.com/video/836806665?h=019b26d956" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></center>
+
+
+
+
+
+
+
 ![logo-accueil](https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/logo-parlement.png?raw=true){style="float: right; max-width:14vw; width: 100px; margin: 25px 0 25px 25px;"}
-
-
 
 [^1]: Un archipel est un ensemble de structures relativement proches les unes des autres. Cette notion est utilisée pour désigner un mode d'appropriation spécifique de sujets et thématiques entre des éléments indépendants, entretenant néanmoins des liens importants. 
