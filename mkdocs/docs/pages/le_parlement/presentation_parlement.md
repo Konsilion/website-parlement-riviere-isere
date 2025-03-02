@@ -4,8 +4,6 @@ hide:
     -navigation
 ---
 
-
-
 [Compte Rendu de la Première Session ➜](https://parlement-isere.org/pages/cr/premiere_session/){ .md-button .md-button--secondary style="float: right; margin: 20px 0 50px 0px; text-align: left;"}
 
 # Parlement de la rivière Isère
@@ -86,6 +84,11 @@ Le Parlement de la rivière Isère est un collectif d'associations fonctionnant 
         <h3><img src="https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/Logo%20civipole.png?raw=true" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
         <b>Civipole</b></h3>
         <a class="md-button md-button--primary" href="https://civipole.org/" target="_blank">Lien</a>
+    </div>
+    <div class="ksln-cards" style="margin: 0px auto auto auto;">
+        <h3><img src="https://media.istockphoto.com/id/1472347042/fr/vectoriel/trois-personnes-ligne-noire-ic%C3%B4ne-vectorielle.jpg?s=612x612&w=0&k=20&c=vFdAS5ZS7fSutaKPCLj9Iuc94Fs2IESmOReegLw078U=" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
+        <b>Pourquoi pas vous ?</b></h3>
+        Devenez Gardiennes & Gardiens de l'Isère.
     </div>
 </div>
 
