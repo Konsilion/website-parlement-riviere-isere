@@ -24,22 +24,11 @@ Le **Parlement de la rivière Isère** entend donner une voix à la rivière :
 - démarche fluvio-sensible,
 - et appropriation des enjeux. 
 
-<br>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Europe%2FParis&showPrint=0&src=bmljb2xhc2IuYnJlbW9uZEBnbWFpbC5jb20&src=OGQ4N2M1NjgyZDI3M2JmYjBhZWYzOTA0N2NjZGQ3MjNkOGQ2YTY3YzViMDZjMzBlZGVjNjUxYTc4N2FiZjg4YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=ZnIuZnJlbmNoI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23039BE5&color=%23795548&color=%23009688" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
+<br><br><br>
 
-???+ abstract "L'agenda des enjeux de l'eau"
-
-    <iframe src="https://calendar.google.com/calendar/embed?src=8d87c5682d273bfb0aef39047ccdd723d8d6a67c5b06c30edec651a787abf88a%40group.calendar.google.com&ctz=Europe%2FParis" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-
-[Nous contacter](./pages/contact/){ .md-button .md-button--secondary style="float: left; margin: 10px 0 10px 0;"}
-
-
-[Facebook](https://www.facebook.com/people/Parlement-de-lIs%C3%A8re/61557683175720/){target="_blank" .md-button .md-button--primary style="background-color: rgb(180,220,250, 0.7); border-color: #007AEC; border-width: 2px; color: #007AEC; float: left; margin: 10px 0 10px 0;"}
-
-[Instagram](https://www.instagram.com/parlement_isere/){target="_blank" .md-button .md-button--primary style="background-color: rgb(255,200,220, 0.7); border-color: #C6007E; border-width: 2px; color: #C6007E; float: left; margin: 10px 0 10px 0;"}
-
-[LinkedIn](https://www.linkedin.com/company/parlement-de-la-rivi%C3%A8re-is%C3%A8re){target="_blank" .md-button .md-button--primary style="background-color: rgb(180,220,250, 0.7); border-color: #007AEC; border-width: 2px; color: #007AEC; float: left; margin: 10px 0 10px 0;"}
+[Nous contacter](./pages/contact/){ .md-button .md-button--secondary style="float: right; margin: 10px 0 10px 0;"}
 
 
 
