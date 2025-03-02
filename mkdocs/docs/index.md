@@ -17,14 +17,16 @@ hide:
 
 # A l’écoute de la rivière
 
-[Nous contacter](./pages/contact/){ .md-button .md-button--secondary style="float: right; margin: 10px 0 10px 0;"}
-
 Le **Parlement de la rivière Isère** entend donner une voix à la rivière : 
 
 - participation citoyenne,
 - droits de la nature,
 - démarche fluvio-sensible,
-- et appropriation des enjeux. 
+- et appropriation des enjeux.
+
+<br>
+
+[Nous contacter](./pages/contact/){ .md-button .md-button--secondary style="float: right; margin: 10px 0 10px 0;"}
 
 <hr>
 
