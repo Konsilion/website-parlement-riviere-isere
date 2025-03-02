@@ -24,8 +24,13 @@ Le **Parlement de la rivière Isère** entend donner une voix à la rivière :
 - démarche fluvio-sensible,
 - et appropriation des enjeux. 
 
-
 <br>
+
+
+???+ abstract "L'agenda des enjeux de l'eau"
+
+    <iframe src="https://calendar.google.com/calendar/embed?src=8d87c5682d273bfb0aef39047ccdd723d8d6a67c5b06c30edec651a787abf88a%40group.calendar.google.com&ctz=Europe%2FParis" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 
 [Nous contacter](./pages/contact/){ .md-button .md-button--secondary style="float: left; margin: 10px 0 10px 0;"}
 
@@ -37,14 +42,6 @@ Le **Parlement de la rivière Isère** entend donner une voix à la rivière :
 [LinkedIn](https://www.linkedin.com/company/parlement-de-la-rivi%C3%A8re-is%C3%A8re){target="_blank" .md-button .md-button--primary style="background-color: rgb(180,220,250, 0.7); border-color: #007AEC; border-width: 2px; color: #007AEC; float: left; margin: 10px 0 10px 0;"}
 
 
-
-???+ abstract "L'agenda des enjeux de l'eau"
-
-    <iframe src="https://calendar.google.com/calendar/embed?src=8d87c5682d273bfb0aef39047ccdd723d8d6a67c5b06c30edec651a787abf88a%40group.calendar.google.com&ctz=Europe%2FParis" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-
-
-<br><br><br><br><br>
 
 <style>
     body { 
