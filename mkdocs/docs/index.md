@@ -27,24 +27,8 @@ Le **Parlement de la rivière Isère** entend donner une voix à la rivière :
 
 <br>
 
-??? Info "Le Parlement en quelques mots"
+<iframe src="https://calendar.google.com/calendar/embed?src=8d87c5682d273bfb0aef39047ccdd723d8d6a67c5b06c30edec651a787abf88a%40group.calendar.google.com&ctz=Europe%2FParis" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-    En réponse aux inquiétudes des citoyen·ne·s concernant l’eau, sa raréfaction, ses usages et ses pollutions, est né le projet du Parlement de l’Isère. L’objectif est de protéger la rivière et le bien commun qu'est l'eau en prônant la reconnaissance des droits de la nature. 
-    
-    Le Parlement de l’Isère a vocation à devenir un espace public de discussion sur l’eau ouvert à tous-tes pour une réappropriation démocratique des enjeux de l’eau. Il serait adossé à un observatoire de l’eau qui rassemblerait et vulgariserait de manière neutre et indépendante les données disponibles sur l’eau. 
-
-    <hr>
-
-    ## Présentation lors de la Biennale des Villes en Transition
-
-    *Lien vers la vidéo : [Cliquer ici](https://vimeo.com/836806665)* 
-
-    <center><iframe src="https://player.vimeo.com/video/836806665?h=019b26d956" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></center>
-
-    <br>
-
-
-<br>
 
 [Nous contacter](./pages/contact/){ .md-button .md-button--secondary style="float: left; margin: 10px 0 10px 0;"}
 
