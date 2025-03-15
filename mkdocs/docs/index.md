@@ -14,6 +14,7 @@ hide:
 
 [Découvrir le Parlement ➜](./pages/le_parlement/presentation_parlement/){ .md-button .md-button--primary style="float: right; margin: 0 0 50px 55px;"}
 
+![](https://raw.githubusercontent.com/Konsilion/website-parlement-riviere-isere/refs/heads/master/mkdocs/media/Deuxi%C3%A8me%20Session%20du%20Parlement%20de%20la%20rivi%C3%A8re%20Is%C3%A8re.png){style="width: 600px; max-width: 100%"}
 
 # A l’écoute de la rivière
 
