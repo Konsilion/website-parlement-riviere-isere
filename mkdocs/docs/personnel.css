@@ -131,6 +131,15 @@
 
 
 
+
+.md-tabs__item--active .md-tabs__link {
+  font-weight: bold !important;
+  color: red !important;
+}
+
+
+
+
 h1 {
     color : #005DAB !important;
     font-family: 'Roboto'; 
