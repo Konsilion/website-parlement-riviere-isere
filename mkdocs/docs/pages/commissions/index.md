@@ -9,7 +9,7 @@ hide:
 <details>
   <summary><strong>Devenir Gardiens & Gardiennes de l'eau ?</strong></summary>
   <iframe 
-    src="https://framaforms.org/organisation-evenement-parlement-riviere-isere-1746719833" 
+    src="https://framaforms.org/agenda-parlement-riviere-isere-1746719833" 
     width="100%" 
     height="1350" 
     style="border: none;">
