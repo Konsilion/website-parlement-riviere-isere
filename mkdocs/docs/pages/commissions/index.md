@@ -5,7 +5,7 @@ hide:
 
 # Organisation du Parlement
 
-
+Les gardien.ne.s de la rivière s'organisent autour de **quatre commissions** afin de collectivement, prendre part à la réappropriation des enjeux de l'Eau. Le [comité d'organisation](https://parlement-isere.org/pages/contact) est chargé principalement de faire du lien entre les commissions et le territoire. 
 
 <div class="ksln-grid-4c">
     <a href="https://parlement-isere.org/pages/commissions/democratie/contact">
@@ -32,10 +32,6 @@ hide:
 
 ## Devenir - Gardiennes & Gardiens - de la Rivière
 
-Les gardien.ne.s de la rivière s'organisent autour de **quatre commissions** afin de collectivement, prendre part à la réappropriation des enjeux de l'Eau. Le [comité d'organisation](https://parlement-isere.org/pages/contact) est chargé principalement de faire du lien entre les commissions et le territoire. 
-
----
-
 <div class="accordeon">
   <details>
     <summary>Signaler un événement autour des enjeux de l'eau</summary>
@@ -54,30 +50,6 @@ Les gardien.ne.s de la rivière s'organisent autour de **quatre commissions** af
 
 
 
-
-<style>
-.accordeon {
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  margin: 1em 0;
-}
-
-.accordeon summary {
-  font-weight: bold;
-  cursor: pointer;
-  padding: 0.5em;
-  background-color: #f0f0f0;
-  border-bottom: 1px solid #ccc;
-}
-
-.accordeon details[open] summary {
-  background-color: #e0e0e0;
-}
-
-.accordeon details > div {
-  padding: 0.5em 1em;
-}
-</style>
 
 
 
