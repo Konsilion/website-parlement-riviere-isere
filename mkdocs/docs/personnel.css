@@ -135,6 +135,7 @@
 .md-tabs__item--active .md-tabs__link {
   font-weight: bold !important;
   color: red !important;
+  text-decoration: underline !important;
 }
 
 
