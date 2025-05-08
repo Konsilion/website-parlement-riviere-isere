@@ -6,9 +6,7 @@ hide:
 
 [Compte Rendu de la 1ère Session ➜](https://parlement-isere.org/pages/cr/premiere_session/){ .md-button .md-button--secondary style="float: right; margin: 20px 0 50px 0px; text-align: left;"}
 
-# Parlement de la rivière Isère
-
-## Un projet de Parlement ?
+# Un projet de Parlement de l'eau citoyen ?
 
 En réponse aux inquiétudes des citoyen·ne·s concernant l’eau, sa raréfaction, ses pollutions et son accaparement, est né le projet du Parlement de la rivière Isère. 
 
