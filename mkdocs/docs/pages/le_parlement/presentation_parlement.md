@@ -68,7 +68,7 @@ Le Parlement de la rivière Isère est un collectif d'associations fonctionnant 
 </div>
 
 
-## Présentation à la Biennale des Villes en Transition 2023
+## Biennale des Villes en Transition 2023
 
 Lien vers la vidéo : [Cliquer ici](https://vimeo.com/836806665)
 
