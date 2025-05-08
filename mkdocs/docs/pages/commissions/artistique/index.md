@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Rejoindre le Groupe de Travail - Artistique & Approche sensible
+# Commission Artistique & Approche sensible
 
 ---
 
