@@ -13,7 +13,7 @@ nav:
         - Scientifique : pages/commissions/scientifique/contact.md
 
     - Documentation partagée : 
-        - pages/documentation/dossier_partage.md
+        - pages/documentation/index.md
         - Comprendre la gestion de l'eau ? : pages/commissions/scientifique/cartes_mentales/gestion.md
             
     - Nous contacter: pages/contact.md
