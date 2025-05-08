@@ -23,7 +23,7 @@ Les **4 dimensions du Parlement** :
 * Une dimension **juridique** : Engager une réflexion sur les droits de la nature et considérer la rivière comme une entité ayant une valeur intrinsèque et pouvant prétendre à la personnalité juridique et morale.
 * Une dimension **culturelle et artistique** : Révéler et développer l’attachement à la rivière et à l’eau et créer de nouveaux imaginaires autour du « fluvio-sensible » par différentes formes (récits, peinture, podcast, balades, spectacles, etc.).
 
-[Compte Rendu de la 1ère Session ➜](https://parlement-isere.org/pages/cr/premiere_session/){ .md-button .md-button--secondary}
+[Compte Rendu de la 1ère Session ➜](https://parlement-isere.org/pages/cr/premiere_session/){ .md-button .md-button--secondary .bouton-large-mobile style="text-align: center; float: right; margin: 20px 0 50px 0px; border-radius: 50px !important;" }
 
 ### Gardiennes & Gardiens de la rivière
 
