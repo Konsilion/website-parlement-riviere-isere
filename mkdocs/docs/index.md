@@ -27,8 +27,6 @@ Le **Parlement de la rivière Isère** entend donner une voix à la rivière :
 
 [Nous contacter](./pages/contact/){ .md-button .md-button--secondary style="float: right; margin: 10px 0 10px 0;"}
 
-![](https://raw.githubusercontent.com/Konsilion/website-parlement-riviere-isere/refs/heads/master/mkdocs/media/Deuxi%C3%A8me%20Session%20du%20Parlement%20de%20la%20rivi%C3%A8re%20Is%C3%A8re.png){style="width: 750px; max-width: 100%"}
-
 
 <hr>
 
