@@ -29,7 +29,7 @@ Les **4 dimensions du Parlement** :
 
 Les gardien.ne.s de la rivière s'organisent autour de **quatre commissions** afin de collectivement, prendre part à la réappropriation des enjeux de l'eau. Le comité d'organisation est chargé principalement de faire du lien entre les commissions et le territoire.
 
-[E, savoir plus ➜](https://parlement-isere.org/pages/commissions/){ .md-button .md-button--secondary}
+[E, savoir plus ➜](https://parlement-isere.org/pages/commissions/){ .md-button .md-button--primary}
 
 
 ### Le collectif
