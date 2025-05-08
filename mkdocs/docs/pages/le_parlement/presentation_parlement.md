@@ -4,7 +4,7 @@ hide:
     -navigation
 ---
 
-[Compte Rendu de la 1ère Session ➜](https://parlement-isere.org/pages/cr/premiere_session/){ .md-button .md-button--secondary style="float: right; margin: 20px 0 50px 0px; text-align: left;"}
+[Compte Rendu de la 1ère Session ➜](https://parlement-isere.org/pages/cr/premiere_session/){ .md-button .md-button--secondary}
 
 # Le Parlement de la rivière Isère
 
