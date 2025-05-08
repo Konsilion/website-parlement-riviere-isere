@@ -39,7 +39,6 @@ theme:
     name: material
     features:
       - content.action.edit
-      - navigation.expand
       - navigation.indexes
       - navigation.tracking
       - navigation.top
