@@ -23,8 +23,6 @@ Le **Parlement de la rivière Isère** entend donner une voix à la rivière :
 - démarche fluvio-sensible,
 - et appropriation des enjeux.
 
-<br>
-
 [Nous contacter](./pages/contact/){ .md-button .md-button--secondary style="float: right; margin: 10px 0 10px 0;"}
 
 
