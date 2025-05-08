@@ -29,6 +29,8 @@ Le **Parlement de la rivière Isère** entend donner une voix à la rivière :
 
 <br>
 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Europe%2FParis&showPrint=0&mode=AGENDA&showTabs=0&showCalendars=0&showTz=0&title=Agenda%20partag%C3%A9%20des%20enjeux%20de%20l'eau&src=OGQ4N2M1NjgyZDI3M2JmYjBhZWYzOTA0N2NjZGQ3MjNkOGQ2YTY3YzViMDZjMzBlZGVjNjUxYTc4N2FiZjg4YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23795548" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 <details>
   <summary><strong>Prévenir d'un événement</strong></summary>
   <iframe 
@@ -40,9 +42,8 @@ Le **Parlement de la rivière Isère** entend donner une voix à la rivière :
 </details>
 
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Europe%2FParis&showPrint=0&mode=AGENDA&showTabs=0&showCalendars=0&showTz=0&title=Agenda%20partag%C3%A9%20des%20enjeux%20de%20l'eau&src=OGQ4N2M1NjgyZDI3M2JmYjBhZWYzOTA0N2NjZGQ3MjNkOGQ2YTY3YzViMDZjMzBlZGVjNjUxYTc4N2FiZjg4YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23795548" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-<br><br><br>
+<br><br>
 
 
 
