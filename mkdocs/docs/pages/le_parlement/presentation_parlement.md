@@ -96,9 +96,9 @@ Le Parlement de la rivière Isère est un collectif d'associations fonctionnant 
 
 ## Présentation lors de la Biennale des Villes en Transition
 
-Lien vers la vidéo : [Cliquer ici](https://vimeo.com/836806665){style="float: left; margin: 20px 0 50px 0px; text-align: left;"}
+Lien vers la vidéo : [Cliquer ici](https://vimeo.com/836806665)
 
-<center><iframe src="https://player.vimeo.com/video/836806665?h=019b26d956" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe src="https://player.vimeo.com/video/836806665?h=019b26d956" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen; style="float: left; margin: 20px 0 50px 0px; text-align: left;"></iframe></center>
 
 
 
