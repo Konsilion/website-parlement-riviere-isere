@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Rejoindre le Groupe de Travail - Sciences
+# Commission Sciences
 
 ---
 
