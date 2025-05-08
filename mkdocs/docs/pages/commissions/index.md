@@ -44,5 +44,9 @@ Les gardien.ne.s de la rivière s'organisent autour de **quatre commissions** af
 
 
 
-
+<style>
+    .md-typeset details {
+        padding: 0.15rem !important;
+    }
+</style>
 
