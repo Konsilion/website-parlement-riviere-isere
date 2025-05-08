@@ -5,7 +5,6 @@ hide:
 
 # Organisation du Parlement
 
-## Gardiennes & Gardiens de la Rivière
 
 
 <div class="ksln-grid-4c">
@@ -31,12 +30,9 @@ hide:
     </a>
 </div>
 
-
-
+## Devenir - Gardiennes & Gardiens - de la Rivière
 
 Les gardien.ne.s de la rivière s'organisent autour de **quatre commissions** afin de collectivement, prendre part à la réappropriation des enjeux de l'Eau. Le [comité d'organisation](https://parlement-isere.org/pages/contact) est chargé principalement de faire du lien entre les commissions et le territoire. 
-
-
 
 ---
 
