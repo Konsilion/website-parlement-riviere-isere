@@ -32,30 +32,6 @@ Les **4 dimensions du Parlement** :
 
 Les gardien.ne.s de la rivière s'organisent autour de **quatre commissions** afin de collectivement, prendre part à la réappropriation des enjeux de l'eau. Le comité d'organisation est chargé principalement de faire du lien entre les commissions et le territoire.
 
-<div class="ksln-grid-4c">
-    <a href="https://parlement-isere.org/pages/commissions/democratie/contact">
-        <div class="ksln-cards" style="margin: 0px auto auto auto; text-align: center;">
-            <b>Commission Démocratique</b>
-        </div>
-    </a>
-    <a href="https://parlement-isere.org/pages/commissions/juridique/contact">
-        <div class="ksln-cards" style="margin: 0px auto auto auto; text-align: center;">
-            <b>Commission Juridique </b>
-        </div>
-    </a>
-    <a href="https://parlement-isere.org/pages/commissions/artistique/contact">
-        <div class="ksln-cards" style="margin: 0px auto auto auto; text-align: center;">
-            <b>Commission Artistique</b>
-        </div>
-    </a>
-    <a href="https://parlement-isere.org/pages/commissions/scientifique/contact">
-        <div class="ksln-cards" style="margin: 0px auto auto auto; text-align: center;">
-            <b>Commission Scientifique</b>
-        </div>
-    </a>
-</div>
-
-
 ## Le collectif
 
 Le Parlement de la rivière Isère est un collectif d'associations fonctionnant en archipel[^1]. Il s'organise autour d'un projet commun, sans pour autant créer une nouvelle structure. Des étudiant·e·s de SciencesPo Grenoble et de l’École Nationale Supérieure d’Architecture de Grenoble ont également travaillé sur le projet pour des rapports ou mémoires. 
