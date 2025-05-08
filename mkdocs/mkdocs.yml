@@ -10,8 +10,7 @@ nav:
         - Artistique : 
             - Galerie d'image : pages/commissions/artistique/images.md
             - Contact : pages/commissions/artistique/contact.md
-        - Scientifique :
-            - Contact : pages/commissions/scientifique/contact.md
+        - Scientifique : pages/commissions/scientifique/contact.md
 
     - Documentation: 
         - Dossier partagé : pages/documentation/dossier_partage.md
