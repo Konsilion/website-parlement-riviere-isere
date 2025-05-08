@@ -26,7 +26,7 @@ Les **4 dimensions du Parlement** :
 * Une dimension **culturelle et artistique** : Révéler et développer l’attachement à la rivière et à l’eau et créer de nouveaux imaginaires autour du « fluvio-sensible » par différentes formes (récits, peinture, podcast, balades, spectacles, etc.).
 
 
-## Gardiennes & Gardiens de la rivière
+## Gardiennes & Gardiens de la rivière - Les commissions
 
 [En savoir plus ➜](https://parlement-isere.org/pages/commissions/){ .md-button .md-button--secondary}
 
