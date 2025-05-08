@@ -11,13 +11,15 @@ nav:
             - Galerie d'image : pages/commissions/artistique/images.md
             - Contact : pages/commissions/artistique/contact.md
         - Scientifique :
-            - Accueil : pages/commissions/scientifique/cartes_mentales/gare_numerique.md
-            - Comprendre la gestion de l'eau ? : pages/commissions/scientifique/cartes_mentales/gestion.md
             - Contact : pages/commissions/scientifique/contact.md
 
-    - Documentation: pages/documentation/dossier_partage.md
-    
+    - Documentation: 
+            - Dossier partagé : pages/documentation/dossier_partage.md
+            - Comprendre la gestion de l'eau ? : pages/commissions/scientifique/cartes_mentales/gestion.md
+            
     - Nous contacter: pages/contact.md
+
+
 
 
 
