@@ -28,8 +28,6 @@ Les **4 dimensions du Parlement** :
 
 ## Gardiennes & Gardiens de la rivière - Les commissions
 
-[En savoir plus ➜](https://parlement-isere.org/pages/commissions/){ .md-button .md-button--secondary}
-
 Les gardien.ne.s de la rivière s'organisent autour de **quatre commissions** afin de collectivement, prendre part à la réappropriation des enjeux de l'eau. Le comité d'organisation est chargé principalement de faire du lien entre les commissions et le territoire.
 
 ## Le collectif
@@ -74,7 +72,7 @@ Le Parlement de la rivière Isère est un collectif d'associations fonctionnant 
 
 Lien vers la vidéo : [Cliquer ici](https://vimeo.com/836806665)
 
-<center><iframe src="https://player.vimeo.com/video/836806665?h=019b26d956" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen; style="float: left; margin: 20px 0 50px 0px; text-align: left;"></iframe></center>
+<center><iframe src="https://player.vimeo.com/video/836806665?h=019b26d956" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen; text-align: left;"></iframe></center>
 
 
 
