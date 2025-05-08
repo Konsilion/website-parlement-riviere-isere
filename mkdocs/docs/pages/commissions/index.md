@@ -30,8 +30,6 @@ Les gardien.ne.s de la rivière s'organisent autour de **quatre commissions** af
     </a>
 </div>
 
-## Devenir - Gardiennes & Gardiens - de la Rivière
-
 <details>
   <summary><strong>Devenir Gardiens & Gardiennes de l'eau</strong></summary>
   <iframe 
