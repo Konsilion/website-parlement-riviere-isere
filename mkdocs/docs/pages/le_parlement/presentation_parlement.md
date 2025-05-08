@@ -26,7 +26,7 @@ Les **4 dimensions du Parlement** :
     * Une dimension **culturelle et artistique** : Révéler et développer l’attachement à la rivière et à l’eau et créer de nouveaux imaginaires autour du « fluvio-sensible » par différentes formes (récits, peinture, podcast, balades, spectacles, etc.).
 
 
-### Gardiennes & Gardiens de la rivière
+## Gardiennes & Gardiens de la rivière
 
 Les gardien.ne.s de la rivière s'organisent autour de **quatre commissions** afin de collectivement, prendre part à la réappropriation des enjeux de l'eau. Le comité d'organisation est chargé principalement de faire du lien entre les commissions et le territoire. 
 
@@ -52,8 +52,6 @@ Les gardien.ne.s de la rivière s'organisent autour de **quatre commissions** af
         </div>
     </a>
 </div>
-
-??? abstract "Les dimensions du Parlement"
 
 
 ## Le collectif
