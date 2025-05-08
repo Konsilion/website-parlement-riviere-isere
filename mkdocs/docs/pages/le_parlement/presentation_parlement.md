@@ -8,7 +8,7 @@ hide:
 
 # Le Parlement de la rivière Isère
 
-## Un projet de Parlement de l'eau citoyen ?
+## Présentation
 
 En réponse aux inquiétudes des citoyen·ne·s concernant l’eau, sa raréfaction, ses pollutions et son accaparement, est né le projet du Parlement de la rivière Isère. 
 
@@ -26,7 +26,7 @@ Les **4 dimensions du Parlement** :
 * Une dimension **culturelle et artistique** : Révéler et développer l’attachement à la rivière et à l’eau et créer de nouveaux imaginaires autour du « fluvio-sensible » par différentes formes (récits, peinture, podcast, balades, spectacles, etc.).
 
 
-### Gardiennes & Gardiens de la rivière - Les commissions
+### Gardiennes & Gardiens de la rivière
 
 Les gardien.ne.s de la rivière s'organisent autour de **quatre commissions** afin de collectivement, prendre part à la réappropriation des enjeux de l'eau. Le comité d'organisation est chargé principalement de faire du lien entre les commissions et le territoire.
 
