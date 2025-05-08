@@ -1,9 +1,9 @@
 nav:
     - Accueil: index.md
 
-    - Le projet ? : pages/le_parlement/presentation_parlement.md
+    - Le Parlement : pages/le_parlement/presentation_parlement.md
 
-    - Le Parlement : 
+    - Les Commissions : 
         - pages/commissions/index.md
         - Démocratique : pages/commissions/democratie/contact.md
         - Juridique : pages/commissions/juridique/contact.md
