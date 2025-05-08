@@ -60,11 +60,11 @@ Le **Parlement de la rivière Isère** entend donner une voix à la rivière :
     }
     
     .md-content{
-        margin: 50px auto;
+        margin: 0px auto;
         max-width: 1250px;
-        padding: 0 25px;
+        padding: 0px;
     }    
-  
+ 
     .md-content__button{display:none}
 
 </style>
