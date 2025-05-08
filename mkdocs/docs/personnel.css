@@ -187,11 +187,12 @@ article p, article li {
 
 
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 700px) {
   .bouton-large-mobile {
-    display: block;
-    width: 100% !important;
     float: none !important;
+    width: 75% !important;
+    margin: 20px auto 50px auto !important;
+    display: block;
     text-align: center !important;
   }
 }
