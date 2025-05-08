@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Rejoindre le Groupe de Travail - Démocratie
+# Commission Démocratie
 
 ---
 Le Parlement de la rivière Isère vise la **réappropriation démocratique des enjeux de l’eau** et cherche à étendre la participation citoyenne sur ces enjeux.
