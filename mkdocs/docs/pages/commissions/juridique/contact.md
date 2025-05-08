@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Groupe de Travail - Juridique
+# Rejoindre le Groupe de Travail - Juridique
 
 Conformément aux remarques soulevées lors de la première session du Parlement de la rivière Isère du 28 septembre 2024, les objectifs de la commission juridique sont de :
 
