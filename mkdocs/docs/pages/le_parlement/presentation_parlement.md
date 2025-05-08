@@ -4,8 +4,6 @@ hide:
     -navigation
 ---
 
-[Compte Rendu de la 1ère Session ➜](https://parlement-isere.org/pages/cr/premiere_session/){ .md-button .md-button--secondary}
-
 # Le Parlement de la rivière Isère
 
 ## Présentation
@@ -25,10 +23,14 @@ Les **4 dimensions du Parlement** :
 * Une dimension **juridique** : Engager une réflexion sur les droits de la nature et considérer la rivière comme une entité ayant une valeur intrinsèque et pouvant prétendre à la personnalité juridique et morale.
 * Une dimension **culturelle et artistique** : Révéler et développer l’attachement à la rivière et à l’eau et créer de nouveaux imaginaires autour du « fluvio-sensible » par différentes formes (récits, peinture, podcast, balades, spectacles, etc.).
 
+[Compte Rendu de la 1ère Session ➜](https://parlement-isere.org/pages/cr/premiere_session/){ .md-button .md-button--secondary}
 
 ### Gardiennes & Gardiens de la rivière
 
 Les gardien.ne.s de la rivière s'organisent autour de **quatre commissions** afin de collectivement, prendre part à la réappropriation des enjeux de l'eau. Le comité d'organisation est chargé principalement de faire du lien entre les commissions et le territoire.
+
+[E, savoir plus ➜](https://parlement-isere.org/pages/commissions/){ .md-button .md-button--secondary}
+
 
 ### Le collectif
 
