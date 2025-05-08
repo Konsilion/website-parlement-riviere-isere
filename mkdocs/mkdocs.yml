@@ -1,9 +1,9 @@
 nav:
     - Accueil: index.md
 
-    - Le Parlement: pages/le_parlement/presentation_parlement.md
+    - Le Projet ? : pages/le_parlement/presentation_parlement.md
 
-    - Les Commissions : 
+    - Commissions : 
         - pages/commissions/index.md
         - Démocratique : pages/commissions/democratie/contact.md
         - Juridique : pages/commissions/juridique/contact.md
@@ -17,7 +17,7 @@ nav:
         - pages/documentation/index.md
         - Comprendre la gestion de l'eau ? : pages/commissions/scientifique/cartes_mentales/gestion.md
             
-    - Nous contacter: pages/contact.md
+    - Contact : pages/contact.md
 
 
 
