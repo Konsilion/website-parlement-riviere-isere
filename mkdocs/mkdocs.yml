@@ -1,7 +1,7 @@
 nav:
     - Accueil: index.md
 
-    - Le Parlement : pages/le_parlement/presentation_parlement.md
+    - Le projet ? : pages/le_parlement/presentation_parlement.md
 
     - Les Commissions : 
         - pages/commissions/index.md
