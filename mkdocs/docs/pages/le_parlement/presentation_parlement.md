@@ -6,7 +6,9 @@ hide:
 
 [Compte Rendu de la 1ère Session ➜](https://parlement-isere.org/pages/cr/premiere_session/){ .md-button .md-button--secondary style="float: right; margin: 20px 0 50px 0px; text-align: left;"}
 
-# Un projet de Parlement de l'eau citoyen ?
+# Le Parlement de la rivière Isère
+
+## Un projet de Parlement de l'eau citoyen ?
 
 En réponse aux inquiétudes des citoyen·ne·s concernant l’eau, sa raréfaction, ses pollutions et son accaparement, est né le projet du Parlement de la rivière Isère. 
 
@@ -24,11 +26,11 @@ Les **4 dimensions du Parlement** :
 * Une dimension **culturelle et artistique** : Révéler et développer l’attachement à la rivière et à l’eau et créer de nouveaux imaginaires autour du « fluvio-sensible » par différentes formes (récits, peinture, podcast, balades, spectacles, etc.).
 
 
-## Gardiennes & Gardiens de la rivière - Les commissions
+### Gardiennes & Gardiens de la rivière - Les commissions
 
 Les gardien.ne.s de la rivière s'organisent autour de **quatre commissions** afin de collectivement, prendre part à la réappropriation des enjeux de l'eau. Le comité d'organisation est chargé principalement de faire du lien entre les commissions et le territoire.
 
-## Le collectif
+### Le collectif
 
 Le Parlement de la rivière Isère est un collectif d'associations fonctionnant en archipel[^1]. Il s'organise autour d'un projet commun, sans pour autant créer une nouvelle structure. Des étudiant·e·s de SciencesPo Grenoble et de l’École Nationale Supérieure d’Architecture de Grenoble ont également travaillé sur le projet pour des rapports ou mémoires. 
     
@@ -66,7 +68,7 @@ Le Parlement de la rivière Isère est un collectif d'associations fonctionnant 
 </div>
 
 
-## Présentation lors de la Biennale des Villes en Transition
+## Présentation à la Biennale des Villes en Transition 2023
 
 Lien vers la vidéo : [Cliquer ici](https://vimeo.com/836806665)
 
