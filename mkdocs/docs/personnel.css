@@ -181,3 +181,14 @@ article p, article li {
 }
 
 .md-content {margin-bottom: 75px !important;}
+
+
+
+@media screen and (max-width: 500px) {
+  .bouton-large-mobile {
+    display: block;
+    width: 100% !important;
+    float: none !important;
+    text-align: center !important;
+  }
+}
