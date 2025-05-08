@@ -60,7 +60,7 @@ Le Parlement de la rivière Isère est un collectif d'associations fonctionnant 
         <b>Civipole</b></h3>
         <a class="md-button md-button--primary" href="https://civipole.org/" target="_blank">Lien</a>
     </div>
-    <a href="https://parlement-isere.org/pages/commissions/" target="_blank"><div class="ksln-cards" style="margin: 0px auto auto auto;">
+    <a href="https://parlement-isere.org/pages/commissions/"><div class="ksln-cards" style="margin: 0px auto auto auto;">
         <h3><img src="https://media.istockphoto.com/id/1472347042/fr/vectoriel/trois-personnes-ligne-noire-ic%C3%B4ne-vectorielle.jpg?s=612x612&w=0&k=20&c=vFdAS5ZS7fSutaKPCLj9Iuc94Fs2IESmOReegLw078U=" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
         <b>Et vous ?</b></h3>
         Devenez Gardiennes & Gardiens de l'Isère.
