@@ -22,6 +22,11 @@ hide:
 
 
 <style> 
+
+  body {
+    overflow: hidden;
+  }
+
   h1 { display: none !important; } 
   .md-content { padding: 0 !important; } 
   article { margin: 0 !important; padding: 0 !important; } 
