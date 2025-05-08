@@ -37,16 +37,8 @@ Les gardien.ne.s de la rivière s'organisent autour de **quatre commissions** af
   <iframe 
     src="https://framaforms.org/organisation-evenement-parlement-riviere-isere-1746719833" 
     width="100%" 
-    height="1500" 
+    height="1350" 
     style="border: none;">
   </iframe>
 </details>
-
-
-
-<style>
-    .md-typeset details {
-        padding: 0.15rem !important;
-    }
-</style>
 
