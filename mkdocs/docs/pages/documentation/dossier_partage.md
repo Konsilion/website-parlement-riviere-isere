@@ -1,7 +1,6 @@
 ---
 hide:
   - toc
-  - navigation
 ---
 
 # Documentation partagée - Parlement de la rivière Isère
