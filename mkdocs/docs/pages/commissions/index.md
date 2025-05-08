@@ -33,7 +33,7 @@ Les gardien.ne.s de la rivière s'organisent autour de **quatre commissions** af
 ## Devenir - Gardiennes & Gardiens - de la Rivière
 
 <details>
-  <summary><strong>Signaler un événement autour des enjeux de l'eau</strong></summary>
+  <summary><strong>Devenir Gardiens & Gardiennes de l'eau</strong></summary>
   <iframe 
     src="https://framaforms.org/organisation-evenement-parlement-riviere-isere-1746719833" 
     width="95%" 
