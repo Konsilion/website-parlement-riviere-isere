@@ -6,6 +6,8 @@ hide:
 
 # Le Parlement de la rivière Isère
 
+[Compte Rendu de la 1ère Session ➜](https://parlement-isere.org/pages/cr/premiere_session/){ .md-button .md-button--secondary .bouton-large-mobile style="text-align: center; float: right; margin: 20px 0 50px 0px; border-radius: 50px !important;" }
+
 ## Présentation
 
 En réponse aux inquiétudes des citoyen·ne·s concernant l’eau, sa raréfaction, ses pollutions et son accaparement, est né le projet du Parlement de la rivière Isère. 
@@ -13,8 +15,6 @@ En réponse aux inquiétudes des citoyen·ne·s concernant l’eau, sa raréfact
 L’objectif est de **protéger la rivière** et le **bien commun** qu'est l'eau par la reconnaissance de **droits à la nature** et la **réappropriation démocratique des enjeux de l’eau**. 
 
 Il ne s’agit pas d’abandonner la démocratie représentative, mais de l’enrichir avec des formes participatives et directes. Cela pourrait passer par des droits confiés à des assemblées populaires, tels que le droit de veto temporaire, l'institution de conventions citoyennes à l’initiative de référendums.  
-
-[Compte Rendu de la 1ère Session ➜](https://parlement-isere.org/pages/cr/premiere_session/){ .md-button .md-button--secondary .bouton-large-mobile style="text-align: center; float: right; margin: 20px 0 50px 0px; border-radius: 50px !important;" }
 
 Nous proposons deé, en la rend resocialiser la libertant collective, et d’élargir l’espace démocratique. Dans un contexte de décroissance, cela permettrait de repenser des institutions plus inclusives aux enjeux écologiques et sociaux.
 
