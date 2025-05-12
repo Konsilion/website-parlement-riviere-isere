@@ -1,4 +1,13 @@
-# Galerie d'images
+# Galerie d'images - les rivières de l'Isère
+
+Dans la peinture, la sculpture, la littérature, la photographie, la chanson, le cinéma, …
+Développer et retrouver notre attachement à la rivière Isère et ses affluents
+
+* Ecrivez vos souvenirs
+* Partagez vos découvertes
+* Découvrez notre patrimoine commun
+
+---
 
 ## Présentation du projet
 
