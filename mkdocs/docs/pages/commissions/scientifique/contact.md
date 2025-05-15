@@ -5,8 +5,6 @@ hide:
 
 # Commission Sciences
 
----
-
 Conformément aux remarques soulevées lors de la première session du Parlement de la rivière Isère du 28 septembre 2024, les objectifs de la commission scientifique sont de :
 
 * **Constituer une base documentaire** : Rassembler et organiser les données scientifiques disponibles sur l'Isère et ses affluents pour créer une ressource centralisée et accessible.
