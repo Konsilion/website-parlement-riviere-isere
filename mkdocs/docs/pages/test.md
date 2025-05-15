@@ -12,7 +12,15 @@ hide:
 
 
 
-
+<details>
+  <summary><strong>Prise de notes - Comité d'organisation</strong></summary>
+  <iframe 
+    src="https://framaforms.org/gardienne-du-parlement-de-la-riviere-isere-1746732524" 
+    width="100%" 
+    height="1350" 
+    style="border: none;">
+  </iframe>
+</details>
 
 
 
