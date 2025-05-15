@@ -10,7 +10,9 @@ nav:
         - Artistique :
             - pages/commissions/artistique/index.md
             - Galerie d'image : pages/commissions/artistique/images.md
-        - Scientifique : pages/commissions/scientifique/contact.md
+        - Scientifique : 
+            - pages/commissions/scientifique/index.md
+            - Prises de notes : pages/commissions/scientifique/prise_note.md
 
     - Documentation : 
         - pages/documentation/index.md
