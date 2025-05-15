@@ -5,13 +5,6 @@ hide:
 ---
 
 
-
-
-
-<iframe src="https://pad.libreon.fr/s/ztgftJToR#" width="800" height="600" frameborder="0"></iframe>
-
-
-
 <details>
   <summary><strong>Prise de notes - Comité d'organisation</strong></summary>
   <iframe 
