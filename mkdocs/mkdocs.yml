@@ -16,7 +16,7 @@ nav:
 
     - Documentation : 
         - pages/documentation/index.md
-        - Comprendre la gestion de l'eau ? : pages/commissions/scientifique/cartes_mentales/gestion.md
+        - La gestion de l'eau : pages/commissions/scientifique/cartes_mentales/gestion.md
             
     - Contact : pages/contact.md
 
