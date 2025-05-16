@@ -44,7 +44,7 @@ Le Parlement de la rivière Isère est un collectif d'associations fonctionnant 
         <a class="md-button md-button--primary" href="https://www.fne-aura.org/isere/" target="_blank">Lien</a>
     </div>
     <div class="ksln-cards" style="margin: 0px auto auto auto;">
-        <h3><img src="https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/Logo-Pacte-Pouvoir-Vivre.png?raw=true" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
+        <h3><img src="https://raw.githubusercontent.com/Konsilion/website-parlement-riviere-isere/b5361505d5b5e35e06deff69f9a50afdfe906c06/mkdocs/media/logo%20PPV%20Is%C3%A8re-1.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
         <b>Le Pacte du pouvoir vivre Isère</b></h3>
         <a class="md-button md-button--primary" href="https://www.pactedupouvoirdevivre.fr/groupelocaleisere" target="_blank">Lien</a>
     </div>
