@@ -8,7 +8,7 @@ hide:
 <details>
   <summary><strong>Prise de notes - Comité d'organisation</strong></summary>
   <iframe 
-    src="https://pad.libreon.fr/s/ztgftJToR#" 
+    src="https://aquarepere.banquedesterritoires.fr/territoire/86031cfd-65d5-4321-8be3-4c7048d3f80f/EPTB%20Is%C3%A8re" 
     width="100%" 
     height="1350" 
     style="border: none;">
