@@ -17,7 +17,7 @@ nav:
     - Documentation : 
         - pages/documentation/index.md
         - La gestion de l'eau : pages/commissions/scientifique/cartes_mentales/gestion.md
-        - AquaRepere : pages/test.md
+        - AquaRepere : pages/documentation/aquarepere.md
             
     - Contact : pages/contact.md
 
