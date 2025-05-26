@@ -16,9 +16,7 @@ Les gardien.ne.s de la rivière s'organisent autour de **quatre commissions** af
 
 
 
-<style> 
-  .md-content { padding: 0 !important; } 
-  article { margin: 0 !important; padding: 0 !important; } 
+<style>  
 
   .parent-container {
     position: relative; /* Pour que l'iframe-container se positionne par rapport à ce div */
