@@ -17,7 +17,6 @@ Les gardien.ne.s de la rivière s'organisent autour de **quatre commissions** af
 
 
 <style> 
-  h1 { display: none !important; } 
   .md-content { padding: 0 !important; } 
   article { margin: 0 !important; padding: 0 !important; } 
 
@@ -35,7 +34,7 @@ Les gardien.ne.s de la rivière s'organisent autour de **quatre commissions** af
     height: calc(100% - 105px); /* Ajustement de la hauteur en fonction du top */
   } 
   
-/* Media query pour écrans l²6+arges */
+/* Media query pour écrans larges */
   @media (min-width: 1220px) { 
     .iframe-container { 
       height: calc(100% - 155px); /* Ajustement correspondant */
@@ -49,10 +48,4 @@ Les gardien.ne.s de la rivière s'organisent autour de **quatre commissions** af
     border: none; 
   }
 
-  .md-grid {
-    /* margin-left: auto; */
-    /* margin-right: auto; */
-    max-width: 100%;
-  }
-    
 </style>
