@@ -1,4 +1,5 @@
 ---
+title: Accueil documentation
 hide:
   - toc
 ---
