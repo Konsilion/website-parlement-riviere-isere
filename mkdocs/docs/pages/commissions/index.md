@@ -12,9 +12,9 @@ Les gardiennes & gardiens de la rivière s'organisent autour de **quatre commiss
 
     En ce 22 mars 2025, Journée Mondiale de l’Eau, **nous lançons un appel à rejoindre les Gardiens et les Gardiennes** des milieux aquatiques du bassin versant de la rivière Isère et de l’ensemble des masses d’eau affluentes. Ainsi, toute personne physique peut devenir Gardien ou Gardienne afin de faire entendre la voix de la rivière et de ses eaux.[^1]
     
-    Les Gardiens et les Gardiennes pourront endosser le **rôle de sentinelle** de la nature pour la rivière, sur le modèle des sentinelles de la nature proposé par France Nature Environnement, et qui permet à tout·e citoyen·ne d'effectuer des signalements. *([en savoir plus](https://sentinellesdelanature.fr/))*
+    Les Gardiens et les Gardiennes pourront endosser le **rôle de sentinelle** de la nature pour la rivière, sur le modèle des sentinelles de la nature proposé par [France Nature Environnement](https://sentinellesdelanature.fr/)*, et qui permet à tout·e citoyen·ne d'effectuer des signalements. Et celà afin d'informer les autorités d'activités pouvant nuire à la qualité et à l’intégrité des eaux. 
     
-    * **Si le signalement n'est pas suffisant** : Les Gardien·ne·s pourront alerter les pouvoirs publics et les administrations telles que la DREAL, l’ARS ou encore porter à la connaissance des autorités de poursuites, telles que le parquet, afin de signaler tous les activités qui pourraient nuire à la qualité et à l’intégrité des eaux, et qui pourraient constituer des infractions. 
+    * **Si le signalement ne suffit pas** : Les Gardien·ne·s pourront alors alerter les pouvoirs publics ou les services concernés – comme la DREAL, l’ARS ou l’OFB – en cas de manquements ou d’infractions possibles. Informer les autorités, voire ^^saisir le parquet si nécessaire^^, fait partie des **moyens concrets à disposition des citoyen·ne·s pour défendre les rivières**. C’est aussi une façon de réaffirmer que la protection de l’eau est l’affaire de toutes et tous, dans le cadre de l'État de droit.
 
 
 ## Devenir membre du Parlement
