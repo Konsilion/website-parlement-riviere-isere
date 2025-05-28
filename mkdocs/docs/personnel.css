@@ -82,7 +82,10 @@ article p, article li {
 
 .md-nav__title {font-size: 20px;}
 
-
+.md-nav__item {
+    font-size: 16px;
+    font-weight: bold;	
+}
 
 /*.md-content p,
 .md-content li {
