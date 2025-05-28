@@ -24,15 +24,13 @@ Les **4 dimensions du Parlement** :
 * Une dimension **juridique** : Engager une réflexion sur les droits de la nature et considérer la rivière comme une entité ayant une valeur intrinsèque et pouvant prétendre à la personnalité juridique et morale.
 * Une dimension **culturelle et artistique** : Révéler et développer l’attachement à la rivière et à l’eau et créer de nouveaux imaginaires autour du « fluvio-sensible » par différentes formes (récits, peinture, podcast, balades, spectacles, etc.).
 
-
-### Gardiennes & Gardiens de la rivière
+## Gardiennes & Gardiens de la rivière
 
 Les gardien.ne.s de la rivière s'organisent autour de **quatre commissions** afin de collectivement, prendre part à la réappropriation des enjeux de l'eau. Le comité d'organisation est chargé principalement de faire du lien entre les commissions et le territoire.
 
-[En savoir plus ➜](https://parlement-isere.org/pages/commissions/){ .md-button .md-button--primary}
+[En savoir plus ➜](https://parlement-isere.org/pages/commissions/){ .md-button .md-button--secondary}
 
-
-### Le collectif
+## Le collectif
 
 Le Parlement de la rivière Isère est un collectif d'associations fonctionnant en archipel[^1]. Il s'organise autour d'un projet commun, sans pour autant créer une nouvelle structure. Des étudiant·e·s de SciencesPo Grenoble et de l’École Nationale Supérieure d’Architecture de Grenoble ont également travaillé sur le projet pour des rapports ou mémoires. 
     
