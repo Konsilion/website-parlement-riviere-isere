@@ -97,13 +97,17 @@ article p, article li {
 }
 
 .md-nav__item {
-    font-size: 15px;
+    font-size: 16px;
     font-weight: normal;	
 }
 
-.md-nav__item.md-nav_link--active {
+.md-nav__link.md-nav__link--active {
     font-size: 18px !important;
     font-weight: bold !important;	
+}
+
+.md-nav__link.md-nav__link--passed  {
+    font-weight: 400 !important;	
 }
 
 .md-sidebar--secondary .md-nav__list {
