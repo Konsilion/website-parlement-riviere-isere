@@ -145,30 +145,31 @@
 
 
 h1 {
-    color : #005DAB !important;
-    font-family: 'Roboto'; 
-    font-weight: 400 !important;
+    color: #005DAB !important;
+    font-family: 'Roboto';
+    font-weight: 700 !important;
     margin-bottom: 50px !important;
     margin-top: 50px !important;
+    font-size: 2.4em !important;
 }
 
 
 h2 {
-    color : grey !important;
+    color: #005DAB !important;
     font-family: 'Roboto'; 
     font-weight: 550 !important;
-    margin-bottom: 25px !important;
+    font-size: 1.9em !important;
+    margin: 25px 0 10px !important;
+    border-bottom: 10px solid #EEE !important;
+    padding-bottom: 10px;
 }
 
 h3 {
-    color : grey !important;
+    color: grey !important;
     font-family: 'Roboto'; 
     font-weight: 300 !important;
     padding-bottom: 15px;
-    margin-bottom: 25px !important;
-    margin-top: 25px !important;
-    border-bottom: 1px solid #EEE !important;
-    
+    margin: 25px 0 10px !important;
 }
 
 article p, article li {
