@@ -90,10 +90,15 @@ article p, article li {
 
 
 
-.md-sidebar.md-sidebar--secondary {
+
+
+
+
+
+/*.md-sidebar.md-sidebar--secondary {
     padding: 1.2rem 0 1.2rem 30px !important;
     width: 14rem !important;
-}    
+} */   
 
 .md-sidebar--secondary .md-sidebar__inner{
     padding: 0 !important;
