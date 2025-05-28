@@ -38,7 +38,7 @@ Les gardien.ne.s de la rivière s'organisent autour de **quatre commissions** af
     
     Les personnes morales privées pourront être entendues par l'Assemblée des Gardiens et des Gardiennes. Les personnes morales publiques seront informées des délibérations de l'Assemblée des Gardiens et des Gardiennes. 
     
-    Les Gardiens et les Gardiennes pourront endosser le rôle de sentinelle de la nature pour la rivière et ses masses d’eau sur le modèle des sentinelles de la nature proposé par France Nature Environnement qui permet à tout citoyen et citoyenne d'effectuer des signalements (https://sentinellesdelanature.fr/) 
+    Les Gardiens et les Gardiennes pourront endosser le rôle de sentinelle de la nature pour la rivière et ses masses d’eau sur le modèle des sentinelles de la nature proposé par France Nature Environnement qui permet à tout citoyen et citoyenne d'effectuer des signalements. ([en savoir plus](https://sentinellesdelanature.fr/))
     
     Si le signalement n'est pas suffisant, les Gardiens et les Gardiennes pourront alerter les pouvoirs publics et les administrations telles que la DREAL, l’ARS ou encore porter à la connaissance des autorités de poursuites, telles que le parquet, afin de signaler tous les comportements et agissements qui pourraient nuire à la qualité et à l’intégrité de la rivière et de ses masses d’eau, et qui pourraient constituer des infractions. 
 
