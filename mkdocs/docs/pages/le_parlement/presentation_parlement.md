@@ -1,14 +1,13 @@
 ---
 title: Présentation générale
 hide:
-    -navigation
+    - navigation
+    - toc
 ---
 
 [Compte Rendu de la 1ère Session ➜](https://parlement-isere.org/pages/cr/premiere_session/){ .md-button .md-button--secondary .bouton-large-mobile style="text-align: center; float: right; margin: 20px 0 50px 0px; border-radius: 50px !important;" }
 
 # Le Parlement de la rivière Isère
-
-## Présentation
 
 En réponse aux inquiétudes des citoyen·ne·s concernant l’eau, sa raréfaction, ses pollutions et son accaparement, est né le projet du Parlement de la rivière Isère. 
 
@@ -30,7 +29,7 @@ Les **4 dimensions du Parlement** :
 
 Les gardien.ne.s de la rivière s'organisent autour de **quatre commissions** afin de collectivement, prendre part à la réappropriation des enjeux de l'eau. Le comité d'organisation est chargé principalement de faire du lien entre les commissions et le territoire.
 
-[E, savoir plus ➜](https://parlement-isere.org/pages/commissions/){ .md-button .md-button--primary}
+[En savoir plus ➜](https://parlement-isere.org/pages/commissions/){ .md-button .md-button--primary}
 
 
 ### Le collectif
