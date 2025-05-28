@@ -86,27 +86,27 @@ article p, article li {
     width: 15rem !important;
 }    
 
-.md-sidebar__inner{
+.md-nav--secondary .md-sidebar__inner{
     padding: 0 !important;
 }
 
-.md-nav__title {
+.md-nav--secondary .md-nav__title {
     font-size: 25px;
     color: var(--md-primary-fg-color);
     padding: 0px !important;
 }
 
-.md-nav__item {
+.md-nav--secondary .md-nav__item {
     font-size: 16px;
     font-weight: normal;	
 }
 
-.md-nav__item.md-nav_link--active {
+.md-nav--secondary .md-nav__item.md-nav_link--active {
     font-size: 18px;
     font-weight: bold;	
 }
 
-.md-nav__list {
+.md-nav--secondary .md-nav__list {
     border-left: 1px solid black;
 }
 
