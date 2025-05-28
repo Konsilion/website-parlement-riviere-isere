@@ -25,17 +25,17 @@ Les **4 dimensions du Parlement** :
 
 ??? info "Déclaration des droits de la rivière Isère"
         
-    * **Considérant que la rivière Isère sur son bassin versant, les nappes phréatiques et l'ensemble des masses d'eau sont en danger** (pollutions par les industriels, accaparements de l'eau, raréfaction de la ressource, absence de régulation des usages sur le bassin versant, etc.)
+    1. **Considérant que la rivière Isère sur son bassin versant, les nappes phréatiques et l'ensemble des masses d'eau sont en danger** (pollutions par les industriels, accaparements de l'eau, raréfaction de la ressource, absence de régulation des usages sur le bassin versant, etc.)
     
-    * **Considérant la charte de l'environnement selon laquelle chacun a le droit de vivre dans un environnement équilibré et respectueux de la santé et toute personne a le devoir de prendre part à la préservation et à l'amélioration de l'environnement**
+    1. **Considérant la charte de l'environnement selon laquelle chacun a le droit de vivre dans un environnement équilibré et respectueux de la santé et toute personne a le devoir de prendre part à la préservation et à l'amélioration de l'environnement**
     
-    * **Considérant que la rivière Isère, les nappes phréatiques et l'ensemble des masses d'eau ne sont pas une ressource illimitée au service des usages humains lesquels font partie du vivant**
+    1. **Considérant que la rivière Isère, les nappes phréatiques et l'ensemble des masses d'eau ne sont pas une ressource illimitée au service des usages humains lesquels font partie du vivant**
     
-    * **Considérant que le droit de l’environnement a montré son insuffisance pour protéger la rivière et les nappes**
+    1. **Considérant que le droit de l’environnement a montré son insuffisance pour protéger la rivière et les nappes**
     
-    * **Considérant le mouvement international de reconnaissance des droits de la nature qui aboutit à une personnalité juridique pour protéger les entités naturelles** (à ce jour une soixantaine d'entités naturelles ont la personnalité juridique dans le monde)
+    1. **Considérant le mouvement international de reconnaissance des droits de la nature qui aboutit à une personnalité juridique pour protéger les entités naturelles** (à ce jour une soixantaine d'entités naturelles ont la personnalité juridique dans le monde)
     
-    * **Considérant en France et en Europe les déclarations des autres collectifs visant à la reconnaissance d’une personnalité juridique** :  
+    1. **Considérant en France et en Europe les déclarations des autres collectifs visant à la reconnaissance d’une personnalité juridique** :  
         * Parlement de Loire
         * Appel du Rhône
         * Déclaration des droits du fleuve Tavignanu
