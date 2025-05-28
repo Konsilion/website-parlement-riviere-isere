@@ -5,8 +5,6 @@ hide:
 
 # Commission Juridique
 
----
-
 Conformément aux remarques soulevées lors de la première session du Parlement de la rivière Isère du 28 septembre 2024, les objectifs de la commission juridique sont de :
 
 * **Réfléchir aux droits de la nature** : Engager une réflexion approfondie sur la reconnaissance des droits de la rivière Isère en tant qu'entité naturelle, en s'inspirant des initiatives existantes dans le monde et en explorant les implications juridiques et philosophiques de cette reconnaissance.
