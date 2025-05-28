@@ -103,7 +103,8 @@ article p, article li {
 
 .md-nav__link.md-nav__link--active {
     font-size: 17px !important;
-    font-weight: bold !important;	
+    font-weight: bold !important;
+    color: #1d9bff !important;
 }
 
 
