@@ -10,7 +10,13 @@ Les gardiennes & gardiens de la rivière s'organisent autour de **quatre commiss
 
 ??? info "Les rôles des gardien.ne.s"
 
-    En ce 22 mars 2025, Journée Mondiale de l’Eau, **nous lançons un appel à rejoindre les Gardiens et les Gardiennes** des milieux aquatiques du bassin versant de la rivière Isère et de l’ensemble des masses d’eau affluentes. Ainsi, toute personne physique peut devenir Gardien ou Gardienne afin de faire entendre la voix de la rivière et de ses eaux.[^1]
+    En ce 22 mars 2025, Journée Mondiale de l’Eau, **nous lançons un appel à rejoindre les Gardiens et les Gardiennes** des milieux aquatiques du bassin versant de la rivière Isère et de l’ensemble des masses d’eau affluentes. 
+    
+    * Aujourd’hui, on sait que les lois actuelles ne suffisent pas à protéger nos rivières, nos fleuves et l’ensemble des milieux aquatiques en danger. Il est donc temps de faire évoluer le droit pour qu’il nous aide à sortir de l’Anthropocène — cette époque où l’humain a pris le dessus sur le vivant — et à entrer dans le “Symbioscène”, une nouvelle manière d’habiter le monde, pensée par le philosophe Glenn Albrecht, où les humains cohabitent en harmonie avec les autres formes de vie.
+
+    * Nous faisons le constat que la liste des acteurs, institutions ou collectivités impliquées dans la “gestion” de l’eau est longue et qu’il est serait nécessaire de construire ensemble une dynamique citoyenne parallèle, pour faire entendre la voix de la rivière et pour garantir la protection de ses droits fondamentaux ainsi que la participation des habitant.es.
+    
+    ➜ **Ainsi, toute personne physique peut devenir Gardien ou Gardienne afin de faire entendre la voix de la rivière et de ses eaux.**[^1]
     
     Les Gardiens et les Gardiennes pourront endosser le **rôle de sentinelle** de la nature pour la rivière, sur le modèle des sentinelles de la nature proposé par [France Nature Environnement](https://sentinellesdelanature.fr/)*, et qui permet à tout·e citoyen·ne d'effectuer des signalements. Et celà afin d'informer les autorités d'activités pouvant nuire à la qualité et à l’intégrité des eaux. 
     
