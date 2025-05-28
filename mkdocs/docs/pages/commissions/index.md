@@ -5,11 +5,11 @@ hide:
 
 # Un Parlement ⁃ Quatre commissions ⁃ Des gardien·ne·s
 
-Les gardien.ne.s de la rivière s'organisent autour de **quatre commissions** afin de collectivement, prendre part à la réappropriation des enjeux de l'Eau. Le **comité d'organisation** est chargé principalement de faire du lien entre les commissions et le territoire.
+Les gardiennes & gardiens de la rivière s'organisent autour de **quatre commissions** afin de collectivement, prendre part à la réappropriation des enjeux de l'Eau. Le **comité d'organisation** est chargé principalement de faire du lien entre les commissions et le territoire.
 
 ## Devenir membre du Parlement
 
-??? info "Les rôles des Gardiennes & Gardiens"
+??? info "Les rôles des gardien.ne.s"
 
     En ce 22 mars 2025, Journée Mondiale de l’Eau, nous lançons un appel à rejoindre les Gardiens et les Gardiennes des droits de la rivière Isère et de l’ensemble des masses d’eau qui lui sont associées.
     
