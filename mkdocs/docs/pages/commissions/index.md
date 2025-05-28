@@ -14,7 +14,7 @@ Les gardiennes & gardiens de la rivière s'organisent autour de **quatre commiss
     
     Les Gardiens et les Gardiennes pourront endosser le **rôle de sentinelle** de la nature pour la rivière, sur le modèle des sentinelles de la nature proposé par France Nature Environnement, et qui permet à tout·e citoyen·ne d'effectuer des signalements. *([en savoir plus](https://sentinellesdelanature.fr/))*
     
-    Si le signalement n'est pas suffisant, les Gardien·ne·s pourront alerter les pouvoirs publics et les administrations telles que la DREAL, l’ARS ou encore porter à la connaissance des autorités de poursuites, telles que le parquet, afin de signaler tous les activités qui pourraient nuire à la qualité et à l’intégrité des eaux, et qui pourraient constituer des infractions. 
+    * **Si le signalement n'est pas suffisant** : Les Gardien·ne·s pourront alerter les pouvoirs publics et les administrations telles que la DREAL, l’ARS ou encore porter à la connaissance des autorités de poursuites, telles que le parquet, afin de signaler tous les activités qui pourraient nuire à la qualité et à l’intégrité des eaux, et qui pourraient constituer des infractions. 
 
 
 ## Devenir membre du Parlement
