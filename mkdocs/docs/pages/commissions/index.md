@@ -8,8 +8,6 @@ hide:
 
 Les gardiennes & gardiens de la rivière s'organisent autour de **quatre commissions** afin de collectivement, prendre part à la réappropriation des enjeux de l'Eau. Le **comité d'organisation** est chargé principalement de faire du lien entre les commissions et le territoire.
 
-## Devenir membre du Parlement
-
 ??? info "Les rôles des gardien.ne.s"
 
     En ce 22 mars 2025, Journée Mondiale de l’Eau, **nous lançons un appel à rejoindre les Gardiens et les Gardiennes** des milieux aquatiques du bassin versant de la rivière Isère et de l’ensemble des masses d’eau affluentes. Ainsi, toute personne physique peut devenir Gardien ou Gardienne afin de faire entendre la voix de la rivière et de ses eaux.[^1]
@@ -19,9 +17,7 @@ Les gardiennes & gardiens de la rivière s'organisent autour de **quatre commiss
     Si le signalement n'est pas suffisant, les Gardien·ne·s pourront alerter les pouvoirs publics et les administrations telles que la DREAL, l’ARS ou encore porter à la connaissance des autorités de poursuites, telles que le parquet, afin de signaler tous les activités qui pourraient nuire à la qualité et à l’intégrité des eaux, et qui pourraient constituer des infractions. 
 
 
-
-
-
+## Devenir membre du Parlement
 
 <div class="parent-container">
   <div class="iframe-container">
