@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Un Parlement • Quatre commissions • Des gardien·ne·s
+# Un Parlement ⁃ Quatre commissions ⁃ Des gardien·ne·s
 
 Les gardien.ne.s de la rivière s'organisent autour de **quatre commissions** afin de collectivement, prendre part à la réappropriation des enjeux de l'Eau. Le **comité d'organisation** est chargé principalement de faire du lien entre les commissions et le territoire.
 
