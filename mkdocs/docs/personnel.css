@@ -91,14 +91,14 @@ article p, article li {
 }
 
 .md-nav__title {
-    font-size: 20px;
+    font-size: 25px;
     color: var(--md-primary-fg-color);
     padding: 0px !important;
 }
 
 .md-nav__item {
-    font-size: 16px;
-    font-weight: bold;	
+    font-size: 18px;
+    font-weight: normal;	
 }
 
 .md-nav__list {
