@@ -4,7 +4,7 @@ nav:
     - Le Parlement : pages/le_parlement/presentation_parlement.md
 
     - Les Commissions : 
-        - pages/commissions/index.md
+        - Accueil: pages/commissions/index.md
         - Démocratique : pages/commissions/democratie/contact.md
         - Juridique : pages/commissions/juridique/contact.md
         - Artistique :
@@ -15,7 +15,7 @@ nav:
             - Prises de notes : pages/commissions/scientifique/prise_note.md
 
     - Documentation : 
-        - pages/documentation/index.md
+        - Accueil: pages/documentation/index.md
         - La gestion de l'eau : pages/commissions/scientifique/cartes_mentales/gestion.md
         - AquaRepere : pages/documentation/aquarepere.md
             
