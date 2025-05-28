@@ -1,4 +1,5 @@
 ---
+title: Accueil des commissions
 hide:
   - toc
 ---
