@@ -4,7 +4,7 @@
     --md-typeset-color: #323232 !important;
 }
 
-.md-header__source {display: none}
+.md-header__source, .md-nav__source {display: none}
 
 .md-content {margin-bottom: 75px !important;}
 
