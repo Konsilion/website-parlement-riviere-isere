@@ -106,9 +106,6 @@ article p, article li {
     font-weight: bold !important;	
 }
 
-.md-nav__link.md-nav__link--passed  {
-    font-weight: 400 !important;	
-}
 
 .md-sidebar--secondary .md-nav__list {
     border-left: 1px solid #CCC;
