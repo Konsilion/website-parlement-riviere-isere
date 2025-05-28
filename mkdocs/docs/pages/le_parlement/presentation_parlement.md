@@ -30,7 +30,7 @@ Les gardien.ne.s de la rivière s'organisent autour de **quatre commissions** af
 
 [S'inscrire ➜](https://parlement-isere.org/pages/commissions/){ .md-button .md-button--secondary}
 
-??? info "Charte des Gardiens"
+??? info inline end "Charte des Gardiens"
 
     En ce 22 mars 2025, Journée Mondiale de l’Eau, nous lançons un appel à rejoindre les Gardiens et les Gardiennes des droits de la rivière Isère et de l’ensemble des masses d’eau qui lui sont associées.
     
