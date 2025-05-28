@@ -81,15 +81,29 @@ article p, article li {
 	}    
 }
 
+.md-sidebar.md-sidebar--secondary {
+    padding: 1.2rem 0 1.2rem 10px !important;
+}    
+
+
 .md-nav__title {
     font-size: 20px;
-	color: var(--md-primary-fg-color);
+    color: var(--md-primary-fg-color);
+    padding: 0px !important;
 }
 
 .md-nav__item {
     font-size: 16px;
     font-weight: bold;	
 }
+
+.md-nav__list {
+    border-left: 1px solid black;
+}
+
+
+
+
 
 /*.md-content p,
 .md-content li {
