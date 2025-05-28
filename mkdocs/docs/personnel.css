@@ -45,9 +45,9 @@ h2 {
     font-family: 'Roboto'; 
     font-weight: 550 !important;
     font-size: 1.9em !important;
-    margin: 25px 0 10px !important;
+    /* margin: 25px 0 10px !important; */
     border-bottom: 10px solid #EEE !important;
-    padding-bottom: 10px;
+    /* padding-bottom: 10px; */
 }
 
 h3 {
