@@ -85,11 +85,8 @@ article p, article li {
 }
 
 .md-sidebar--primary .md-nav__item--nested > .md-nav {
-	border-left: 1px solid #CCC !important;
+	border-right: 1px solid #CCC !important;
 }
-
-
-
 
 
 
