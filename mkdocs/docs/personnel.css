@@ -1,6 +1,7 @@
 :root > * {
     --md-primary-fg-color: #0b4387 !important;
-    --md-tabs-bg-color: rgba(245, 245, 245, 1) !important
+    --md-tabs-bg-color: rgba(245, 245, 245, 1) !important;
+    --md-typeset-color: #323232 !important;
 }
 
 .md-header__source {display: none}
@@ -30,7 +31,7 @@
 .md-button--secondary {background-color: white;}
 
 h1 {
-    color: #005DAB !important;
+    color: var(--md-primary-fg-color) !important;
     font-family: 'Roboto';
     font-weight: 700 !important;
     margin-bottom: 50px !important;
@@ -40,7 +41,7 @@ h1 {
 
 
 h2 {
-    color: #005DAB !important;
+    color: var(--md-primary-fg-color) !important;
     font-family: 'Roboto'; 
     font-weight: 550 !important;
     font-size: 1.9em !important;
@@ -80,7 +81,10 @@ article p, article li {
 	}    
 }
 
-.md-nav__title {font-size: 20px;}
+.md-nav__title {
+    font-size: 20px;
+	color: var(--md-primary-fg-color);
+}
 
 .md-nav__item {
     font-size: 16px;
