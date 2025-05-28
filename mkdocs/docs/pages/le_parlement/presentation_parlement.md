@@ -24,6 +24,12 @@ Les **4 dimensions du Parlement** :
 * Une dimension **culturelle et artistique** : Révéler et développer l’attachement à la rivière et à l’eau et créer de nouveaux imaginaires autour du « fluvio-sensible » par différentes formes (récits, peinture, podcast, balades, spectacles, etc.).
 
 ??? info "Déclaration des droits de la rivière Isère"
+
+    
+    
+    ## Déclaration des droits de l'Isère
+    
+    *présentée lors de la 2° session du Parlement de la rivière Isère - 22 mars 2025*
         
     1. **Considérant que la rivière Isère sur son bassin versant, les nappes phréatiques et l'ensemble des masses d'eau sont en danger** (pollutions par les industriels, accaparements de l'eau, raréfaction de la ressource, absence de régulation des usages sur le bassin versant, etc.)
     
