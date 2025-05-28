@@ -85,6 +85,9 @@ article p, article li {
     padding: 1.2rem 0 1.2rem 10px !important;
 }    
 
+.md-sidebar__inner{
+    padding: 0 !important;
+}
 
 .md-nav__title {
     font-size: 20px;
