@@ -25,40 +25,39 @@ Les **4 dimensions du Parlement** :
 
 ??? info "Déclaration des droits de la rivière Isère"
         
-    - **Considérant que la rivière Isère sur son bassin versant, les nappes phréatiques et l'ensemble des masses d'eau sont en danger** (pollutions par les industriels, accaparements de l'eau, raréfaction de la ressource, absence de régulation des usages sur le bassin versant, etc.)
+    * **Considérant que la rivière Isère sur son bassin versant, les nappes phréatiques et l'ensemble des masses d'eau sont en danger** (pollutions par les industriels, accaparements de l'eau, raréfaction de la ressource, absence de régulation des usages sur le bassin versant, etc.)
     
-    - **Considérant la charte de l'environnement selon laquelle chacun a le droit de vivre dans un environnement équilibré et respectueux de la santé et toute personne a le devoir de prendre part à la préservation et à l'amélioration de l'environnement**
+    * **Considérant la charte de l'environnement selon laquelle chacun a le droit de vivre dans un environnement équilibré et respectueux de la santé et toute personne a le devoir de prendre part à la préservation et à l'amélioration de l'environnement**
     
-    - **Considérant que la rivière Isère, les nappes phréatiques et l'ensemble des masses d'eau ne sont pas une ressource illimitée au service des usages humains lesquels font partie du vivant**
+    * **Considérant que la rivière Isère, les nappes phréatiques et l'ensemble des masses d'eau ne sont pas une ressource illimitée au service des usages humains lesquels font partie du vivant**
     
-    - **Considérant que le droit de l’environnement a montré son insuffisance pour protéger la rivière et les nappes**
+    * **Considérant que le droit de l’environnement a montré son insuffisance pour protéger la rivière et les nappes**
     
-    - **Considérant le mouvement international de reconnaissance des droits de la nature qui aboutit à une personnalité juridique pour protéger les entités naturelles** (à ce jour une soixantaine d'entités naturelles ont la personnalité juridique dans le monde)
+    * **Considérant le mouvement international de reconnaissance des droits de la nature qui aboutit à une personnalité juridique pour protéger les entités naturelles** (à ce jour une soixantaine d'entités naturelles ont la personnalité juridique dans le monde)
     
-    - **Considérant en France et en Europe les déclarations des autres collectifs visant à la reconnaissance d’une personnalité juridique** :  
-      - Parlement de Loire  
-      - Appel du Rhône  
-      - Déclaration des droits du fleuve Tavignanu  
-      - De la Tet  
-      - SOS Durance vivante  
-      - Lagune Mar Menor en Espagne  
-      - Fleuve Whanganui en Nouvelle Zélande  
-      - Gardiens et Gardiennes de la Seine  
-      - etc.
-    
+    * **Considérant en France et en Europe les déclarations des autres collectifs visant à la reconnaissance d’une personnalité juridique** :  
+        * Parlement de Loire
+        * Appel du Rhône
+        * Déclaration des droits du fleuve Tavignanu
+        * De la Tet
+        * SOS Durance vivante
+        * Lagune Mar Menor en Espagne
+        * Fleuve Whanganui en Nouvelle Zélande
+        * Gardiens et Gardiennes de la Seine
+        * etc.
     ---
     
     **Nous, Parlement de la rivière Isère,**  
     
-    **Déclarons que la rivière Isère sur son bassin versant, les nappes phréatiques et l'ensemble des masses d'eau sont une entité vivante indivisible et inaliénable qui a une valeur en soi, une valeur intrinsèque.**
+    Déclarons que la rivière Isère sur son bassin versant, les nappes phréatiques et l'ensemble des masses d'eau sont une entité vivante indivisible et inaliénable qui a une valeur en soi, une valeur intrinsèque.
     
-    **Nous reconnaissons donc à la rivière la personnalité juridique, la rivière est désormais considérée comme sujet de droit.**
+    Nous reconnaissons donc à la rivière la personnalité juridique, la rivière est désormais considérée comme sujet de droit.
     
-    **Les droits de la rivière Isère, au-delà de la notion de propriété puisqu'il s'agit d'un bien commun, seront désormais défendus par une assemblée de gardiens et gardiennes, le Parlement de la rivière Isère.**
+    Les droits de la rivière Isère, au-delà de la notion de propriété puisqu'il s'agit d'un bien commun, seront désormais défendus par une assemblée de gardiens et gardiennes, le Parlement de la rivière Isère.
     
-    **Tout citoyen peut devenir gardien ou gardienne de la rivière Isère et se faire connaître auprès du collectif Parlement de la rivière Isère pour défendre ses droits.**
+    Tout citoyen peut devenir gardien ou gardienne de la rivière Isère et se faire connaître auprès du collectif Parlement de la rivière Isère pour défendre ses droits.
     
-    **Les voix des gardiens et gardiennes sont débattues et arbitrées au sein du Parlement de la rivière Isère qui portera le résultat de ces débats auprès des acteurs institutionnels de l'eau.**
+    Les voix des gardiens et gardiennes sont débattues et arbitrées au sein du Parlement de la rivière Isère qui portera le résultat de ces débats auprès des acteurs institutionnels de l'eau.
 
 
 ## Gardiennes & Gardiens de la rivière
