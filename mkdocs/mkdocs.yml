@@ -22,10 +22,6 @@ nav:
     - Contact : pages/contact.md
 
 
-
-
-
-
 site_name: Parlement de la rivière Isère
 site_author: Nicolas Brémond
 site_description: Ecouter la rivière et ses affluents.
@@ -62,16 +58,21 @@ markdown_extensions:
       toc_depth: 2
   - tables
   - admonition
+  - footnotes
+  - attr_list
   - pymdownx.details
   - pymdownx.superfences
-  - attr_list
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
-  - footnotes
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+
+
 
 
 extra_css:
