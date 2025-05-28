@@ -75,11 +75,23 @@ article p, article li {
   }
 }
 
+
+
+
 @media only screen and (min-width: 1220px) {
 	.md-sidebar.md-sidebar--primary > * {
 		border-right: 1px solid #CCC;
 	}    
 }
+
+.md-sidebar--primary .md-nav__item--nested > .md-nav {
+	border-left: 1px solid #CCC !important;
+}
+
+
+
+
+
 
 .md-sidebar.md-sidebar--secondary {
     padding: 1.2rem 0 1.2rem 30px !important;
