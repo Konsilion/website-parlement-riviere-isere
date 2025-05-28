@@ -83,15 +83,15 @@ article p, article li {
 
 .md-sidebar.md-sidebar--secondary {
     padding: 1.2rem 0 1.2rem 30px !important;
-    width: 15rem !important;
+    width: 14rem !important;
 }    
 
 .md-sidebar--secondary .md-sidebar__inner{
     padding: 0 !important;
 }
 
-.md-sidebar--secondary .md-nav__title {
-    font-size: 25px;
+.md-nav__title {
+    font-size: 20px;
     color: var(--md-primary-fg-color);
     padding: 0px !important;
 }
@@ -107,7 +107,7 @@ article p, article li {
 }
 
 .md-sidebar--secondary .md-nav__list {
-    border-left: 1px solid black;
+    border-left: 1px solid #CCC;
 }
 
 
