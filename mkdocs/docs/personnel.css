@@ -83,6 +83,7 @@ article p, article li {
 
 .md-sidebar.md-sidebar--secondary {
     padding: 1.2rem 0 1.2rem 10px !important;
+    width: 15rem !important;
 }    
 
 .md-sidebar__inner{
