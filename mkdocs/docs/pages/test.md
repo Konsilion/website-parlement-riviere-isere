@@ -3,7 +3,7 @@
 Voici un outil pour trouver les stations de mesure de débit les plus proches de vous sur l'Isère.
 
 <input type="text" id="codePostal" placeholder="Entrez un code postal">
-<button onclick="afficherStationsProches()">Afficher les stations proches</button>
+<button class="md-button md-button--primary" onclick="afficherStationsProches()">Afficher les stations proches</button>
 <div id="stations-proches">Les stations proches s'afficheront ici.</div>
 
 <script>
@@ -92,7 +92,6 @@ async function afficherStationsProches() {
     }
 
     const stationsProchesElement = document.getElementById('stations-proches');
-    stationsProchesElement.innerHTML = `<p>Coordonnées pour le code postal ${codePostal} : Latitude ${coordinates.latitude}, Longitude ${coordinates.longitude}</p>`;
 
     const stations = await getStations();
 
