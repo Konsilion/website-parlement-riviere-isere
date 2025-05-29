@@ -4,7 +4,7 @@ Voici un outil pour trouver les stations de mesure de débit les plus proches de
 
 <input type="text" id="codePostal" placeholder="Entrez un code postal">
 <button onclick="afficherStationsProches()">Afficher les stations proches</button>
-<p id="stations-proches">Les stations proches s'afficheront ici.</p>
+<div id="stations-proches">Les stations proches s'afficheront ici.</div>
 
 <script>
 // Fonction pour récupérer les stations sur l'Isère
@@ -49,10 +49,10 @@ async function getDebitStation(codeStation) {
         if (data.data && data.data.length > 0) {
             return data.data[0].resultat_obs / 1000; // Conversion en m³/s
         }
-        return 'N/A';
+        return null;
     } catch (error) {
         console.error('Erreur lors de la récupération du débit :', error);
-        return 'N/A';
+        return null;
     }
 }
 
@@ -101,9 +101,8 @@ async function afficherStationsProches() {
         return;
     }
 
-    // Calculer et afficher les distances et les débits
-    stationsProchesElement.innerHTML += '<h3>Stations avec distances et débits :</h3>';
-    for (const station of stations) {
+    // Calculer les distances et les débits
+    const stationsAvecDistances = await Promise.all(stations.map(async (station) => {
         if (station.latitude_station && station.longitude_station) {
             const distance = calculateDistance(
                 coordinates.latitude,
@@ -112,8 +111,46 @@ async function afficherStationsProches() {
                 parseFloat(station.longitude_station)
             );
             const debit = await getDebitStation(station.code_station);
-            stationsProchesElement.innerHTML += `<p>${station.libelle_station} : Distance: ${distance.toFixed(2)} km, Débit: ${debit} m³/s</p>`;
+            return { ...station, distance, debit };
         }
+        return null;
+    }));
+
+    // Filtrer les stations sans coordonnées
+    const stationsValides = stationsAvecDistances.filter(station => station !== null);
+
+    if (stationsValides.length === 0) {
+        stationsProchesElement.innerHTML += '<p>Aucune station valide trouvée.</p>';
+        return;
     }
+
+    // Trier les stations par distance
+    stationsValides.sort((a, b) => a.distance - b.distance);
+
+    // Afficher les stations dans un tableau
+    let tableHTML = `
+        <table border="1">
+            <tr>
+                <th>Libellé de la station</th>
+                <th>Distance (km)</th>
+                <th>Débit (m³/s)</th>
+            </tr>
+    `;
+
+    for (let i = 0; i < stationsValides.length; i++) {
+        const station = stationsValides[i];
+        const style = i === 0 ? 'style="font-weight: bold; color: blue;"' : '';
+        const debit = station.debit !== null ? station.debit : '<i>Non disponible</i>';
+        tableHTML += `
+            <tr ${style}>
+                <td>${station.libelle_station}</td>
+                <td>${station.distance.toFixed(2)}</td>
+                <td>${debit}</td>
+            </tr>
+        `;
+    }
+
+    tableHTML += `</table>`;
+    stationsProchesElement.innerHTML += tableHTML;
 }
 </script>
