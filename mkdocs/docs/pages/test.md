@@ -39,6 +39,23 @@ function toRadians(degrees) {
     return degrees * Math.PI / 180;
 }
 
+// Fonction pour récupérer le débit d'une station
+async function getDebitStation(codeStation) {
+    const url = `https://hubeau.eaufrance.fr/api/v2/hydrometrie/observations_tr?code_entite=${codeStation}&grandeur_hydro=Q&size=1`;
+    try {
+        const response = await fetch(url);
+        if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+        const data = await response.json();
+        if (data.data && data.data.length > 0) {
+            return data.data[0].resultat_obs / 1000; // Conversion en m³/s
+        }
+        return 'N/A';
+    } catch (error) {
+        console.error('Erreur lors de la récupération du débit :', error);
+        return 'N/A';
+    }
+}
+
 // Fonction pour obtenir les coordonnées à partir d'un code postal
 async function getCoordinatesFromPostalCode(postalCode) {
     const url = `https://nominatim.openstreetmap.org/search?postalcode=${postalCode}&country=France&format=json`;
@@ -84,8 +101,8 @@ async function afficherStationsProches() {
         return;
     }
 
-    // Calculer et afficher les distances
-    stationsProchesElement.innerHTML += '<h3>Stations avec distances :</h3>';
+    // Calculer et afficher les distances et les débits
+    stationsProchesElement.innerHTML += '<h3>Stations avec distances et débits :</h3>';
     for (const station of stations) {
         if (station.latitude_station && station.longitude_station) {
             const distance = calculateDistance(
@@ -94,7 +111,8 @@ async function afficherStationsProches() {
                 parseFloat(station.latitude_station),
                 parseFloat(station.longitude_station)
             );
-            stationsProchesElement.innerHTML += `<p>${station.libelle_station} : Distance: ${distance.toFixed(2)} km</p>`;
+            const debit = await getDebitStation(station.code_station);
+            stationsProchesElement.innerHTML += `<p>${station.libelle_station} : Distance: ${distance.toFixed(2)} km, Débit: ${debit} m³/s</p>`;
         }
     }
 }
