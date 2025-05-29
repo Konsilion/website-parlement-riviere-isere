@@ -1,14 +1,44 @@
-# Titre de votre page
+# Suivi des débits de l'Isère
 
-Voici le débit actuel de l'Isère :
+Voici un outil pour trouver les stations de mesure de débit les plus proches de vous sur l'Isère.
 
-<p id="debit-isere">Chargement du débit en cours...</p>
+<input type="text" id="codePostal" placeholder="Entrez un code postal">
+<button onclick="afficherStationsProches()">Afficher les stations proches</button>
+<p id="stations-proches">Les stations proches s'afficheront ici.</p>
 
 <script>
-  async function afficherDebit() {
-    const codeStation = 'W141001001';
+  // Fonction pour récupérer les stations sur l'Isère
+  async function getStations() {
+    const url = 'https://hubeau.eaufrance.fr/api/v2/hydrometrie/referentiel/stations?code_entite=W&libelle_cours_eau=Isère&size=100';
+    try {
+      const response = await fetch(url);
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+      const data = await response.json();
+      return data.data;
+    } catch (error) {
+      console.error('Erreur lors de la récupération des stations :', error);
+      return [];
+    }
+  }
+
+  // Fonction pour calculer la distance en km
+  function calculateDistance(lat1, lon1, lat2, lon2) {
+    const R = 6371; // Rayon de la Terre en km
+    const dLat = (lat2 - lat1) * Math.PI / 180;
+    const dLon = (lon2 - lon1) * Math.PI / 180;
+    const a =
+      Math.sin(dLat/2) * Math.sin(dLat/2) +
+      Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+      Math.sin(dLon/2) * Math.sin(dLon/2);
+    const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+    return R * c;
+  }
+
+  // Fonction pour récupérer le débit d'une station
+  async function getDebitStation(codeStation) {
     const url = `https://hubeau.eaufrance.fr/api/v2/hydrometrie/observations_tr?code_entite=${codeStation}&grandeur_hydro=Q&size=1`;
-  
     try {
       const response = await fetch(url);
       if (!response.ok) {
@@ -16,18 +46,64 @@ Voici le débit actuel de l'Isère :
       }
       const data = await response.json();
       if (data.data && data.data.length > 0) {
-        const observation = data.data[0];
-        const debit = observation.resultat_obs/1000;
-        const date = observation.date_obs;
-        document.getElementById('debit-isere').textContent = `Débit de l'Isère : ${debit} m³/s (mesuré le ${new Date(date).toLocaleString()})`;
-      } else {
-        throw new Error('No data available');
+        return data.data[0].resultat_obs / 1000; // Conversion en m³/s
       }
+      return 'N/A';
     } catch (error) {
-      console.error('Erreur lors de la récupération des données :', error);
-      document.getElementById('debit-isere').textContent = 'Erreur lors du chargement des données.';
+      console.error('Erreur lors de la récupération du débit :', error);
+      return 'N/A';
     }
   }
-  
-  document.addEventListener('DOMContentLoaded', afficherDebit);
+
+  // Fonction pour obtenir les coordonnées à partir d'un code postal
+  async function getCoordinatesFromPostalCode(postalCode) {
+    const url = `https://nominatim.openstreetmap.org/search?postalcode=${postalCode}&country=France&format=json`;
+
+    try {
+      const response = await fetch(url);
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+      const data = await response.json();
+      if (data && data.length > 0) {
+        return { latitude: parseFloat(data[0].lat), longitude: parseFloat(data[0].lon) };
+      }
+      return null;
+    } catch (error) {
+      console.error('Erreur lors de la récupération des coordonnées :', error);
+      return null;
+    }
+  }
+
+  // Fonction principale pour afficher les stations proches
+  async function afficherStationsProches() {
+    const codePostal = document.getElementById('codePostal').value;
+    if (!codePostal) {
+      alert('Veuillez entrer un code postal.');
+      return;
+    }
+
+    const coordinates = await getCoordinatesFromPostalCode(codePostal);
+    if (!coordinates) {
+      alert('Impossible de trouver les coordonnées pour ce code postal.');
+      return;
+    }
+
+    const stations = await getStations();
+    const stationsAvecDistances = stations.map(station => {
+      const distance = calculateDistance(coordinates.latitude, coordinates.longitude, station.latitude, station.longitude);
+      return { ...station, distance };
+    });
+
+    stationsAvecDistances.sort((a, b) => a.distance - b.distance);
+    const stationsProches = stationsAvecDistances.slice(0, 3);
+
+    const stationsProchesElement = document.getElementById('stations-proches');
+    stationsProchesElement.innerHTML = '<h3>Stations les plus proches :</h3>';
+
+    for (const station of stationsProches) {
+      const debit = await getDebitStation(station.code_station);
+      stationsProchesElement.innerHTML += `<p>${station.libelle_station} : ${debit} m³/s (Distance: ${station.distance.toFixed(2)} km)</p>`;
+    }
+  }
 </script>
