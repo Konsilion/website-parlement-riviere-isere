@@ -124,13 +124,10 @@ async function afficherStationsProches() {
         return;
     }
 
-    // Trier les stations par distance
-    stationsValides.sort((a, b) => a.distance - b.distance);
-
     // Afficher les stations dans un tableau
     let tableHTML = `
         <table border="1">
-            <tr>
+            <tr style="background-color: #0b4387; color: white;">
                 <th>Libellé de la station</th>
                 <th>Distance (km)</th>
                 <th>Débit (m³/s)</th>
