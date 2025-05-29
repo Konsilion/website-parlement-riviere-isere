@@ -124,6 +124,11 @@ async function afficherStationsProches() {
         return;
     }
 
+    // Trouver la station la plus proche
+    const stationLaPlusProche = stationsValides.reduce((min, station) =>
+        station.distance < min.distance ? station : min
+    );
+
     // Afficher les stations dans un tableau
     let tableHTML = `
         <table border="1">
@@ -131,23 +136,28 @@ async function afficherStationsProches() {
                 <th>Libellé de la station</th>
                 <th>Distance (km)</th>
                 <th>Débit (m³/s)</th>
+                <th>Code station</th>
             </tr>
     `;
 
-    for (let i = 0; i < stationsValides.length; i++) {
-        const station = stationsValides[i];
-        const style = i === 0 ? 'style="font-weight: bold; color: blue;"' : '';
+    for (let station of stationsValides) {
+        const isClosest = station.code_station === stationLaPlusProche.code_station;
+        const style = isClosest ? 'style="font-weight: bold; color: blue;"' : '';
         const debit = station.debit !== null ? station.debit : '<i>Non disponible</i>';
+        const url = `https://www.hydro.eaufrance.fr/stationhydro/${station.code_station}/fiche`;
+        const lien = `<a href="${url}" target="_blank">${station.code_station}</a>`;
         tableHTML += `
             <tr ${style}>
                 <td>${station.libelle_station}</td>
                 <td>${station.distance.toFixed(2)}</td>
                 <td>${debit}</td>
+                <td>${lien}</td>
             </tr>
         `;
     }
 
     tableHTML += `</table>`;
     stationsProchesElement.innerHTML += tableHTML;
+
 }
 </script>
