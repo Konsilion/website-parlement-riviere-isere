@@ -107,6 +107,14 @@ async function afficherStationsProches() {
     stationsProchesElement.innerHTML += '<h3>Résultats intermédiaires des stations :</h3>';
     for (const station of stations) {
         if (station.latitude && station.longitude) {
+            stationsProchesElement.innerHTML += `<p>${station.libelle_station} : Latitude ${station.latitude}, Longitude ${station.longitude}</p>`;
+        }
+    }
+
+    // Calculer et afficher les distances et les débits
+    stationsProchesElement.innerHTML += '<h3>Stations avec distances et débits :</h3>';
+    for (const station of stations) {
+        if (station.latitude && station.longitude) {
             const distance = calculateDistance(
                 coordinates.latitude,
                 coordinates.longitude,
@@ -114,7 +122,7 @@ async function afficherStationsProches() {
                 parseFloat(station.longitude)
             );
             const debit = await getDebitStation(station.code_station);
-            stationsProchesElement.innerHTML += `<p>${station.libelle_station} : Latitude ${station.latitude}, Longitude ${station.longitude}, Distance: ${distance.toFixed(2)} km, Débit: ${debit} m³/s</p>`;
+            stationsProchesElement.innerHTML += `<p>${station.libelle_station} : Distance: ${distance.toFixed(2)} km, Débit: ${debit} m³/s</p>`;
         }
     }
 }
