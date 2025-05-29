@@ -16,6 +16,7 @@ async function getStations() {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
         const data = await response.json();
+        console.log('Stations récupérées :', data.data); // Log des stations récupérées
         return data.data;
     } catch (error) {
         console.error('Erreur lors de la récupération des stations :', error);
@@ -105,6 +106,11 @@ async function afficherStationsProches() {
 
     // Afficher les résultats intermédiaires des stations
     stationsProchesElement.innerHTML += '<h3>Résultats intermédiaires des stations :</h3>';
+    if (stations.length === 0) {
+        stationsProchesElement.innerHTML += '<p>Aucune station trouvée.</p>';
+        return;
+    }
+
     for (const station of stations) {
         if (station.latitude && station.longitude) {
             stationsProchesElement.innerHTML += `<p>${station.libelle_station} : Latitude ${station.latitude}, Longitude ${station.longitude}</p>`;
