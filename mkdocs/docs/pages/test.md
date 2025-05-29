@@ -41,6 +41,25 @@ function toRadians(degrees) {
     return degrees * Math.PI / 180;
 }
 
+// Fonction pour récupérer le débit d'une station
+async function getDebitStation(codeStation) {
+    const url = `https://hubeau.eaufrance.fr/api/v2/hydrometrie/observations_tr?code_entite=${codeStation}&grandeur_hydro=Q&size=1`;
+    try {
+        const response = await fetch(url);
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const data = await response.json();
+        if (data.data && data.data.length > 0) {
+            return data.data[0].resultat_obs / 1000; // Conversion en m³/s
+        }
+        return 'N/A';
+    } catch (error) {
+        console.error('Erreur lors de la récupération du débit :', error);
+        return 'N/A';
+    }
+}
+
 // Fonction pour obtenir les coordonnées à partir d'un code postal
 async function getCoordinatesFromPostalCode(postalCode) {
     const url = `https://nominatim.openstreetmap.org/search?postalcode=${postalCode}&country=France&format=json`;
@@ -83,23 +102,20 @@ async function afficherStationsProches() {
     stationsProchesElement.innerHTML = `<p>Coordonnées pour le code postal ${codePostal} : Latitude ${coordinates.latitude}, Longitude ${coordinates.longitude}</p>`;
 
     const stations = await getStations();
-    const stationsAvecDistances = stations
-        .filter(station => station.latitude && station.longitude) // Filtrer les stations sans coordonnées
-        .map(station => {
+
+    // Afficher les résultats intermédiaires des stations
+    stationsProchesElement.innerHTML += '<h3>Résultats intermédiaires des stations :</h3>';
+    for (const station of stations) {
+        if (station.latitude && station.longitude) {
             const distance = calculateDistance(
                 coordinates.latitude,
                 coordinates.longitude,
                 parseFloat(station.latitude),
                 parseFloat(station.longitude)
             );
-            return { ...station, distance };
-        })
-        .sort((a, b) => a.distance - b.distance); // Trier par distance croissante
-
-    // Afficher toutes les stations triées par distance
-    stationsProchesElement.innerHTML += '<h3>Toutes les stations triées par distance :</h3>';
-    for (const station of stationsAvecDistances) {
-        stationsProchesElement.innerHTML += `<p>${station.libelle_station} (Distance: ${station.distance.toFixed(2)} km)</p>`;
+            const debit = await getDebitStation(station.code_station);
+            stationsProchesElement.innerHTML += `<p>${station.libelle_station} : Latitude ${station.latitude}, Longitude ${station.longitude}, Distance: ${distance.toFixed(2)} km, Débit: ${debit} m³/s</p>`;
+        }
     }
 }
 </script>
