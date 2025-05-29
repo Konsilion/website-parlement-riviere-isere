@@ -18,7 +18,7 @@ Les gardiennes & gardiens de la rivière s'organisent autour de **quatre commiss
     
     ➜ **Ainsi, toute personne physique peut devenir Gardien ou Gardienne afin de faire entendre la voix de la rivière et de ses eaux.**[^1]
     
-    Les Gardiens et les Gardiennes pourront endosser le **rôle de sentinelle** de la nature pour la rivière, sur le modèle proposé par [France Nature Environnement](https://sentinellesdelanature.fr/)*, et qui permet à tout·e citoyen·ne d'effectuer des signalements dans le but d'informer les autorités d'activités pouvant nuire à l’intégrité des eaux. 
+    Les Gardiens et les Gardiennes pourront endosser le **rôle de sentinelle** de la nature pour la rivière, sur le modèle proposé par *[France Nature Environnement](https://sentinellesdelanature.fr/)*, et qui permet à tout·e citoyen·ne d'effectuer des signalements dans le but d'informer les autorités d'activités pouvant nuire à l’intégrité des eaux. 
     
     * **Si le signalement ne suffit pas** : Les Gardien·ne·s pourront alors alerter les pouvoirs publics ou les services concernés – comme la DREAL, l’ARS ou l’OFB. Informer les autorités, ou ^^saisir le parquet^^ si nécessaire, font partie des **moyens concrets à disposition des citoyen·ne·s pour défendre les rivières**. C’est également une façon d'affirmer que la protection de l’eau est l’affaire de toutes et tous, dans le cadre de l'État de droit.
 
