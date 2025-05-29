@@ -2,9 +2,9 @@
 
 Voici un outil pour trouver les stations de mesure de débit les plus proches de vous sur l'Isère.
 
-<input type="text" id="codePostal" placeholder="Entrez un code postal">
+<input type="text" id="codePostal" placeholder="Entrez un code postal" style="border: 1px solid #CCC; text-align: center;">
 <button class="md-button md-button--primary" onclick="afficherStationsProches()">Afficher les stations proches</button>
-<div id="stations-proches">Les stations proches s'afficheront ici.</div>
+<div id="stations-proches"></div>
 
 <script>
 // Fonction pour récupérer les stations sur l'Isère
@@ -135,13 +135,13 @@ async function afficherStationsProches() {
                 <th>Libellé de la station</th>
                 <th>Distance (km)</th>
                 <th>Débit (m³/s)</th>
-                <th>Code station</th>
+                <th>Lien vers fiche station</th>
             </tr>
     `;
 
     for (let station of stationsValides) {
         const isClosest = station.code_station === stationLaPlusProche.code_station;
-        const style = isClosest ? 'style="font-weight: bold; color: blue;"' : '';
+        const style = isClosest ? 'style="font-weight: bold !important; color: blue;"' : '';
         const debit = station.debit !== null ? station.debit : '<i>Non disponible</i>';
         const url = `https://www.hydro.eaufrance.fr/stationhydro/${station.code_station}/fiche`;
         const lien = `<a href="${url}" target="_blank">${station.code_station}</a>`;
