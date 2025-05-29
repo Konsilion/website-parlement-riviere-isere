@@ -12,11 +12,8 @@ async function getStations() {
     const url = 'https://hubeau.eaufrance.fr/api/v2/hydrometrie/referentiel/stations?code_entite=W&libelle_cours_eau=Isère&size=100';
     try {
         const response = await fetch(url);
-        if (!response.ok) {
-            throw new Error(`HTTP error! status: ${response.status}`);
-        }
+        if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
         const data = await response.json();
-        console.log('Stations récupérées :', data.data); // Log des stations récupérées
         return data.data;
     } catch (error) {
         console.error('Erreur lors de la récupération des stations :', error);
@@ -42,34 +39,13 @@ function toRadians(degrees) {
     return degrees * Math.PI / 180;
 }
 
-// Fonction pour récupérer le débit d'une station
-async function getDebitStation(codeStation) {
-    const url = `https://hubeau.eaufrance.fr/api/v2/hydrometrie/observations_tr?code_entite=${codeStation}&grandeur_hydro=Q&size=1`;
-    try {
-        const response = await fetch(url);
-        if (!response.ok) {
-            throw new Error(`HTTP error! status: ${response.status}`);
-        }
-        const data = await response.json();
-        if (data.data && data.data.length > 0) {
-            return data.data[0].resultat_obs / 1000; // Conversion en m³/s
-        }
-        return 'N/A';
-    } catch (error) {
-        console.error('Erreur lors de la récupération du débit :', error);
-        return 'N/A';
-    }
-}
-
 // Fonction pour obtenir les coordonnées à partir d'un code postal
 async function getCoordinatesFromPostalCode(postalCode) {
     const url = `https://nominatim.openstreetmap.org/search?postalcode=${postalCode}&country=France&format=json`;
 
     try {
         const response = await fetch(url);
-        if (!response.ok) {
-            throw new Error(`HTTP error! status: ${response.status}`);
-        }
+        if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
         const data = await response.json();
         if (data && data.length > 0) {
             return {
@@ -98,37 +74,27 @@ async function afficherStationsProches() {
         return;
     }
 
-    // Afficher les coordonnées du code postal
     const stationsProchesElement = document.getElementById('stations-proches');
     stationsProchesElement.innerHTML = `<p>Coordonnées pour le code postal ${codePostal} : Latitude ${coordinates.latitude}, Longitude ${coordinates.longitude}</p>`;
 
     const stations = await getStations();
 
-    // Afficher les résultats intermédiaires des stations
-    stationsProchesElement.innerHTML += '<h3>Résultats intermédiaires des stations :</h3>';
     if (stations.length === 0) {
         stationsProchesElement.innerHTML += '<p>Aucune station trouvée.</p>';
         return;
     }
 
+    // Calculer et afficher les distances
+    stationsProchesElement.innerHTML += '<h3>Stations avec distances :</h3>';
     for (const station of stations) {
         if (station.latitude_station && station.longitude_station) {
-            stationsProchesElement.innerHTML += `<p>${station.libelle_station} : Latitude ${station.latitude_station}, Longitude ${station.longitude_station}</p>`;
-        }
-    }
-
-    // Calculer et afficher les distances et les débits
-    stationsProchesElement.innerHTML += '<h3>Stations avec distances et débits :</h3>';
-    for (const station of stations) {
-        if (station.latitude && station.longitude) {
             const distance = calculateDistance(
                 coordinates.latitude,
                 coordinates.longitude,
                 parseFloat(station.latitude_station),
                 parseFloat(station.longitude_station)
             );
-            const debit = await getDebitStation(station.code_station);
-            stationsProchesElement.innerHTML += `<p>${station.libelle_station} : Distance: ${distance.toFixed(2)} km, Débit: ${debit} m³/s</p>`;
+            stationsProchesElement.innerHTML += `<p>${station.libelle_station} : Distance: ${distance.toFixed(2)} km</p>`;
         }
     }
 }
