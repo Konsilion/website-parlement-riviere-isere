@@ -1,3 +1,8 @@
+---
+hide:
+    - toc
+---
+
 # Suivi des débits de l'Isère
 
 Voici un outil pour trouver les stations de mesure de débit les plus proches de vous sur l'Isère.
@@ -133,7 +138,6 @@ async function afficherStationsProches() {
         <table border="1">
             <tr style="background-color: #0b4387; color: white;">
                 <th>Libellé de la station</th>
-                <th>Distance (km)</th>
                 <th>Débit (m³/s)</th>
                 <th>Lien vers fiche station</th>
             </tr>
@@ -148,7 +152,6 @@ async function afficherStationsProches() {
         tableHTML += `
             <tr ${style}>
                 <td>${station.libelle_station}</td>
-                <td>${station.distance.toFixed(2)}</td>
                 <td>${debit}</td>
                 <td>${lien}</td>
             </tr>
