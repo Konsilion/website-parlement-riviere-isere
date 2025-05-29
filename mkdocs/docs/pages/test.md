@@ -112,8 +112,8 @@ async function afficherStationsProches() {
     }
 
     for (const station of stations) {
-        if (station.latitude && station.longitude) {
-            stationsProchesElement.innerHTML += `<p>${station.libelle_station} : Latitude ${station.latitude}, Longitude ${station.longitude}</p>`;
+        if (station.latitude_station && station.longitude_station) {
+            stationsProchesElement.innerHTML += `<p>${station.libelle_station} : Latitude ${station.latitude_station}, Longitude ${station.longitude_station}</p>`;
         }
     }
 
@@ -124,8 +124,8 @@ async function afficherStationsProches() {
             const distance = calculateDistance(
                 coordinates.latitude,
                 coordinates.longitude,
-                parseFloat(station.latitude),
-                parseFloat(station.longitude)
+                parseFloat(station.latitude_station),
+                parseFloat(station.longitude_station)
             );
             const debit = await getDebitStation(station.code_station);
             stationsProchesElement.innerHTML += `<p>${station.libelle_station} : Distance: ${distance.toFixed(2)} km, Débit: ${debit} m³/s</p>`;
