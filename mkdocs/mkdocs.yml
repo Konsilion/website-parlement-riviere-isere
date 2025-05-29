@@ -18,6 +18,7 @@ nav:
         - Accueil: pages/documentation/index.md
         - La gestion de l'eau : pages/commissions/scientifique/cartes_mentales/gestion.md
         - AquaRepere : pages/documentation/aquarepere.md
+        - Suivi des débits: pages/documentation/debit_cours_eau.md
             
     - Contact : pages/contact.md
 
