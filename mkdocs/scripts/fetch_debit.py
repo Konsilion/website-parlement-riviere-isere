@@ -1,7 +1,7 @@
 import requests
 
 # URL de l'API Hubeau
-url = "https://hubeau.eaufrance.fr/api/v1/hydrometrie/observations_tr"
+url = "https://hubeau.eaufrance.fr/api/v2/hydrometrie/observations_tr"
 
 # Paramètres pour obtenir le dernier débit observé à la station W141001001 (Isère à Grenoble)
 params = {
