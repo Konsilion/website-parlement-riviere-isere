@@ -17,7 +17,7 @@ Voici le débit actuel de l'Isère :
       const data = await response.json();
       if (data.data && data.data.length > 0) {
         const observation = data.data[0];
-        const debit = observation.resultat_obs;
+        const debit = observation.resultat_obs/1000;
         const date = observation.date_obs;
         document.getElementById('debit-isere').textContent = `Débit de l'Isère : ${debit} m³/s (mesuré le ${new Date(date).toLocaleString()})`;
       } else {
