@@ -79,4 +79,4 @@ markdown_extensions:
 extra_css:
   - personnel.css
 
-copyright: Une plateforme développée avec ❤ par Nicolas Brémond pour le Collectif du Parlement de la rivière Isère. Made with <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank">Material for MkDocs Insiders</a>
+copyright: Un site web développé avec ❤ par Nicolas Brémond pour le Collectif du Parlement de la rivière Isère. Made with <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank">Material for MkDocs Insiders</a>
