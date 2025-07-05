@@ -20,7 +20,9 @@ hide:
     
     Les services climatiques ne se limitent pas aux seules projections à long terme : ils incluent également les services météorologiques, orientés sur les prévisions à courte échéance, utiles notamment pour la gestion de crise (crues, inondations, orages violents, etc.).
 
-=== "Outils & Organismes"
+=== "Liste"
+
+https://www.hydro.eaufrance.fr/
 
     <div class="ksln-grid">
       <div class="ksln-cards" style="margin: 0px auto auto auto;">
@@ -59,6 +61,13 @@ hide:
           <a class="md-button md-button--primary" href="https://naiades.eaufrance.fr/" target="_blank">Lien</a>
       </div>
       <div class="ksln-cards" style="margin: 0px auto auto auto;">
+          <h3><img src="https://www.hydro.eaufrance.fr/build/images/hydroportail.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
+          <b>HydroPortail</b></h3>
+           Accédez gratuitement aux données publiques quantitatives relatives à l'écoulement des cours d'eau.
+          <hr>
+          <a class="md-button md-button--primary" href="https://www.hydro.eaufrance.fr/" target="_blank">Lien</a>
+      </div>
+      <div class="ksln-cards" style="margin: 0px auto auto auto;">
           <h3><img src="https://pole-lagunes.org/wp-content/uploads/sites/4/2017/12/drias-640x395.jpg" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
           <b>Drias</b></h3>
           Drias - Futur de l'eau pour vocation de mettre à disposition des projections hydrologiques des eaux de surface et souterraines, réalisées dans le cadre du projet national Explore2
@@ -73,3 +82,7 @@ hide:
           <a class="md-button md-button--primary" href="https://hubeau.eaufrance.fr/" target="_blank">Lien</a>
       </div> 
     </div>
+
+
+
+
