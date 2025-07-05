@@ -18,7 +18,7 @@ hide:
     
     Les services climatiques ne se limitent pas aux seules projections à long terme : ils incluent également les services météorologiques, orientés sur les prévisions à courte échéance, utiles notamment pour la gestion de crise (crues, inondations, orages violents, etc.).
 
-=== "Liste de services climatiques"
+=== "Outils & Organismes"
 
     <div class="ksln-grid">
       <div class="ksln-cards" style="margin: 0px auto auto auto;">
