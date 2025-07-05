@@ -21,7 +21,7 @@
     <div class="ksln-cards" style="margin: 0px auto auto auto;">
         <h3><img src="https://entrepot.recherche.data.gouv.fr/logos/202158/LogoExplore2.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
         <b>Explore2 - Les futurs de l'eau</b></h3>
-         Le projet Explore2 a eu pour objectifs d'actualiser les connaissances sur l'impact du changement climatique sur l'hydrologie à partir des dernières publications du GIEC, et aussi d'accompagner les acteurs des territoires dans la compréhension et l'utilisation de ces résultats pour adapter leurs stratégies de gestion de la ressource en eau.
+         Le projet Explore2 a pour objectifs d'actualiser les connaissances sur l'impact du changement climatique sur l'hydrologie, et aussi d'accompagner la compréhension et l'utilisation de ces résultats.
         <hr>
         <a class="md-button md-button--primary" href="https://entrepot.recherche.data.gouv.fr/dataverse/explore2" target="_blank">Lien</a>
     </div>
