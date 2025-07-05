@@ -22,7 +22,7 @@ hide:
 
     <div class="ksln-grid">
       <div class="ksln-cards" style="margin: 0px auto auto auto;">
-          <h3><img src="https://grec-alpes-auvergne.osug.fr/sites/grec-alpes-auvergne.osug.fr/IMG/logo/grec_logo_couleur_4_.png?1705072693" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
+          <h3><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6x-VnS2b5Q_oxlqAJ5PsvETQttlf7pkcBWA&s" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
           <b>GREC Alpes-Auvergne</b></h3>
            Son objectif est de rendre les recherches sur le changement climatique plus concrètes et accessibles à l’échelle régionale, et de mettre en relation chercheurs, collectivités, entreprises et citoyens pour mieux agir ensemble.
           <hr>
