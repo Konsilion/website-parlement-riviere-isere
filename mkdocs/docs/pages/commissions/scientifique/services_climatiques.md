@@ -20,9 +20,41 @@ hide:
     
     Les services climatiques ne se limitent pas aux seules projections à long terme : ils incluent également les services météorologiques, orientés sur les prévisions à courte échéance, utiles notamment pour la gestion de crise (crues, inondations, orages violents, etc.).
 
-=== "Liste"
+=== "Outils opérationnels"
 
-https://www.hydro.eaufrance.fr/
+    <div class="ksln-grid">
+      <div class="ksln-cards" style="margin: 0px auto auto auto;">
+          <h3><img src="https://naiades.eaufrance.fr/themes/custom/naiades/images/logo-naiades.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
+          <b>Naïades</b></h3>
+           Accédez simplement aux relevés d'observation sur la qualité des cours d'eau et des plans d'eau...
+          <hr>
+          <a class="md-button md-button--primary" href="https://naiades.eaufrance.fr/" target="_blank">Lien</a>
+      </div>
+      <div class="ksln-cards" style="margin: 0px auto auto auto;">
+          <h3><img src="https://aquarepere.banquedesterritoires.fr/_ipx/fit_cover/images/aquarepere-logo.svg" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
+          <b>Aquarepère</b></h3>
+           Comprendre et anticiper la gestion de l’eau sur votre territoire. Donnez des points de repère sur l’évolution de la ressource en eau sur votre territoire.
+          <hr>
+          <a class="md-button md-button--primary" href="https://aquarepere.banquedesterritoires.fr/" target="_blank">Lien</a>
+      </div>
+      <div class="ksln-cards" style="margin: 0px auto auto auto;">
+          <h3><img src="https://www.economiecirculaire.org/data/sources/users/3405/logobrgmwebfrcouleur.jpg" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
+          <b>MétéEau - Nappes</b></h3>
+           Carte interactive du service public d'information de référence sur les risques de crues et de pluies intenses en France.
+          <hr>
+          <a class="md-button md-button--primary" href="https://app.meteeaunappes.brgm.fr/desktop" target="_blank">Lien</a>
+          <a class="md-button md-button--secondary" href="https://meteeaunappes.brgm.fr/sites/websites/meteeaunappes.brgm.fr/files/documents/2025-03/BRGM_Guide_aide_utilisation_M%C3%A9t%C3%A9EAU-Nappes_2025_v1.pdf" target="_blank">Guide d'utilisation</a>
+      </div>
+      <div class="ksln-cards" style="margin: 0px auto auto auto;">
+          <h3><img src="https://apic-vigicruesflash.fr/static/assets/images/logo-vigicrues_flash.922760f2800b.svg" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
+          <b>VigiCrues - Flash</b></h3>
+           Carte interactive du service public d'information de référence sur les risques de crues et de pluies intenses en France.
+          <hr>
+          <a class="md-button md-button--primary" href="https://apic-vigicruesflash.fr/" target="_blank">Lien</a>
+      </div>
+    </div>
+
+=== "Outils d'études"
 
     <div class="ksln-grid">
       <div class="ksln-cards" style="margin: 0px auto auto auto;">
@@ -38,27 +70,13 @@ https://www.hydro.eaufrance.fr/
            Le projet a pour objectifs d'actualiser les connaissances sur l'impact du changement climatique sur l'hydrologie, et d'accompagner leur compréhension et utilisation.
           <hr>
           <a class="md-button md-button--primary" href="https://entrepot.recherche.data.gouv.fr/dataverse/explore2" target="_blank">Lien</a>
-      </div>
-      <div class="ksln-cards" style="margin: 0px auto auto auto;">
-          <h3><img src="https://aquarepere.banquedesterritoires.fr/_ipx/fit_cover/images/aquarepere-logo.svg" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
-          <b>Aquarepère</b></h3>
-           Comprendre et anticiper la gestion de l’eau sur votre territoire. Donnez des points de repère sur l’évolution de la ressource en eau sur votre territoire.
-          <hr>
-          <a class="md-button md-button--primary" href="https://aquarepere.banquedesterritoires.fr/" target="_blank">Lien</a>
-      </div>      
+      </div>   
       <div class="ksln-cards" style="margin: 0px auto auto auto;">
           <h3><img src="https://meteofrance.com/sites/meteofrance.com/files/logo/LOGO_MF.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
           <b>Climat HD</b></h3>
            Climat HD synthétise les derniers travaux des climatologues : des messages clés et des graphiques pour mieux appréhender le changement climatique et ses impacts.
           <hr>
           <a class="md-button md-button--primary" href="https://meteofrance.com/climathd" target="_blank">Lien</a>
-      </div>
-      <div class="ksln-cards" style="margin: 0px auto auto auto;">
-          <h3><img src="https://naiades.eaufrance.fr/themes/custom/naiades/images/logo-naiades.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
-          <b>Naïades</b></h3>
-           Accédez simplement aux relevés d'observation sur la qualité des cours d'eau et des plans d'eau...
-          <hr>
-          <a class="md-button md-button--primary" href="https://naiades.eaufrance.fr/" target="_blank">Lien</a>
       </div>
       <div class="ksln-cards" style="margin: 0px auto auto auto;">
           <h3><img src="https://www.hydro.eaufrance.fr/build/images/hydroportail.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
@@ -82,7 +100,3 @@ https://www.hydro.eaufrance.fr/
           <a class="md-button md-button--primary" href="https://hubeau.eaufrance.fr/" target="_blank">Lien</a>
       </div> 
     </div>
-
-
-
-
