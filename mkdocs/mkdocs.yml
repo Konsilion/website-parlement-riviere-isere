@@ -38,6 +38,7 @@ theme:
       - content.action.edit
       - navigation.indexes
       - navigation.tracking
+      - navigation.expand
       - navigation.top
       - navigation.tabs
       - navigation.tabs.sticky
