@@ -31,6 +31,14 @@
            Climat HD synthétise les derniers travaux des climatologues : des messages clés et des graphiques pour mieux appréhender le changement climatique et ses impacts.
           <hr>
           <a class="md-button md-button--primary" href="https://meteofrance.com/climathd" target="_blank">Lien</a>
+      </div>
+
+      <div class="ksln-cards" style="margin: 0px auto auto auto;">
+          <h3><img src="https://naiades.eaufrance.fr/themes/custom/naiades/images/logo-naiades.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
+          <b>Naïades</b></h3>
+           Accédez simplement aux relevés d'observation sur la qualité des cours d'eau et des plans d'eau...
+          <hr>
+          <a class="md-button md-button--primary" href="https://naiades.eaufrance.fr/" target="_blank">Lien</a>
       </div> 
       
     </div>
