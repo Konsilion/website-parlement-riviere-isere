@@ -5,8 +5,6 @@ hide:
 
 # Les services climatiques
 
-!!! info "
-
 === "Qu'est-ce que c'est ?"
 
     Un service climatique désigne l’ensemble des dispositifs, outils ou systèmes permettant de fournir des informations climatiques utiles, fiables et scientifiquement fondées, destinées à appuyer la prise de décision dans des secteurs sensibles au climat, tels que la gestion de l’eau.
