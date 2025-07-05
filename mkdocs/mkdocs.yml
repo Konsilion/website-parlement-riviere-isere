@@ -13,6 +13,7 @@ nav:
         - Scientifique : 
             - pages/commissions/scientifique/index.md
             - Prises de notes : pages/commissions/scientifique/prise_note.md
+            - Services climatiques: pages/commissions/scientifique/services_climatiques.md
 
     - Documentation : 
         - Accueil: pages/documentation/index.md
