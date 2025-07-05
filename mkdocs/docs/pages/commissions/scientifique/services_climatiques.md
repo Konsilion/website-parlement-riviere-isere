@@ -1,3 +1,8 @@
+---
+hide:
+    - toc
+---
+
 # Les services climatiques
 
 === "Qu'est-ce que c'est ?"
