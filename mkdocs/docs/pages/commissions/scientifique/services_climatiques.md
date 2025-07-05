@@ -41,5 +41,12 @@ hide:
            Accédez simplement aux relevés d'observation sur la qualité des cours d'eau et des plans d'eau...
           <hr>
           <a class="md-button md-button--primary" href="https://naiades.eaufrance.fr/" target="_blank">Lien</a>
+      </div>
+      <div class="ksln-cards" style="margin: 0px auto auto auto;">
+          <h3><img src="https://naiades.eaufrance.fr/themes/custom/naiades/images/logo-naiades.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
+          <b>Drias</b></h3>
+          Drias - Futur de l'eau pour vocation de mettre à disposition des projections hydrologiques des eaux de surface et souterraines, réalisées dans le cadre du projet national Explore2
+          <hr>
+          <a class="md-button md-button--primary" href="https://www.drias-eau.fr/" target="_blank">Lien</a>
       </div> 
     </div>
