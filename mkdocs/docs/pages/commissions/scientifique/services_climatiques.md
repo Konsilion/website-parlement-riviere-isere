@@ -22,6 +22,13 @@ hide:
 
     <div class="ksln-grid">
       <div class="ksln-cards" style="margin: 0px auto auto auto;">
+          <h3><img src="https://grec-alpes-auvergne.osug.fr/sites/grec-alpes-auvergne.osug.fr/IMG/logo/grec_logo_couleur_4_.png?1705072693" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
+          <b>GREC Alpes-Auvergne</b></h3>
+           Son objectif est de rendre les recherches sur le changement climatique plus concrètes et accessibles à l’échelle régionale, et de mettre en relation chercheurs, collectivités, entreprises et citoyens pour mieux agir ensemble.
+          <hr>
+          <a class="md-button md-button--primary" href="https://grec-alpes-auvergne.osug.fr/" target="_blank">Lien</a>
+      </div>
+      <div class="ksln-cards" style="margin: 0px auto auto auto;">
           <h3><img src="https://entrepot.recherche.data.gouv.fr/logos/202158/LogoExplore2.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
           <b>Explore2</b></h3>
            Le projet a pour objectifs d'actualiser les connaissances sur l'impact du changement climatique sur l'hydrologie, et d'accompagner leur compréhension et utilisation.
