@@ -16,7 +16,6 @@
 === "Liste de services climatiques"
 
     <div class="ksln-grid">
-    
       <div class="ksln-cards" style="margin: 0px auto auto auto;">
           <h3><img src="https://entrepot.recherche.data.gouv.fr/logos/202158/LogoExplore2.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
           <b>Explore2</b></h3>
@@ -24,7 +23,6 @@
           <hr>
           <a class="md-button md-button--primary" href="https://entrepot.recherche.data.gouv.fr/dataverse/explore2" target="_blank">Lien</a>
       </div>
-      
       <div class="ksln-cards" style="margin: 0px auto auto auto;">
           <h3><img src="https://meteofrance.com/sites/meteofrance.com/files/logo/LOGO_MF.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
           <b>Climat HD</b></h3>
@@ -32,7 +30,6 @@
           <hr>
           <a class="md-button md-button--primary" href="https://meteofrance.com/climathd" target="_blank">Lien</a>
       </div>
-
       <div class="ksln-cards" style="margin: 0px auto auto auto;">
           <h3><img src="https://naiades.eaufrance.fr/themes/custom/naiades/images/logo-naiades.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
           <b>Naïades</b></h3>
@@ -40,5 +37,4 @@
           <hr>
           <a class="md-button md-button--primary" href="https://naiades.eaufrance.fr/" target="_blank">Lien</a>
       </div> 
-      
     </div>
