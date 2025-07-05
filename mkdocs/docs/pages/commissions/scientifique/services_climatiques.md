@@ -43,10 +43,17 @@ hide:
           <a class="md-button md-button--primary" href="https://naiades.eaufrance.fr/" target="_blank">Lien</a>
       </div>
       <div class="ksln-cards" style="margin: 0px auto auto auto;">
-          <h3><img src="https://naiades.eaufrance.fr/themes/custom/naiades/images/logo-naiades.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
+          <h3><img src="https://pole-lagunes.org/wp-content/uploads/sites/4/2017/12/drias-640x395.jpg" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
           <b>Drias</b></h3>
           Drias - Futur de l'eau pour vocation de mettre à disposition des projections hydrologiques des eaux de surface et souterraines, réalisées dans le cadre du projet national Explore2
           <hr>
           <a class="md-button md-button--primary" href="https://www.drias-eau.fr/" target="_blank">Lien</a>
+      </div>
+      <div class="ksln-cards" style="margin: 0px auto auto auto;">
+          <h3><img src="https://hubeau.eaufrance.fr/sites/default/files/api/demo/piezo/images/logohubeau.svg" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
+          <b>HubEau - API</b></h3>
+          Hub'Eau met à disposition des API Rest favorisant l’accès aux données du Service Information sur l'Eau (SIE), dans des formats simples d’emploi et propices à la réutilisation.
+          <hr>
+          <a class="md-button md-button--primary" href="https://hubeau.eaufrance.fr/" target="_blank">Lien</a>
       </div> 
     </div>
