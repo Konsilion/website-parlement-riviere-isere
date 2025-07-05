@@ -5,6 +5,8 @@ hide:
 
 # Les services climatiques
 
+!!! info "
+
 === "Qu'est-ce que c'est ?"
 
     Un service climatique désigne l’ensemble des dispositifs, outils ou systèmes permettant de fournir des informations climatiques utiles, fiables et scientifiquement fondées, destinées à appuyer la prise de décision dans des secteurs sensibles au climat, tels que la gestion de l’eau.
@@ -35,6 +37,13 @@ hide:
           <hr>
           <a class="md-button md-button--primary" href="https://entrepot.recherche.data.gouv.fr/dataverse/explore2" target="_blank">Lien</a>
       </div>
+      <div class="ksln-cards" style="margin: 0px auto auto auto;">
+          <h3><img src="https://aquarepere.banquedesterritoires.fr/_ipx/fit_cover/images/aquarepere-logo.svg" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
+          <b>Aquarepère</b></h3>
+           Comprendre et anticiper la gestion de l’eau sur votre territoire. Donnez des points de repère sur l’évolution de la ressource en eau sur votre territoire.
+          <hr>
+          <a class="md-button md-button--primary" href="https://aquarepere.banquedesterritoires.fr/" target="_blank">Lien</a>
+      </div>      
       <div class="ksln-cards" style="margin: 0px auto auto auto;">
           <h3><img src="https://meteofrance.com/sites/meteofrance.com/files/logo/LOGO_MF.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
           <b>Climat HD</b></h3>
