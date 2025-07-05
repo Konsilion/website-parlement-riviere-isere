@@ -16,11 +16,21 @@
 === "Liste de services climatiques"
 
     <div class="ksln-grid">
+    
       <div class="ksln-cards" style="margin: 0px auto auto auto;">
           <h3><img src="https://entrepot.recherche.data.gouv.fr/logos/202158/LogoExplore2.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
-          <b>Explore2 - Les futurs de l'eau</b></h3>
-           Le projet Explore2 a pour objectifs d'actualiser les connaissances sur l'impact du changement climatique sur l'hydrologie, et aussi d'accompagner la compréhension et l'utilisation de ces résultats.
+          <b>Explore2</b></h3>
+           Le projet a pour objectifs d'actualiser les connaissances sur l'impact du changement climatique sur l'hydrologie, et d'accompagner leur compréhension et utilisation.
           <hr>
           <a class="md-button md-button--primary" href="https://entrepot.recherche.data.gouv.fr/dataverse/explore2" target="_blank">Lien</a>
+      </div>
+      
+      <div class="ksln-cards" style="margin: 0px auto auto auto;">
+          <h3><img src="https://meteofrance.com/sites/meteofrance.com/files/logo/LOGO_MF.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
+          <b>Climat HD</b></h3>
+           Climat HD synthétise les derniers travaux des climatologues : des messages clés et des graphiques pour mieux appréhender le changement climatique et ses impacts.
+          <hr>
+          <a class="md-button md-button--primary" href="https://meteofrance.com/climathd" target="_blank">Lien</a>
       </div> 
+      
     </div>
