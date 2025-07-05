@@ -5,8 +5,9 @@
   Un service climatique désigne l’ensemble des dispositifs, outils ou systèmes permettant de fournir des informations climatiques utiles, fiables et scientifiquement fondées, destinées à appuyer la prise de décision dans des secteurs sensibles au climat, tels que la gestion de l’eau.
   
   Dans le cadre de l’étude de la ressource en eau, ces services peuvent intégrer :
-  - des prévisions à court ou moyen terme (par exemple : risques de sécheresse, précipitations intenses, événements extrêmes),
-  - des projections climatiques à long terme (telles que l’évolution des régimes de précipitations, de l’évapotranspiration, ou de la recharge des nappes phréatiques).
+  
+  * des prévisions à court ou moyen terme (par exemple : risques de sécheresse, précipitations intenses, événements extrêmes),
+  * des projections climatiques à long terme (telles que l’évolution des régimes de précipitations, de l’évapotranspiration, ou de la recharge des nappes phréatiques).
   
   Ces données climatiques sont généralement croisées avec des informations sectorielles pertinentes : occupation du sol, usages de l’eau, infrastructures hydrauliques, état des milieux aquatiques, ou encore données démographiques. Cela permet une évaluation fine de l’exposition et de la vulnérabilité des territoires face aux aléas climatiques, ainsi qu’une planification adaptée des politiques de gestion et de préservation de la ressource.
   
