@@ -18,12 +18,8 @@ nav:
     - Documentation : 
         - Accueil: pages/documentation/index.md
         - La gestion de l'eau : pages/commissions/scientifique/cartes_mentales/gestion.md
-        - AquaRepere : pages/documentation/aquarepere.md
-        - MétéEau Nappes : pages/documentation/meteeau_nappe.md
-        - Suivi des débits Isère : pages/documentation/debit_cours_eau.md
             
     - Contact : pages/contact.md
-
 
 site_name: Parlement de la rivière Isère
 site_author: Nicolas Brémond
