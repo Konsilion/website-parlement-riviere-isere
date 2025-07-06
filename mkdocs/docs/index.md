@@ -12,7 +12,7 @@ hide:
 
 ---
 
-[En savoir plus ➜](./pages/le_parlement/presentation_parlement/){ .md-button .md-button--primary style="float: right; margin: 0 0 50px 55px;"}
+[En savoir plus ➜](./pages/le_parlement/){ .md-button .md-button--primary style="float: right; margin: 0 0 50px 55px;"}
 
 # A&nbsp;l’écoute de&nbsp;la&nbsp;rivière
 
