@@ -13,12 +13,12 @@ nav:
         - Scientifique : 
             - pages/commissions/scientifique/index.md
             - Prises de notes : pages/commissions/scientifique/prise_note.md
-            - Services climatiques: pages/commissions/scientifique/services_climatiques.md
 
     - Documentation : 
         - Accueil: pages/documentation/index.md
-        - La gestion de l'eau : pages/commissions/scientifique/cartes_mentales/gestion.md
-            
+        - La gestion de l'eau : pages/documentation/gestion_eau.md
+        - Services climatiques: pages/documentation/services_climatiques.md
+
     - Contact : pages/contact.md
 
 site_name: Parlement de la rivière Isère
