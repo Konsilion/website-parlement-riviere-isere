@@ -111,10 +111,10 @@ hide:
             <a class="md-button md-button--primary" href="https://hubeau.eaufrance.fr/" target="_blank">Lien</a>
         </div>
         <div class="ksln-cards" style="margin: 0px auto auto auto;">
-            <h3><img src="https://hubeau.eaufrance.fr/sites/default/files/api/demo/piezo/images/logohubeau.svg" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
-            <b>HubEau - API</b></h3>
-            Hub'Eau met à disposition des API Rest favorisant l’accès aux données du Service Information sur l'Eau (SIE), dans des formats simples d’emploi et propices à la réutilisation.
+            <h3><img src="https://www.opendatasoft.com/wp-content/uploads/2022/12/logo-opendatasoft.svg" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
+            <b>OpenDataSoft</b></h3>
+            Opendatasoft démocratise l’usage des données à l’échelle pour les utilisateurs grâce à des données publiques prêtes à l’emploi.
             <hr>
-            <a class="md-button md-button--primary" href="https://hubeau.eaufrance.fr/" target="_blank">Lien</a>
+            <a class="md-button md-button--primary" href="https://public.opendatasoft.com/explore/" target="_blank">Lien</a>
         </div> 
     </div>
