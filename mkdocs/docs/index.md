@@ -6,7 +6,7 @@ hide:
 ---
 
 
-[Compte Rendu 1ère Session ➜](./pages/cr/premiere_session/){ .md-button .md-button--secondary style="text-align: center; float: right; margin: 20px 0 50px 0px; border-radius: 50px !important"}
+[Compte Rendu 1ère Session ➜](./pages/sessions/premiere_session/){ .md-button .md-button--secondary style="text-align: center; float: right; margin: 20px 0 50px 0px; border-radius: 50px !important"}
 
 ![logo-accueil](https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/banniere-parlement-isere.png?raw=true){style="width: 450px; max-width: 100%"}
 
