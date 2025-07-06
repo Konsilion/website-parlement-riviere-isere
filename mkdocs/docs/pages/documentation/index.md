@@ -6,9 +6,9 @@ hide:
 
 # Documentation partagée - Parlement de la rivière Isère
 
-!!! info "Outils et applications disponible"
+!!! info "Outils et applications disponibles"
 
-    Les acteurs se mobilisent pour proposer des informations utiles à la compréhension des enjeux de l'eau, retrouver un ensemble de services ici : [voir la page "services climatiques"](https://parlement-isere.org/pages/commissions/scientifique/services_climatiques/)
+    Les acteurs se mobilisent pour proposer des informations utiles à la compréhension des enjeux de l'eau, retrouver un ensemble de services ici : [voir la page "services climatiques"](https://parlement-isere.org/pages/documentation/services_climatiques/)
 
 ---
 
