@@ -11,9 +11,9 @@ hide:
 
         Nous proposons de ranger les productions des services climatiques dans 3 catégories : 
 
-        * Les *visualisations* sont des outils intéractifs permettant de rapidement obtenir une information utile.
-        * Les *études* sont des regroupements de rapports, données travaillées, infographies relativement "complexes" à l'usage.
-        * Les *données* sont des des jeux de données permettant de réaliser des études ou des visualisations.
+        * Les **visualisations** sont des outils intéractifs permettant de rapidement obtenir une information utile.
+        * Les **études** sont des regroupements de rapports, données travaillées, infographies relativement "complexes" à l'usage.
+        * Les **données** sont des des jeux de données permettant de réaliser des études ou des visualisations.
 
     Un service climatique désigne l’ensemble des dispositifs, outils ou systèmes permettant de fournir des informations climatiques utiles, fiables et scientifiquement fondées, destinées à appuyer la prise de décision dans des secteurs sensibles au climat, tels que la gestion de l’eau.
     
