@@ -1,0 +1,207 @@
+:root > * {
+    --md-primary-fg-color: #0b4387 !important;
+    --md-tabs-bg-color: rgba(245, 245, 245, 1) !important;
+    --md-typeset-color: #323232 !important;
+}
+
+.md-header__source, .md-nav__source {display: none}
+
+.md-content {margin-bottom: 75px !important;}
+
+.md-main__inner {margin-top: 0px !important;}
+
+.md-tabs {
+    background-color: var(--md-tabs-bg-color);
+    color: black;
+}
+
+.md-tabs__item--active .md-tabs__link {
+  font-weight: bold !important;
+  color: white !important;
+}
+
+.md-tabs__item--active {background-color: var(--md-primary-fg-color) !important;}
+
+.md-button {
+	font-size: 16px;
+	padding: 5px 2em !important;
+	border-radius: 25px !important;
+}
+
+.md-button--secondary {background-color: white;}
+
+h1 {
+    color: var(--md-primary-fg-color) !important;
+    font-family: 'Roboto';
+    font-weight: 700 !important;
+    margin-bottom: 50px !important;
+    margin-top: 50px !important;
+    font-size: 2.4em !important;
+}
+
+
+h2 {
+    color: var(--md-primary-fg-color) !important;
+    font-family: 'Roboto'; 
+    font-weight: 550 !important;
+    font-size: 1.9em !important;
+    /* margin: 25px 0 10px !important; */
+    /* border-bottom: 10px solid #EEE !important; */
+    /* padding-bottom: 10px; */
+}
+
+h3 {
+    color: grey !important;
+    font-family: 'Roboto'; 
+    font-weight: 300 !important;
+    padding-bottom: 15px;
+    margin: 25px 0 10px !important;
+}
+
+article p, article li {
+    /* text-align: justify; */
+    font-family: 'Roboto'; 
+    font-size: 19px !important;
+    line-height: 35px !important;
+}
+
+@media screen and (max-width: 700px) {
+  .bouton-large-mobile {
+    float: none !important;
+    width: 75% !important;
+    margin: 20px auto 50px auto !important;
+    display: block;
+    text-align: center !important;
+  }
+}
+
+
+
+
+@media only screen and (min-width: 1220px) {
+	.md-sidebar.md-sidebar--primary > * {
+		border-right: 1px solid #CCC;
+	}    
+}
+
+
+
+
+
+
+
+
+/*.md-sidebar.md-sidebar--secondary {
+    padding: 1.2rem 0 1.2rem 30px !important;
+    width: 14rem !important;
+} */   
+
+.md-sidebar--secondary .md-sidebar__inner{
+    padding: 0 !important;
+}
+
+.md-sidebar--secondary .md-nav__title {
+    font-size: 20px;
+    color: var(--md-primary-fg-color);
+    padding: 0px !important;
+}
+
+.md-nav__item {
+    font-size: 17px;
+    font-weight: normal;	
+}
+
+.md-nav__link.md-nav__link--active {
+    font-size: 17px !important;
+    font-weight: bold !important;
+    color: #1d9bff !important;
+}
+
+
+.md-sidebar--secondary .md-nav__list {
+    border-left: 1px solid #CCC;
+}
+
+
+
+
+
+/*.md-content p,
+.md-content li {
+     text-align: justify; 
+}*/
+
+
+
+
+
+
+/*============ KONSILION ELEMENTS ================*/
+
+.ksln-cards {
+    border: 0.05rem solid var(--md-default-fg-color--lightest);
+    border-radius: 0.1rem;
+    padding: 0.8rem;
+    width: 100%;
+    box-shadow: 0px 0px 3px rgb(0 0 0 / 15%);
+    font-weight: 300;
+    background-color: var(--md-default-bg-color);
+}
+
+.ksln-grid-4c .ksln-cards:hover {
+    box-shadow: 0px 0px 5px rgb(0 0 0 / 25%);
+}
+
+.ksln-grid-4c .ksln-cards {
+    border: 0.05rem solid var(--md-default-fg-color--lightest);
+    border-radius: 0.1rem;
+    padding: 0.8rem 0rem;
+    width: 100%;
+    box-shadow: 0px 0px 3px rgb(0 0 0 / 15%);
+    font-weight: 300;
+    background-color: var(--md-default-bg-color);
+}
+
+.ksln-grid {
+  justify-content: left;
+  display: grid;
+  margin: 50px 0px;	
+  gap: 25px;
+  grid-template-columns: 100%;
+  max-width: 98%;  
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1399px) {
+	.ksln-grid {
+	  grid-template-columns: 50% 50%;
+	}
+}
+
+@media only screen and (min-width: 1400px) {
+	.ksln-grid {
+	  grid-template-columns: 33.33337% 33.33337% 33.33337%;
+	}
+}
+
+.ksln-grid-4c {
+  justify-content: left;
+  display: grid;
+  margin: 50px 0px;	
+  gap: 25px;
+  grid-template-columns: 100%;
+  max-width: 98%;  
+}
+
+
+@media only screen and (min-width: 769px) and (max-width: 1399px) {
+	.ksln-grid-4c {
+	  grid-template-columns: 33.33337% 33.33337% 33.33337%;
+	}
+}
+
+
+@media only screen and (min-width: 1400px) {
+	.ksln-grid-4c {
+	  grid-template-columns: 24% 24% 24% 24%;
+	}
+}
