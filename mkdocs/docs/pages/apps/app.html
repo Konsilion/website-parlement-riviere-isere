@@ -1,90 +1,29 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Application Qualité & Quantité des Rivières</title>
+  <meta charset="UTF-8">
+  <title>Qualité et Quantité - Spot fixe</title>
+  <link rel="stylesheet" href="app.css">
 </head>
 <body>
-  <div id="app">
-    <h1>Tronçon de rivière (Isère / Drac)</h1>
-    <p>Sélectionnez un tronçon :</p>
-    <select id="segmentSelect">
-      <option value="">-- Chargement des tronçons... --</option>
-    </select>
+  <h1>Baignade - Données pour Spot fixe (Drac vers Grenoble)</h1>
 
-    <div id="results">
-      <div id="quantity">
-        <h2>Quantité</h2>
-        <p id="instantFlow">Débit instantané : <span class="value" id="valQinst">-</span> <span class="unit" id="unitQinst"></span> <span class="datetime" id="timeQinst"></span> <a href="#" target="_blank" id="linkQinst">Station hydrométrique</a></p>
-        <p id="dailyFlow">Débit moyen journalier : <span class="value" id="valQdaily">-</span> <span class="unit" id="unitQdaily"></span> <span class="datetime" id="timeQdaily"></span> <a href="#" target="_blank" id="linkQdaily">Station hydrométrique</a></p>
-      </div>
-      <div id="quality">
-        <h2>Qualité</h2>
-        <p>Température de l’eau : <span class="value" id="valTemp">-</span> <span class="unit" id="unitTemp"></span> <span class="datetime" id="timeTemp"></span> <a href="#" target="_blank" id="linkQual">Station qualité</a></p>
-        <p>Matières en suspension (MES) : <span class="value" id="valMES">-</span> <span class="unit" id="unitMES"></span> <span class="datetime" id="timeMES"></span> <a href="#" target="_blank" id="linkQual2">Station qualité</a></p>
-        <p>Chlorures : <span class="value" id="valChl">-</span> <span class="unit" id="unitChl"></span> <span class="datetime" id="timeChl"></span> <a href="#" target="_blank" id="linkQual3">Station qualité</a></p>
-        <p>DBO5 : <span class="value" id="valDBO">-</span> <span class="unit" id="unitDBO"></span> <span class="datetime" id="timeDBO"></span> <a href="#" target="_blank" id="linkQual4">Station qualité</a></p>
-        <p>Oxygène dissous : <span class="value" id="valO2">-</span> <span class="unit" id="unitO2"></span> <span class="datetime" id="timeO2"></span> <a href="#" target="_blank" id="linkQual5">Station qualité</a></p>
-        <p>Autoconsommation O₂ 48h : <span class="value" id="valAuto">-</span> <span class="unit" id="unitAuto"></span> <span class="datetime" id="timeAuto"></span> <a href="#" target="_blank" id="linkQual6">Station qualité</a></p>
-        <p>pH : <span class="value" id="valPH">-</span> <span class="unit" id="unitPH"></span> <span class="datetime" id="timePH"></span> <a href="#" target="_blank" id="linkQual7">Station qualité</a></p>
-      </div>
-    </div>
+  <div id="quantity">
+    <h2>Quantité</h2>
+    <p id="instantFlow">Débit instantané : -</p>
+    <p id="dailyFlow">Débit moyen journalier : -</p>
+  </div>
+
+  <div id="quality">
+    <h2>Qualité</h2>
+    <p id="temperature">Température : -</p>
+    <p id="mes">MES : -</p>
+    <p id="chlorures">Chlorures : -</p>
+    <p id="dbo5">DBO5 : -</p>
+    <p id="o2">Oxygène dissous : -</p>
+    <p id="ph">pH : -</p>
   </div>
 
   <script src="functions.js"></script>
 </body>
 </html>
-
-
-
-
-<style>
-    body {
-    font-family: Arial, sans-serif;
-    margin: 20px;
-    background-color: #f7f7f7;
-    color: #333;
-    }
-    #app {
-    max-width: 800px;
-    margin: 0 auto;
-    background: #fff;
-    padding: 20px;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    }
-    h1 {
-    font-size: 1.5em;
-    margin-bottom: 0.5em;
-    }
-    h2 {
-    font-size: 1.2em;
-    margin-top: 1.5em;
-    margin-bottom: 0.5em;
-    color: #005aa3;
-    }
-    p {
-    margin: 0.5em 0;
-    }
-    #segmentSelect {
-    padding: 5px;
-    font-size: 1em;
-    }
-    .value {
-    font-weight: bold;
-    }
-    .unit, .datetime {
-    font-style: italic;
-    color: #555;
-    margin-left: 3px;
-    }
-    a {
-    color: #0066cc;
-    text-decoration: none;
-    margin-left: 5px;
-    }
-    a:hover {
-    text-decoration: underline;
-    }
-</style>
