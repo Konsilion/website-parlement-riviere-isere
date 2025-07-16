@@ -10,10 +10,7 @@ Ce tableau affiche les obstacles recensés sur l’Isère, le Drac, la Romanche 
 <div id="obstacles-table">Chargement en cours...</div>
 
 <script>
-// Liste des cours d'eau ciblés (adapter au libellé exact du Sandre)
-const coursEauList = ["Isère", "Drac", "Romanche", "Eau d'Olle"];
-
-// URL WFS corrigée pour le service Sandre (typo de couche ObstEcoul_FXX)
+const COURS_EAU_LIST = ["Isère", "Drac", "Romanche", "Eau d'Olle"];
 const WFS_URL = "https://services.sandre.eaufrance.fr/geo/obs?SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typeNames=ObstEcoul_FXX&OUTPUTFORMAT=application%2Fgml%2Bxml";
 
 async function fetchObstacles() {
@@ -22,31 +19,21 @@ async function fetchObstacles() {
         const text = await response.text();
         const parser = new DOMParser();
         const xmlDoc = parser.parseFromString(text, "application/xml");
-
-        // Sélection des éléments <obs:obstacle> dans la réponse WFS
         const features = [...xmlDoc.getElementsByTagName("obs:obstacle")];
-        const obstacles = features.map(obsElem => {
-            const getText = tag => {
-                const el = obsElem.getElementsByTagName(tag)[0];
-                return el ? el.textContent : null;
-            };
+        return features.map(obsElem => {
+            const getText = tag => obsElem.getElementsByTagName(tag)[0]?.textContent ?? null;
+            const pos = getText("gml:pos");
+            const [x, y] = pos ? pos.split(" ") : [null, null];
             return {
                 nom: getText("obs:nom"),
                 type: getText("obs:type_obstacle"),
                 franchissabilite: getText("obs:etat_franchissabilite"),
                 coursEau: getText("obs:libelle_cours_eau"),
-                x: getText("gml:pos")?.split(" ")[0] ?? null,
-                y: getText("gml:pos")?.split(" ")[1] ?? null,
+                x, y,
             };
-        });
-
-        // Filtrer par cours d’eau
-        const filtres = coursEauList.map(nom => nom.toLowerCase());
-        const obstaclesFiltres = obstacles.filter(obs =>
-            obs.coursEau && filtres.some(n => obs.coursEau.toLowerCase().includes(n))
+        }).filter(obs =>
+            obs.coursEau && COURS_EAU_LIST.some(nom => obs.coursEau.toLowerCase().includes(nom.toLowerCase()))
         );
-
-        return obstaclesFiltres;
     } catch (error) {
         console.error("Erreur lors du chargement des obstacles :", error);
         return [];
@@ -54,11 +41,11 @@ async function fetchObstacles() {
 }
 
 function renderObstacleTable(data) {
-    if (data.length === 0) {
+    if (!data.length) {
         document.getElementById("obstacles-table").innerHTML = "<p>Aucun obstacle trouvé.</p>";
         return;
     }
-    let table = `
+    const tableHeader = `
         <table border="1">
             <tr style="background-color: #8d0303; color: white;">
                 <th>Nom</th>
@@ -69,9 +56,9 @@ function renderObstacleTable(data) {
                 <th>Longitude</th>
             </tr>
     `;
-    for (const obs of data) {
-        table += `
-            <tr>
+
+    const rows = data.map(obs => `
+        <tr>
                 <td>${obs.nom ?? "<i>Non renseigné</i>"}</td>
                 <td>${obs.type ?? "<i>Non renseigné</i>"}</td>
                 <td>${obs.franchissabilite ?? "<i>Inconnu</i>"}</td>
@@ -79,9 +66,9 @@ function renderObstacleTable(data) {
                 <td>${obs.y ?? "-"}</td>
                 <td>${obs.x ?? "-"}</td>
             </tr>
-        `;
-    }
-    table += `</table>`;
+    `).join("");
+
+    const table = `${tableHeader}${rows}</table>`;
     document.getElementById("obstacles-table").innerHTML = table;
 }
 
