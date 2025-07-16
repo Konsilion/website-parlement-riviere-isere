@@ -58,6 +58,13 @@ hide:
             <hr>
             <a class="md-button md-button--primary" href="https://apic-vigicruesflash.fr/" target="_blank">Lien</a>
         </div>
+        <div class="ksln-cards" style="margin: 0px auto auto auto;">
+            <h3><img src="https://www.services.eaufrance.fr/_nuxt/img/d26fd23-227.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
+            <b>Sispea</b></h3>
+            Diffuser la connaissance du petit cycle de l'eau, de la tarification de l'eau et plus généralement des performances des collectivités organisatrices.
+            <hr>
+            <a class="md-button md-button--primary" href="https://apic-vigicruesflash.fr/" target="_blank">Lien</a>
+        </div>
     </div>
 
 === "Etudes"
@@ -116,5 +123,5 @@ hide:
             Opendatasoft démocratise l’usage des données à l’échelle pour les utilisateurs grâce à des données publiques prêtes à l’emploi.
             <hr>
             <a class="md-button md-button--primary" href="https://public.opendatasoft.com/explore/" target="_blank">Lien</a>
-        </div> 
+        </div>
     </div>
