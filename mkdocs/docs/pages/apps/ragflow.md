@@ -1,5 +1,8 @@
-<iframe src="https://rag.konsilion.fr/chat/share?shared_id=d040654274a911f0871d1a0662232b35&from=chat&auth=RiNDRiYjI0NzRhYzExZjA5OGZhYWFkNm" frameborder="0"></iframe>
-
+<div class="parent-container">
+  <div class="iframe-container">
+    <iframe src="https://rag.konsilion.fr/chat/share?shared_id=d040654274a911f0871d1a0662232b35&from=chat&auth=RiNDRiYjI0NzRhYzExZjA5OGZhYWFkNm" frameborder="0"></iframe>
+  </div>  
+</div>
 
 
 
