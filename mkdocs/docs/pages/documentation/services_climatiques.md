@@ -124,4 +124,11 @@ hide:
             <hr>
             <a class="md-button md-button--primary" href="https://public.opendatasoft.com/explore/" target="_blank">Lien</a>
         </div>
+        <div class="ksln-cards" style="margin: 0px auto auto auto;">
+            <h3><img src="https://dataverse.org/files/dataverseorg/files/dataverse_r_project.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
+            <b>Dataverse Project</b></h3>
+            Dataverse est une plateforme open source facilitant partage, gestion et citation des données de recherche. Elle s'inscrit dans le principe FAIR et renforce la visibilité et collaboration scientifique.
+            <hr>
+            <a class="md-button md-button--primary" href="https://dataverse.org/" target="_blank">Lien</a>
+        </div>
     </div>
