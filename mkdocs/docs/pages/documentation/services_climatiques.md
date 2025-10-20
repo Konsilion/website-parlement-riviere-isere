@@ -28,7 +28,15 @@ hide:
 
 === "Visualisations"
 
+
     <div class="ksln-grid">
+        <div class="ksln-cards" style="margin: 0px auto auto auto;">
+            <h3><img src="https://pbs.twimg.com/card_img/1978495475717140480/qO_314S6?format=png&name=medium" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
+            <b>Dans mon Eau</b></h3>
+            Des PFAS et pesticides dans votre eau ? Accédez aux informations de votre eau du robinet.
+            <hr>
+            <a class="md-button md-button--primary" href="https://dansmoneau.fr/" target="_blank">Lien</a>
+        </div>
         <div class="ksln-cards" style="margin: 0px auto auto auto;">
             <h3><img src="https://naiades.eaufrance.fr/themes/custom/naiades/images/logo-naiades.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
             <b>Naïades</b></h3>
