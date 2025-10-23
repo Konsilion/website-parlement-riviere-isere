@@ -28,7 +28,6 @@ hide:
 
 === "Visualisations"
 
-
     <div class="ksln-grid">
         <div class="ksln-cards" style="margin: 0px auto auto auto;">
             <h3><img src="https://pbs.twimg.com/card_img/1978495475717140480/qO_314S6?format=png&name=medium" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
@@ -36,6 +35,7 @@ hide:
             Des PFAS et pesticides dans votre eau ? Accédez aux informations de votre eau du robinet.
             <hr>
             <a class="md-button md-button--primary" href="https://dansmoneau.fr/" target="_blank">Lien</a>
+            <a class="md-button md-button--secondary" href="https://seppi.over-blog.com/2025/10/carte-interactive-pour-l-eau-potable-beaucoup-de-bruit-et-une-derive.html" target="_blank">Avis critique</a>
         </div>
         <div class="ksln-cards" style="margin: 0px auto auto auto;">
             <h3><img src="https://naiades.eaufrance.fr/themes/custom/naiades/images/logo-naiades.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
