@@ -24,6 +24,6 @@ Conformément aux remarques soulevées lors de la première session du Parlement
 
 * Lien vers le dossier de travail (Drive) : [Cliquer ici](https://drive.google.com/drive/folders/1ftQkwXW_yrAfSbwhLJ6lXW3MVYIHM7_u?usp=sharing)
 
-**Référent**
+**Contact**
 
-* Nicolas Brémond - nicolas.bremond@konsilion.fr
+* parlement-isere@gresille.org
