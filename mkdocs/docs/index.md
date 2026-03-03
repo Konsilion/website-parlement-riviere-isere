@@ -30,7 +30,7 @@ Le **Parlement de la rivière Isère** entend donner une voix à la rivière :
 <br><br><br>
 
 ![](https://raw.githubusercontent.com/Konsilion/website-parlement-riviere-isere/refs/heads/master/mkdocs/media/PRI%20-%20deambulation_page.jpg){style="width: 48%; min-width: 550px; float: left; margin: 20px 0 20px 0px; "}
-![](https://raw.githubusercontent.com/Konsilion/website-parlement-riviere-isere/refs/heads/master/mkdocs/media/PRI%20-%203eme%20session.jpg){style="width: 48%; min-width: 550px; float: right; margin: 20px 0 20px 0px; "}
+![](https://raw.githubusercontent.com/Konsilion/website-parlement-riviere-isere/refs/heads/master/mkdocs/media/PRI%20-%203eme%20session%20-%20V2.jpg){style="width: 48%; min-width: 550px; float: right; margin: 20px 0 20px 0px; "}
 
 
 <style>
