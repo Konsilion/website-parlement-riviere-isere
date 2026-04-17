@@ -16,6 +16,7 @@ nav:
 
     - Documentation : 
         - Accueil: pages/documentation/index.md
+        - La documentation : pages/documentation.md
         - La gestion de l'eau : pages/documentation/gestion_eau.md
         - Services climatiques: pages/documentation/services_climatiques.md
 
