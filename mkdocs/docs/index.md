@@ -5,25 +5,38 @@ hide:
   - navigation
 ---
 
+# Parlement de la rivière Isère
 
-[Compte Rendu 1ère Session ➜](./pages/sessions/premiere_session/){ .md-button .md-button--secondary style="text-align: center; float: right; margin: 20px 0 50px 0px; border-radius: 50px !important"}
+<div class="hero-section">
+  <div class="hero-overlay"></div>
+  <div class="hero-content">
+    <h1 class="hero-title">Parlement de la rivière Isère</h1>
+    <p class="hero-subtitle">Écouter la rivière et ses affluents</p>
+    <div class="hero-scroll">
+      <span>Découvrir</span>
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2"><path d="M12 5v14M5 12l7 7 7-7"/></svg>
+    </div>
+  </div>
+</div>
 
-![logo-accueil](https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/banniere-parlement-isere.png?raw=true){style="width: 450px; max-width: 100%"}
+<div class="hero-spacer"></div>
 
 ---
 
-[En savoir plus ➜](./pages/le_parlement/){ .md-button .md-button--primary style="float: right; margin: 0 0 50px 55px;"}
+# À l'écoute de la rivière
 
-# A&nbsp;l’écoute de&nbsp;la&nbsp;rivière
-
-Le **Parlement de la rivière Isère** entend donner une voix à la rivière : 
+Le **Parlement de la rivière Isère** entend donner une voix à la rivière :
 
 - participation citoyenne,
 - droits de la nature,
 - démarche fluvio-sensible,
 - et appropriation des enjeux.
 
-[Nous contacter](./pages/contact/){ .md-button .md-button--secondary style="float: right; margin: 10px 0 10px 0;"}
+[En savoir plus ➜](pages/le_parlement/index.md){ .md-button .md-button--primary style="float: right; margin: 0 0 50px 55px;"}
+
+[Nous contacter](pages/contact.md){ .md-button .md-button--secondary style="float: right; margin: 10px 0 10px 0;"}
+
+[Compte Rendu 1ère Session ➜](pages/sessions/premiere_session.md){ .md-button .md-button--secondary style="text-align: center; float: right; margin: 20px 0 50px 0px; border-radius: 50px !important"}
 
 <hr>
 
@@ -32,26 +45,75 @@ Le **Parlement de la rivière Isère** entend donner une voix à la rivière :
 ![](https://raw.githubusercontent.com/Konsilion/website-parlement-riviere-isere/refs/heads/master/mkdocs/media/PRI%20-%20deambulation_page.jpg){style="width: 48%; min-width: 550px; float: left; margin: 20px 0 20px 0px; "}
 ![](https://raw.githubusercontent.com/Konsilion/website-parlement-riviere-isere/refs/heads/master/mkdocs/media/PRI%20-%203eme%20session%20-%20V2.jpg){style="width: 48%; min-width: 550px; float: right; margin: 20px 0 20px 0px; "}
 
-
 <style>
-    body { 
-       background-image: url('https://img.freepik.com/photos-gratuite/plan-vertical-vagues-eau-mousseuses-dans-mer_181624-6899.jpg?w=826&t=st=1713434584~exp=1713435184~hmac=1bfad19e0257b8189236e34b1b5e9f6c536d7c398aeb013aba4f43774e8a2166'), linear-gradient(to bottom, rgba(255,255,255,0), rgba(255,255,255,1));
-       background-repeat: no-repeat;
-       background-size: cover;
-       background-attachment: fixed;
+    .hero-section {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100vh;
+        background-image: url('https://raw.githubusercontent.com/Konsilion/website-parlement-riviere-isere/refs/heads/master/mkdocs/media/PRI%20-%20deambulation_page.jpg');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        z-index: 999;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
-    
-    .md-container {
-        background: rgb(255,255,255,0);
-        background: linear-gradient(180deg, rgba(255,255,255,1) 40%, rgba(255,255,255,0.85) 55%, rgba(255,255,255,0.6) 65%, rgba(255,255,255,0) 90%);
+    .hero-overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(to bottom, rgba(11,67,135,0.4) 0%, rgba(11,67,135,0.3) 60%, rgba(255,255,255,0.9) 100%);
     }
-    
-    .md-content{
-        margin: 0px auto;
-        max-width: 1250px;
-        padding: 0px;
-    }    
- 
-    .md-content__button{display:none}
-
+    .hero-content {
+        position: relative;
+        z-index: 1;
+        text-align: center;
+        color: white;
+        padding: 0 20px;
+    }
+    .hero-title {
+        font-size: 3.5em !important;
+        color: white !important;
+        text-shadow: 0 2px 20px rgba(0,0,0,0.5);
+        margin: 0 !important;
+        font-weight: 700 !important;
+    }
+    .hero-subtitle {
+        font-size: 1.4em;
+        text-shadow: 0 2px 10px rgba(0,0,0,0.5);
+        margin: 20px 0 0 0 !important;
+        color: white !important;
+    }
+    .hero-scroll {
+        position: absolute;
+        bottom: 40px;
+        left: 50%;
+        transform: translateX(-50%);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        color: white;
+        animation: bounce 2s infinite;
+    }
+    .hero-scroll span {
+        font-size: 0.9em;
+        margin-bottom: 5px;
+        text-shadow: 0 1px 5px rgba(0,0,0,0.5);
+    }
+    @keyframes bounce {
+        0%, 100% { transform: translateX(-50%) translateY(0); }
+        50% { transform: translateX(-50%) translateY(10px); }
+    }
+    .hero-spacer {
+        height: 100vh;
+    }
+    @media (max-width: 768px) {
+        .hero-title { font-size: 2em !important; }
+        .hero-subtitle { font-size: 1em; }
+    }
 </style>

@@ -1,7 +1,17 @@
+site_name: Parlement de la rivière Isère
+site_author: Nicolas Brémond
+site_description: Ecouter la rivière et ses affluents.
+site_url: https://parlement-isere.org
+repo_url: https://github.com/konsilion/website-parlement-riviere-isere
+repo_name: konsilion/website-parlement-riviere-isere
+edit_uri: edit/master/mkdocs/docs/
+
 nav:
     - Accueil: index.md
 
-    - Le Parlement : pages/le_parlement/index.md
+    - Le Parlement: pages/le_parlement/index.md
+
+    - La Démarche: pages/la_demarche/index.md
 
     - Les Commissions : 
         - Accueil: pages/commissions/index.md
@@ -9,29 +19,38 @@ nav:
         - Juridique : pages/commissions/juridique/contact.md
         - Artistique :
             - pages/commissions/artistique/index.md
-            - Galerie d'image : pages/commissions/artistique/images.md
+            - Galerie d'images : pages/commissions/artistique/images.md
         - Scientifique : 
             - pages/commissions/scientifique/index.md
             - Prises de notes : pages/commissions/scientifique/prise_note.md
 
-    - Documentation :
-        - Accueil: pages/documentation/index.md
-        - La documentation : pages/documentation.md
-        - La gestion de l'eau : pages/documentation/gestion_eau.md
-        - Services climatiques: pages/documentation/services_climatiques.md
+    - Les Sessions :
+        - pages/sessions/index.md
+        - Première session : pages/sessions/premiere_session.md
+        - Deuxième session : pages/sessions/deuxieme_session.md
+        - Troisième session : pages/sessions/troisieme_session.md
+
+    - Gardien·nes : pages/gardiennes/index.md
+
+    - Actualités : pages/actualites/index.md
+
+    - Ressources :
+        - Accueil: pages/ressources/index.md
+        - Presse : pages/ressources/presse.md
+        - Sur les bords de l'Isère : pages/ressources/bords_isere.md
+        - Usages et gestion des eaux : pages/ressources/usages_gestion_eau.md
 
     - Contact : pages/contact.md
 
-site_name: Parlement de la rivière Isère
-site_author: Nicolas Brémond
-site_description: Ecouter la rivière et ses affluents.
-site_url: https://konsilion.github.io/website-parlement-riviere-isere
-repo_url: https://github.com/konsilion/website-parlement-riviere-isere
-repo_name: konsilion/website-parlement-riviere-isere
-edit_uri: edit/master/mkdocs/docs/
-
 extra:
     generator: false
+    social:
+      - icon: fontawesome/brands/facebook
+        link: https://www.facebook.com/people/Parlement-de-lIs%C3%A8re/61557683175720/
+      - icon: fontawesome/brands/instagram
+        link: https://www.instagram.com/parlement_isere/
+      - icon: fontawesome/brands/linkedin
+        link: https://www.linkedin.com/company/parlement-de-la-rivi%C3%A8re-is%C3%A8re
 
 theme:
     name: material
@@ -61,6 +80,7 @@ markdown_extensions:
   - admonition
   - footnotes
   - attr_list
+  - md_in_html
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.tabbed:
@@ -72,11 +92,13 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.mark
   - pymdownx.tilde
-
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 
 
 extra_css:
   - personnel.css
 
-copyright: Un site web développé avec ❤ par Nicolas Brémond pour le Collectif du Parlement de la rivière Isère. Made with <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank">Material for MkDocs Insiders</a>
+copyright: Un site web développé avec ❤ par Nicolas Brémond pour le Collectif du Parlement de la rivière Isère. Made with <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank">Material for MkDocs</a>
