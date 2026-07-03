@@ -23,9 +23,9 @@
 .md-tabs__item--active {background-color: var(--md-primary-fg-color) !important;}
 
 .md-button {
-    font-size: 16px;
-    padding: 5px 2em !important;
-    border-radius: 25px !important;
+	font-size: 16px;
+	padding: 5px 2em !important;
+	border-radius: 25px !important;
 }
 
 .md-button--secondary {background-color: white;}
@@ -39,11 +39,15 @@ h1 {
     font-size: 2.4em !important;
 }
 
+
 h2 {
     color: var(--md-primary-fg-color) !important;
     font-family: 'Roboto'; 
     font-weight: 550 !important;
     font-size: 1.9em !important;
+    /* margin: 25px 0 10px !important; */
+    /* border-bottom: 10px solid #EEE !important; */
+    /* padding-bottom: 10px; */
 }
 
 h3 {
@@ -55,6 +59,7 @@ h3 {
 }
 
 article p, article li {
+    /* text-align: justify; */
     font-family: 'Roboto'; 
     font-size: 19px !important;
     line-height: 35px !important;
@@ -70,11 +75,26 @@ article p, article li {
   }
 }
 
+
+
+
 @media only screen and (min-width: 1220px) {
-    .md-sidebar.md-sidebar--primary > * {
-        border-right: 1px solid #CCC;
-    }    
+	.md-sidebar.md-sidebar--primary > * {
+		border-right: 1px solid #CCC;
+	}    
 }
+
+
+
+
+
+
+
+
+/*.md-sidebar.md-sidebar--secondary {
+    padding: 1.2rem 0 1.2rem 30px !important;
+    width: 14rem !important;
+} */   
 
 .md-sidebar--secondary .md-sidebar__inner{
     padding: 0 !important;
@@ -88,7 +108,7 @@ article p, article li {
 
 .md-nav__item {
     font-size: 17px;
-    font-weight: normal;    
+    font-weight: normal;	
 }
 
 .md-nav__link.md-nav__link--active {
@@ -97,122 +117,24 @@ article p, article li {
     color: #1d9bff !important;
 }
 
+
 .md-sidebar--secondary .md-nav__list {
     border-left: 1px solid #CCC;
 }
 
-/*============ HERO PAGE ACCUEIL ================*/
 
-.hero-section {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100vh;
-    background-image: url('https://raw.githubusercontent.com/Konsilion/website-parlement-riviere-isere/refs/heads/master/mkdocs/media/PRI%20-%20deambulation_page.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    z-index: 999;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
 
-.hero-overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(to bottom, rgba(11,67,135,0.4) 0%, rgba(11,67,135,0.3) 60%, rgba(255,255,255,0.9) 100%);
-}
 
-.hero-content {
-    position: relative;
-    z-index: 1;
-    text-align: center;
-    color: white;
-    padding: 0 20px;
-}
 
-.hero-title {
-    font-size: 3.5em !important;
-    color: white !important;
-    text-shadow: 0 2px 20px rgba(0,0,0,0.5);
-    margin: 0 !important;
-    font-weight: 700 !important;
-}
+/*.md-content p,
+.md-content li {
+     text-align: justify; 
+}*/
 
-.hero-subtitle {
-    font-size: 1.4em;
-    text-shadow: 0 2px 10px rgba(0,0,0,0.5);
-    margin: 20px 0 0 0 !important;
-    color: white !important;
-}
 
-.hero-scroll {
-    position: absolute;
-    bottom: 40px;
-    left: 50%;
-    transform: translateX(-50%);
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    color: white;
-    animation: bounce 2s infinite;
-}
 
-.hero-scroll span {
-    font-size: 0.9em;
-    margin-bottom: 5px;
-    text-shadow: 0 1px 5px rgba(0,0,0,0.5);
-}
 
-@keyframes bounce {
-    0%, 100% { transform: translateX(-50%) translateY(0); }
-    50% { transform: translateX(-50%) translateY(10px); }
-}
 
-.hero-spacer {
-    height: 100vh;
-}
-
-@media (max-width: 768px) {
-    .hero-title { font-size: 2em !important; }
-    .hero-subtitle { font-size: 1em; }
-}
-
-/*============ BANDEAU MEMBRES ================*/
-
-.bandeau-membres {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    gap: 30px;
-    padding: 30px 0;
-    border-top: 1px solid #eee;
-    margin-top: 50px;
-}
-
-.bandeau-membres img {
-    max-height: 60px;
-    width: auto;
-    opacity: 0.7;
-    transition: opacity 0.3s;
-}
-
-.bandeau-membres img:hover {
-    opacity: 1;
-}
-
-/*============ FOOTER RÉSEAUX SOCIAUX ================*/
-
-.reseaux-sociaux {
-    overflow: hidden;
-    margin: 20px 0;
-}
 
 /*============ KONSILION ELEMENTS ================*/
 
@@ -243,41 +165,67 @@ article p, article li {
 .ksln-grid {
   justify-content: left;
   display: grid;
-  margin: 50px 0px;    
+  margin: 50px 0px;	
   gap: 25px;
   grid-template-columns: 100%;
   max-width: 98%;  
 }
 
 @media only screen and (min-width: 769px) and (max-width: 1399px) {
-    .ksln-grid {
-      grid-template-columns: 50% 50%;
-    }
+	.ksln-grid {
+	  grid-template-columns: 50% 50%;
+	}
 }
 
 @media only screen and (min-width: 1400px) {
-    .ksln-grid {
-      grid-template-columns: 33.33337% 33.33337% 33.33337%;
-    }
+	.ksln-grid {
+	  grid-template-columns: 33.33337% 33.33337% 33.33337%;
+	}
 }
 
 .ksln-grid-4c {
   justify-content: left;
   display: grid;
-  margin: 50px 0px;    
+  margin: 50px 0px;	
   gap: 25px;
   grid-template-columns: 100%;
   max-width: 98%;  
 }
 
+
 @media only screen and (min-width: 769px) and (max-width: 1399px) {
-    .ksln-grid-4c {
-      grid-template-columns: 33.33337% 33.33337% 33.33337%;
-    }
+	.ksln-grid-4c {
+	  grid-template-columns: 33.33337% 33.33337% 33.33337%;
+	}
 }
 
+
 @media only screen and (min-width: 1400px) {
-    .ksln-grid-4c {
-      grid-template-columns: 24% 24% 24% 24%;
-    }
+	.ksln-grid-4c {
+	  grid-template-columns: 24% 24% 24% 24%;
+	}
+}
+
+/*============ BANDEAU MEMBRES ================*/
+
+.bandeau-membres {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    padding: 30px 0;
+    border-top: 1px solid #eee;
+    margin-top: 50px;
+}
+
+.bandeau-membres img {
+    max-height: 60px;
+    width: auto;
+    opacity: 0.7;
+    transition: opacity 0.3s;
+}
+
+.bandeau-membres img:hover {
+    opacity: 1;
 }
