@@ -15,7 +15,7 @@ nav:
             - Prises de notes : pages/commissions/scientifique/prise_note.md
 
     - Documentation :
-        - pages/documentation.md
+        - pages/documentation/index.md
         - Logiciels d'informations : pages/documentation/services_climatiques.md
 
     - Contact : pages/contact.md
