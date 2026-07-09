@@ -14,13 +14,6 @@ Il ne s’agit pas d’abandonner la démocratie représentative, mais de l’en
 
 Nous proposons deé, en la rend resocialiser la libertant collective, et d’élargir l’espace démocratique. Dans un contexte de décroissance, cela permettrait de repenser des institutions plus inclusives aux enjeux écologiques et sociaux.
 
-Les **4 dimensions du Parlement** :
-
-* Une dimension **politique et citoyenne** : Créer un espace public de discussion sur l’eau ouvert à tous·tes pour élargir la participation citoyenne et porter la parole citoyenne auprès des institutions.
-* Une dimension **scientifique** : Constituer un observatoire de l’eau qui rassemblerait et vulgariserait de manière neutre et indépendante les données disponibles sur l’eau.
-* Une dimension **juridique** : Engager une réflexion sur les droits de la nature et considérer la rivière comme une entité ayant une valeur intrinsèque et pouvant prétendre à la personnalité juridique et morale.
-* Une dimension **culturelle et artistique** : Révéler et développer l’attachement à la rivière et à l’eau et créer de nouveaux imaginaires autour du « fluvio-sensible » par différentes formes (récits, peinture, podcast, balades, spectacles, etc.).
-
 ??? info "Déclaration des droits de la rivière Isère"
 
     
@@ -63,6 +56,13 @@ Les **4 dimensions du Parlement** :
     
     Les voix des gardiens et gardiennes sont débattues et arbitrées au sein du Parlement de la rivière Isère qui portera le résultat de ces débats auprès des acteurs institutionnels de l'eau.
 
+
+Les **4 dimensions du Parlement** :
+
+* Une dimension **politique et citoyenne** : Créer un espace public de discussion sur l’eau ouvert à tous·tes pour élargir la participation citoyenne et porter la parole citoyenne auprès des institutions.
+* Une dimension **scientifique** : Constituer un observatoire de l’eau qui rassemblerait et vulgariserait de manière neutre et indépendante les données disponibles sur l’eau.
+* Une dimension **juridique** : Engager une réflexion sur les droits de la nature et considérer la rivière comme une entité ayant une valeur intrinsèque et pouvant prétendre à la personnalité juridique et morale.
+* Une dimension **culturelle et artistique** : Révéler et développer l’attachement à la rivière et à l’eau et créer de nouveaux imaginaires autour du « fluvio-sensible » par différentes formes (récits, peinture, podcast, balades, spectacles, etc.).
 
 ## Gardiennes & Gardiens de la rivière
 
