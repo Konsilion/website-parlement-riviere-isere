@@ -9,16 +9,12 @@ nav:
         - Accueil: pages/commissions/index.md
         - Démocratique : pages/commissions/democratie/contact.md
         - Juridique : pages/commissions/juridique/contact.md
-        - Artistique :
-            - pages/commissions/artistique/index.md
-            - Galerie d'image : pages/commissions/artistique/images.md
-        - Scientifique : 
-            - pages/commissions/scientifique/index.md
-            - Prises de notes : pages/commissions/scientifique/prise_note.md
+        - Artistique : pages/commissions/artistique/index.md
+        - Scientifique : pages/commissions/scientifique/index.md
 
     - Documentation :
         - pages/documentation/index.md
-        - Logiciels d'informations : pages/documentation/services_climatiques.md
+        - Sources d'informations : pages/documentation/services_climatiques.md
 
     - Contact : pages/contact.md
 
