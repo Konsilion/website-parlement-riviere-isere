@@ -15,10 +15,8 @@ nav:
             - Prises de notes : pages/commissions/scientifique/prise_note.md
 
     - Documentation :
-        - Accueil: pages/documentation/index.md
-        - La documentation : pages/documentation.md
-        - La gestion de l'eau : pages/documentation/gestion_eau.md
-        - Services climatiques: pages/documentation/services_climatiques.md
+        - pages/documentation.md
+        - Logiciels d'informations : pages/documentation/services_climatiques.md
 
     - Contact : pages/contact.md
 
