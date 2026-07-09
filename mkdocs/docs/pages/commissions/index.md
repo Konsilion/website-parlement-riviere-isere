@@ -25,32 +25,9 @@ Les gardiennes & gardiens de la rivière s'organisent autour de **quatre commiss
 
 ## Devenir membre du Parlement
 
-<div class="parent-container">
-  <div class="iframe-container">
-    <iframe src="https://framaforms.org/gardienne-du-parlement-de-la-riviere-isere-1746732524" frameborder="0"></iframe>
-  </div>  
-</div>
-
-
+[Devenir Gardien·ne de la rivière](mailto:parlement-isere@gresille.org){ .md-button .md-button--primary }
 
 [^1]: Les personnes morales privées pourront être entendues par l'Assemblée des Gardiens et des Gardiennes. Les personnes morales publiques seront informées des délibérations de l'Assemblée des Gardiens et des Gardiennes. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <style>  
