@@ -29,16 +29,16 @@ Les usages de l'eau sont au cœur des tensions identifiées dès 2023 : eau pota
 
 La session s'organise autour de plusieurs interventions complémentaires :
 
-| # | Intervention | Intervenant·e |
-|---|---|---|
-| 1 | **Accueil et présentation du Parlement** | Philippe Dubois (FNE Isère) |
-| 2 | **« Une chaise pour la rivière »** | Delphine Astier |
-| 3 | **Les usages de l'eau** | Étudiants de la Faculté d'Économie de Grenoble, animé par Régis Moreira |
-| 4 | **Restitution de l'enquête « Les usages à proximité de l'Isère »** | Grenoble Alpes Métropole, animé par Philippe Dubois |
-| 5 | **Intervention du collectif « Les gens qui ont chaud »** | Julien Nemery |
-| 6 | **« Retrouver les voies(x) de l'eau »** (programme POPSU) | Antoine Brochet, animé par Pierre-Louis Serero (Civipole) |
-| 7 | **Restitution de travaux ENSAG** | Radia Benzidan |
-| 8 | **« La chaîne du vivant »** | Delphine Astier |
+| Intervention | Intervenant·e |
+|---|---|
+| **Accueil et présentation du Parlement** | Philippe Dubois (FNE Isère) |
+| **« Une chaise pour la rivière »** | Delphine Astier |
+| **Les usages de l'eau** | Étudiants de la Faculté d'Économie de Grenoble, animé par Régis Moreira |
+| **Restitution de l'enquête « Les usages à proximité de l'Isère »** | Grenoble Alpes Métropole, animé par Philippe Dubois |
+| **Intervention du collectif « Les gens qui ont chaud »** | Julien Nemery |
+| **« Retrouver les voies(x) de l'eau »** (programme POPSU) | Antoine Brochet, animé par Pierre-Louis Serero (Civipole) |
+| **Restitution de travaux ENSAG** | Radia Benzidan |
+| **« La chaîne du vivant »** | Delphine Astier |
 
 !!! info "Trois regards croisés sur les usages"
     La session articule volontairement **sciences sociales** (Faculté d'Économie), **aménagement urbain** (POPSU, ENSAG, GAM) et **mobilisation citoyenne** (collectif « Les gens qui ont chaud »), pour croiser les regards sur les usages et préparer les arbitrages à venir.
