@@ -11,11 +11,6 @@ Le Parlement de la rivière Isère se réunit régulièrement en sessions publiq
 !!! info "Une session par an, autour de la Journée Mondiale de l'Eau"
     Les sessions se tiennent à intervalle régulier, généralement autour du **22 mars** (Journée Mondiale de l'Eau) pour les sessions de printemps. Elles sont **gratuites et ouvertes à toutes et tous**.
 
-!!! abstract "Trois sessions, trois pas"
-    - **Session 1 (2024)** — **Poser les bases** : identité du collectif, méthode, reconnaissance symbolique de la rivière
-    - **Session 2 (2025)** — **Symboliser et structurer** : Déclaration des droits, naissance des Gardiens
-    - **Session 3 (2026)** — **Entrer dans le concret** : débat sur les usages, croisement des expertises
-
 ## Troisième session
 
 **Date** : samedi 28 mars 2026, de 14h à 18h
