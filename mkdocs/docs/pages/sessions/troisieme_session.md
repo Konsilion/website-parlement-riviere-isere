@@ -30,6 +30,8 @@ La session s'organise autour de plusieurs interventions complémentaires :
 !!! info "Trois regards croisés sur les usages"
     La session articule volontairement **sciences sociales** (Faculté d'Économie), **aménagement urbain** (POPSU, ENSAG, GAM) et **mobilisation citoyenne** (collectif « Les gens qui ont chaud »), pour croiser les regards sur les usages et préparer les arbitrages à venir.
 
+une petite vidéo pour montrer l'approche sensible et poétique de la rivière et notre déambulation.
+
 ### Revue de presse
 
 - [FNE Auvergne-Rhône-Alpes — Annonce de l'événement](https://www.fne-aura.org/evenement/3eme-session-du-parlement-de-la-riviere-isere/)
