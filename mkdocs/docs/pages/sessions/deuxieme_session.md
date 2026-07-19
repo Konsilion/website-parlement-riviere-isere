@@ -5,11 +5,11 @@ hide:
 ---
 
 
-
-**Date** : samedi 22 mars 2025, de 14h à 18h
-**Lieu** : La Correspondance, 30 bis avenue Marcelin-Berthelot, Grenoble
-**Contexte** : Journée Mondiale de l'Eau
-**Format** : session publique, gratuite, ouverte à toutes et tous, sans inscription
+|Agenda|--- |
+|**Date** : |samedi 22 mars 2025, de 14h à 18h|
+|**Lieu** : |La Correspondance, 30 bis avenue Marcelin-Berthelot, Grenoble|
+|**Contexte** : |Journée Mondiale de l'Eau|
+|**Format** : |session publique, gratuite, ouverte à toutes et tous, sans inscription|
 
 ### Contexte
 
