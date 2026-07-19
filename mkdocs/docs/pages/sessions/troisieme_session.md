@@ -1,10 +1,11 @@
 ## Troisième session
-
-**Date** : samedi 28 mars 2026, de 14h à 18h
-**Lieu** : Salle de danse de La Correspondance, 30 bis avenue Marcelin-Berthelot, Grenoble (Tram A, arrêt MC2)
-**Contexte** : Journée Mondiale de l'Eau
-**Thème** : *Les Usages de l'eau*
-**Format** : session publique, gratuite, ouverte à toutes et tous
+| Agenda |  |
+|---|---|
+| **Date** : | samedi 28 mars 2026, de 14h à 18h |
+| **Lieu** : |Salle de danse de La Correspondance, 30 bis avenue Marcelin-Berthelot, Grenoble (Tram A, arrêt MC2) |
+| **Contexte** :| Journée Mondiale de l'Eau |
+| **Thème** :| *Les Usages de l'eau* |
+| **Format** :| session publique, gratuite, ouverte à toutes et tous |
 
 ### Contexte
 
