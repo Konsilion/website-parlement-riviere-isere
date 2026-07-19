@@ -31,7 +31,7 @@ La session s'organise autour de plusieurs interventions complémentaires :
     La session articule volontairement **sciences sociales** (Faculté d'Économie), **aménagement urbain** (POPSU, ENSAG, GAM) et **mobilisation citoyenne** (collectif « Les gens qui ont chaud »), pour croiser les regards sur les usages et préparer les arbitrages à venir.
 
 Une petite vidéo pour montrer l'approche sensible et poétique de la rivière et notre déambulation.
-[Mar 2026 - Déambulation au bord de l'Isère](https://drive.google.com/file/d/1NKdvpL8c-LP2pSOZtZN7PFiHN9-IWUPc/view?usp=drive_link)
+[Mars 2026 - Déambulation au bord de l'Isère](https://drive.google.com/file/d/1NKdvpL8c-LP2pSOZtZN7PFiHN9-IWUPc/view?usp=drive_link).
 
 ### Revue de presse
 
