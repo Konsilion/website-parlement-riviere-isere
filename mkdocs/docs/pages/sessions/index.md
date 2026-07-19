@@ -13,14 +13,6 @@ Le Parlement de la rivière Isère se réunit régulièrement en sessions publiq
     
 ## [Troisème session](troisieme_session.md).
 
-**Date** : samedi 28 mars 2026, de 14h à 18h
-**Lieu** : Salle de danse de La Correspondance, 30 bis avenue Marcelin-Berthelot, Grenoble (Tram A, arrêt MC2)
-**Contexte** : Journée Mondiale de l'Eau
-**Thème** : *Les Usages de l'eau*
-**Format** : session publique, gratuite, ouverte à toutes et tous
-
-### Contexte
-
 Un an après la Déclaration des droits de la rivière et la création des Gardiennes et Gardiens, la troisième session fait un pas de côté : après avoir posé les **fondations** (session 1) et les **actes symboliques** (session 2), le collectif se tourne vers le **concret** — les usages quotidiens de l'eau sur le territoire.
 
 ---
