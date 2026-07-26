@@ -5,7 +5,6 @@ hide:
 ---
 
 # Le Parlement de la rivière Isère
-
 En réponse aux inquiétudes des citoyen·ne·s concernant l’eau, sa raréfaction, ses pollutions et son accaparement, est né le projet du Parlement de la rivière Isère. 
 
 L’objectif est de **protéger la rivière** et le **bien commun** qu'est l'eau par la reconnaissance de **droits à la nature** et la **réappropriation démocratique des enjeux de l’eau**. 
