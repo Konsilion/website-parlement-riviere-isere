@@ -1,4 +1,8 @@
 # Fil d'actualité
+## Grenoble 2040, chemins futurs - jeudi 23 juillet 2026
+Un nouveau podcast :
+[Et si, Grenoble se réconciliait (enfin) avec l'eau ?](https://podcast.ausha.co/ville-de-grenoble/et-si-grenoble-se-reconciliait-enfin-avec-l-eau)
+
 ## Sur France culture - mercredi 22 juillet 2026
 
 Question du soir : 
