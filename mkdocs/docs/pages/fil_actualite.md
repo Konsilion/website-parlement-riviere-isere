@@ -18,6 +18,8 @@ La loi dite d'urgence agricole vient d'être adoptée par la parlement : [l'eau 
 Page 3 : 
 ![TOUT CONNAITRE SUR LA RESSOURCE EN EAU DU TERRITOIRE](../../media/GGLG - G-l-info_36_EN BREF_Observatoire_2026-06.png?raw=true)
 
+![TOUT CONNAITRE SUR LA RESSOURCE EN EAU DU TERRITOIRE](https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/GGLG_G-l-info_36_EN BREF_Observatoire_2026-06.png?raw=true)
+
 Le Grésivaudan a mis en ligne son observatoire de l'eau.
 
 [Une première étape présente les données du petit cycle de l'eau sous forme de jeux de données et de visualisations réalisées 
