@@ -15,7 +15,8 @@ La loi dite d'urgence agricole vient d'être adoptée par la parlement : [l'eau 
 
 ## Le Grésivaudan - [G L'info N° 36 - juin 2026](https://www.le-gresivaudan.fr/123-g-l-info.htm?TELECHARGER=36)
 
-Page 3 : TOUT CONNAITRE SUR LA RESSOURCE EN EAU DU TERRITOIRE
+Page 3 : 
+![TOUT CONNAITRE SUR LA RESSOURCE EN EAU DU TERRITOIRE](../media/GGLG - G-l-info_36_EN BREF_Observatoire_2026-06.png?raw=true)
 
 Le Grésivaudan a mis en ligne son observatoire de l'eau.
 
