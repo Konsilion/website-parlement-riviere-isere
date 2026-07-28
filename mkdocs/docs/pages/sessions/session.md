@@ -25,7 +25,7 @@ Cette deuxième session a pour vocation de **présenter l'avancement des travaux
 ### [Déroulé](deuxieme_session.md)
 ---
 
-## Première session
+## Première session - Septembre 2024
 
 **Date** : 28 septembre 2024
 **Lieu** : Salle polyvalente de la Maison des Habitants du Centre-Ville de Grenoble (2 rue du Vieux Temple)
@@ -38,9 +38,7 @@ L'objectif du Parlement est double :
 
 - à court terme, organiser une **réappropriation démocratique** des enjeux de l'eau ;
 - à plus long terme, obtenir la **reconnaissance de la personnalité juridique de la rivière Isère**, sur le modèle du Parlement de Loire, de l'Appel du Rhône, ou encore du fleuve Whanganui en Nouvelle-Zélande.
-
-### Déroulé
-
+## [Déroulé](premiere_session.md])
 Une **soixantaine de personnes** se sont réunies pour ce premier moment fort. La session s'est structurée autour de **quatre axes de travail** qui deviendront les quatre commissions permanentes du Parlement :
 
 - **Axe politique** (gouvernance et participation citoyenne)
