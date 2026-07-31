@@ -1,3 +1,8 @@
+---
+title: Les autres Parlements de fleuves et de rivières
+hide:
+    - navigation
+---
 Recensement des collectifs (Parlements,… ) des fleuves et des rivières en France et en Europe.
 
 Tous n'utilisent pas le terme de collectif pour s'indentifier.
@@ -19,6 +24,13 @@ Tous n'utilisent pas le terme de collectif pour s'indentifier.
 [https://mediascitoyens-diois.info/2026/01/die-la-riviere-drome-donner-une-voix-au-vivant-et-6-rendez-vous-autour-de-leau/](https://mediascitoyens-diois.info/2026/01/die-la-riviere-drome-donner-une-voix-au-vivant-et-6-rendez-vous-autour-de-leau/)
 
 # **Collectifs en France**
+## Parlement de Creuse
+Le Monde https://www.lemonde.fr/planete/article/2026/07/29/il-n-y-a-rien-qui-pousse-c-est-devenu-un-desert-la-creuse-confrontee-a-une-secheresse-exceptionnelle_6736399_3244.html mentionne le parlement de Creuse.
+
+Sa création est relatée par ...
+
+Et son manifeste est présenté sous la forme d'une petition sur change.org :
+https://www.change.org/p/signez-le-manifeste-du-parlement-de-la-rivi%C3%A8re-creuse
 
 ## Parlement de Loire
 
