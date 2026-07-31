@@ -1,64 +1,7 @@
-Liste des collectifs (Parlements,… ) des fleuves et des rivières en France et en Europe
+Recensement des collectifs (Parlements,… ) des fleuves et des rivières en France et en Europe.
 
-Table des matières
+Tous n'utilisent pas le terme de collectif pour s'indentifier.
 
-[Collectifs en Région Auvergne- Rhône Alpes	2](#__RefHeading___Toc472_484797794)
-
-[SOS Durance Vivante	2](#__RefHeading___Toc163_2955268800)
-
-[Appel du Rhône	2](#__RefHeading___Toc165_2955268800)
-
-[Utopiana (Genève) (contact : Anne Barseghian)	2](#__RefHeading___Toc167_2955268800)
-
-[Rivière Drôme	2](#__RefHeading___Toc169_2955268800)
-
-[Collectifs en France	2](#__RefHeading___Toc480_484797794)
-
-[Parlement de Loire	2](#__RefHeading___Toc1442_21463687)
-
-[Assemblée des Gardiens de la Seine	2](#__RefHeading___Toc1444_21463687)
-
-[Tavignanu Vivu (Corse)	2](#__RefHeading___Toc1446_21463687)
-
-[Parlement de l’Isle (Dordogne-Gironde)	2](#__RefHeading___Toc1448_21463687)
-
-[Nous sommes Orne (Normandie)	2](#__RefHeading___Toc1450_21463687)
-
-[Risle (Normandie)	3](#__RefHeading___Toc1452_21463687)
-
-[Parlement de Rhin	3](#__RefHeading___Toc1454_21463687)
-
-[Gardiens de la Garonne	3](#__RefHeading___Toc1456_21463687)
-
-[Parlement de l’Aar	3](#__RefHeading___Toc1458_21463687)
-
-[Appel de la Vienne	3](#__RefHeading___Toc1460_21463687)
-
-[Réseaux européens	3](#__RefHeading___Toc482_484797794)
-
-[Odra/Oder	3](#__RefHeading___Toc1462_21463687)
-
-[Sambre ( Belgique)	3](#__RefHeading___Toc1464_21463687)
-
-[Spree (Berlin, Allemagne)	4](#__RefHeading___Toc1466_21463687)
-
-[Parlement des eaux du Turai Jucar/Sot/Poyo (Valence, Espagne)	4](#__RefHeading___Toc1468_21463687)
-
-[Conseil Diplomatique des bassins versants (Genève)	4](#__RefHeading___Toc1470_21463687)
-
-[Autres ressources	4](#__RefHeading___Toc171_2955268800)
-
-[Vers une Internationale des rivières (Camille de Toledo, Parlement de Loire)	4](#__RefHeading___Toc173_2955268800)
-
-[Réseau Hydromondes	4](#__RefHeading___Toc175_2955268800)
-
-[Assemblée des Parlements des Fleuves et des Rivières (HEAR, Strasbourg)	4](#__RefHeading___Toc474_484797794)
-
-[1 ère édition : 2025	4](#__RefHeading___Toc476_484797794)
-
-[2 ème édition : 2026	4](#__RefHeading___Toc478_484797794)
-
-[Agence Bipolar (Montpellier)	4](#__RefHeading___Toc1472_21463687)
 
 
 # **Collectifs en Région Auvergne- Rhône Alpes**
