@@ -25,9 +25,8 @@ Tous n'utilisent pas le terme de collectif pour s'indentifier.
 
 # **Collectifs en France**
 ## Parlement de Creuse
-Le Monde https://www.lemonde.fr/planete/article/2026/07/29/il-n-y-a-rien-qui-pousse-c-est-devenu-un-desert-la-creuse-confrontee-a-une-secheresse-exceptionnelle_6736399_3244.html mentionne le parlement de Creuse.
 
-Sa création est relatée par ...
+[Sa création est relatée par wildlegal](https://www.wildlegal.eu/post/creuse-le-tout-premier-manifeste-des-droits-de-la-rivi%C3%A8re-creuse-sign%C3%A9-au-festival-chapitre-nature)
 
 Et son manifeste est présenté sous la forme d'une petition sur change.org :
 https://www.change.org/p/signez-le-manifeste-du-parlement-de-la-rivi%C3%A8re-creuse
