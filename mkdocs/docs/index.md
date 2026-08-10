@@ -5,12 +5,9 @@ hide:
   - navigation
 ---
 
-
 [Voir les sessions ➜](./pages/sessions/){ .md-button .md-button--secondary style="display: block; width: 250px; text-align: center; margin: 10px auto; border-radius: 50px !important" }
 
 ![logo-accueil](https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/banniere-parlement-isere.png?raw=true){style="width: 450px; max-width: 100%"}
-
-[Voir les sessions ➜](./pages/sessions/){ .md-button .md-button--secondary style="text-align: center; float: right; margin: 20px 0 50px 0px; border-radius: 50px !important"}
 
 [Au fil de l'eau ➜](./pages/fil_actualite/){ .md-button .md-button--primary style="float:                    right; margin: 0 0 50px 45px;"}
 
