@@ -9,9 +9,9 @@ hide:
 
 [Voir les sessions ➜](./pages/sessions/){ .md-button .md-button--secondary style="text-align: center; float: right; margin: 20px 0 50px 0px; border-radius: 50px !important"}
 
-[Au fil de l'eau ➜](./pages/fil_actualite/){ .md-button .md-button--primary style="float:                    right; margin: 0 0 50px 45px;"}
+[Au fil de l'eau ➜](./pages/fil_actualite/){ .md-button .md-button--primary style="float:                    right; margin: 20 0 10px 45px;"}
 
-[En savoir plus ➜](./pages/le_parlement/){ .md-button .md-button--primary   style="float:                    right; margin: 0 0 50px 55px;"}
+[En savoir plus ➜](./pages/le_parlement/){ .md-button .md-button--primary   style="float:                    right; margin: 20 0 10px 55px;"}
 
 # A&nbsp;l’écoute de&nbsp;la&nbsp;rivière
 
