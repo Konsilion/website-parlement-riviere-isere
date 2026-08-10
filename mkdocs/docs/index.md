@@ -7,11 +7,11 @@ hide:
 
 ![logo-accueil](https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/banniere-parlement-isere.png?raw=true){style="width: 450px; max-width: 100%"}
 
-[Voir les sessions ➜](./pages/sessions/){ .md-button .md-button--secondary style="display: block; text-align: center; margin: 10px 0; border-radius: 50px !important" }
+[Voir les sessions ➜](./pages/sessions/){ .md-button .md-button--secondary style="display: block; text-align: center; margin: 10px auto 0; border-radius: 50px !important" }
 
-[Au fil de l'eau ➜](./pages/fil_actualite/){ .md-button .md-button--primary style="display: block; text-align: center; margin: 20px 0;" }
+[Au fil de l'eau ➜](./pages/fil_actualite/){ .md-button .md-button--primary style="display: block; text-align: center; margin: 20px auto 0;" }
 
-[En savoir plus ➜](./pages/le_parlement/){ .md-button .md-button--primary style="display: block; text-align: center; margin: 30px 0;" }
+[En savoir plus ➜](./pages/le_parlement/){ .md-button .md-button--primary style="display: block; text-align: center; margin: 30px auto 0;" }
 
 [Nous contacter](./pages/contact/){ .md-button .md-button--secondary style="display: block; text-align: center; margin: 10px 0;" }
 # A&nbsp;l’écoute de&nbsp;la&nbsp;rivière
