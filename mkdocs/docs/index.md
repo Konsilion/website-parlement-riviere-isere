@@ -5,14 +5,12 @@ hide:
   - navigation
 ---
 
-<div markdown style="float: right; width: 320px; margin: 20px 0 0 30px;">
-[Voir les sessions ➜](./pages/sessions/){ .md-button .md-button--secondary style="display: block; text-align: center; margin: 0 0 15px 0; border-radius: 50px !important" }
-[Au fil de l'eau ➜](./pages/fil_actualite/){ .md-button .md-button--primary style="display: block; text-align: center; margin: 0 0 15px 0;" }
-[En savoir plus ➜](./pages/le_parlement/){ .md-button .md-button--primary style="display: block; text-align: center; margin: 0 0 15px 0;" }
-[Nous contacter](./pages/contact/){ .md-button .md-button--secondary style="display: block; text-align: center; margin: 0 0 15px 0;" }
-</div>
+[Voir les sessions ➜](./pages/sessions/){ .md-button .md-button--secondary style="display: block; float: right; clear: right; text-align: center; width: 220px; margin: 20px 0 15px 0; border-radius: 50px !important" }
 
 ![logo-accueil](https://github.com/Konsilion/website-parlement-riviere-isere/blob/master/mkdocs/media/banniere-parlement-isere.png?raw=true){style="width: 450px; max-width: 100%"}
+
+[Au fil de l'eau ➜](./pages/fil_actualite/){ .md-button .md-button--primary style="display: block; float: right; clear: right; text-align: center; width: 220px; margin: 0 0 15px 0;" }
+[En savoir plus ➜](./pages/le_parlement/){ .md-button .md-button--primary style="display: block; float: right; clear: right; text-align: center; width: 220px; margin: 0 0 15px 0;" }
 
 # A&nbsp;l’écoute de&nbsp;la&nbsp;rivière
 
@@ -22,6 +20,8 @@ Le **Parlement de la rivière Isère** entend donner une voix à la rivière :
 - droits de la nature,
 - démarche fluvio-sensible,
 - et appropriation des enjeux.
+
+[Nous contacter](./pages/contact/){ .md-button .md-button--secondary style="display: block; float: right; clear: right; text-align: center; width: 220px; margin: 10px 0 10px 0;" }
 
 <hr>
 <br><br><br>
