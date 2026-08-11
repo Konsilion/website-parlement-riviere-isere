@@ -24,7 +24,6 @@ Le **Parlement de la rivière Isère** entend donner une voix à la rivière :
 [Nous contacter](./pages/contact/){ .md-button .md-button--secondary style="display: block; float: right; clear: right; text-align: center; width: 220px; margin: 10px 0 10px 0;" }
 
 <hr>
-<br>
 
 <style>
     body { 
