@@ -15,7 +15,8 @@ hide:
 
 # A&nbsp;l’écoute de&nbsp;la&nbsp;rivière
 
-Le **Parlement de la rivière Isère** entend donner une voix à la rivière : 
+Le **Parlement de la rivière Isère** entend donner une voix à la rivière :
+
 - participation citoyenne,
 - droits de la nature,
 - démarche fluvio-sensible,
