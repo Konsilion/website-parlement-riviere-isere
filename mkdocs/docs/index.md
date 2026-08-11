@@ -11,6 +11,7 @@ hide:
 
 [Au fil de l'eau ➜](./pages/fil_actualite/){ .md-button .md-button--primary style="display: block; float: right; clear: right; text-align: center; width: 220px; margin: 0 0 15px 0;" }
 [En savoir plus ➜](./pages/le_parlement/){ .md-button .md-button--primary style="display: block; float: right; clear: right; text-align: center; width: 220px; margin: 0 0 15px 0;" }
+[Nous contacter](./pages/contact/){ .md-button .md-button--secondary style="display: block; float: right; clear: right; text-align: center; width: 220px; margin: 0 0 15px 0;" }
 
 # A&nbsp;l’écoute de&nbsp;la&nbsp;rivière
 
@@ -21,9 +22,8 @@ Le **Parlement de la rivière Isère** entend donner une voix à la rivière :
 - démarche fluvio-sensible,
 - et appropriation des enjeux.
 
-[Nous contacter](./pages/contact/){ .md-button .md-button--secondary style="display: block; float: right; clear: right; text-align: center; width: 220px; margin: 10px 0 10px 0;" }
-
 <hr>
+<br><br><br>
 
 <style>
     body { 
