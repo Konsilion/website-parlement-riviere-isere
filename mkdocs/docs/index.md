@@ -46,7 +46,8 @@ Le **Parlement de la rivière Isère** entend donner une voix à la rivière :
  
     .md-content__button{display:none}
 
-    .md-typeset ul li {
+    }.md-typeset ul li {
+        margin-top: 0.3em;
         margin-bottom: 0.2em;
         line-height: 1.4;
     }
