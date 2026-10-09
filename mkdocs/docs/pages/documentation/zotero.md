@@ -47,7 +47,8 @@ hide:
 
 <style>
   h1 { display: none !important; }
-  .md-content { padding: 0 !important; }
+  .md-content { padding: 0 !important; margin-bottom: 0 !important; }
+  .md-content__button { display: none !important; }
   article { margin: 0 !important; padding: 0 !important; }
   .md-main__inner { margin-top: 0; }
   .md-grid {
