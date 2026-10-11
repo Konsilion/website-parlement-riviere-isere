@@ -10,15 +10,15 @@ hide:
 <div class="zotero-embed">
   <iframe
     id="zotero-vitrine"
-    src="https://konsilion.github.io/zotero-parlement-riviere-isere/?mode=integre"
-    title="Bibliothèque Zotero du Parlement de la rivière Isère"
+    src="https://konsilion.github.io/grilles-parlement-riviere-isere/mediatheque/?mode=integre"
+    title="Médiathèque du Parlement de la rivière Isère"
     loading="lazy"></iframe>
 </div>
 
 <noscript>
   <p style="padding: 1rem 1.25rem;">
     L'affichage de la bibliothèque nécessite JavaScript.
-    <a href="https://konsilion.github.io/zotero-parlement-riviere-isere/">Ouvrir la bibliothèque dans un onglet dédié.</a>
+    <a href="https://konsilion.github.io/grilles-parlement-riviere-isere/mediatheque/">Ouvrir la médiathèque dans un onglet dédié.</a>
   </p>
 </noscript>
 
