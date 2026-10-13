@@ -13,7 +13,7 @@ Tous n'utilisent pas le terme de collectif pour s'indentifier.
 
 ### SOS Durance Vivante
 
-[Lien vers SOS Durance](https://www.sosdurancevivante.org/)
+[https://www.sosdurancevivante.org/](https://www.sosdurancevivante.org/)
 
 ### Appel du Rhône
 
