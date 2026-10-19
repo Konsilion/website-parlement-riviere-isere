@@ -14,8 +14,8 @@ nav:
 
     - Documentation :
         - pages/documentation/index.md
+        - pages/documentation/PDIListe des collectifs_E1.md
         - Sources d'informations : pages/documentation/services_climatiques.md
-
     - Contact : pages/contact.md
 
 site_name: Parlement de la rivière Isère
