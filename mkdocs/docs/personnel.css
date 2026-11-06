@@ -216,6 +216,10 @@ article p, article li {
     margin: 0px auto auto auto !important;
 }
 
-.ksln-grid-collectifs .ksln-cards > a.md-button:first-of-type {
+.ksln-grid-collectifs .ksln-cards > hr {
     margin-top: auto !important;
+    margin-bottom: 8px;
+    border: none;
+    border-top: 0.05rem solid var(--md-default-fg-color--lightest);
+    width: 100%;
 }
