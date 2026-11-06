@@ -3,11 +3,12 @@ title: Les autres Parlements de fleuves et de rivières
 hide:
     - navigation
 ---
-Recensement des collectifs (Parlements, assemblées, appels…) des fleuves et des rivières, en France et en Europe.
 
-Tous n'utilisent pas le terme de « collectif » pour s'identifier : parlements, assemblées de gardien·ne·s, appels, foundations… un même mouvement, des noms différents.
+# Collectifs des fleuves et des rivières
 
-# **En Région Auvergne-Rhône-Alpes**
+Recensement des collectifs (Parlements, assemblées, appels…) des fleuves et des rivières, en France et en Europe. Tous n'utilisent pas le terme de « collectif » pour s'identifier : parlements, assemblées de gardien·ne·s, appels, fondations : **un même mouvement, des noms différents.**
+
+## **En Région Auvergne-Rhône-Alpes**
 
 <div class="ksln-grid ksln-grid-collectifs">
     <div class="ksln-cards" style="margin: 0px auto auto auto;">
@@ -27,7 +28,7 @@ Tous n'utilisent pas le terme de « collectif » pour s'identifier : parlements,
     </div>
 </div>
 
-# **Collectifs en France**
+## **Collectifs en France**
 
 <div class="ksln-grid ksln-grid-collectifs">
     <div class="ksln-cards" style="margin: 0px auto auto auto;">
@@ -88,7 +89,7 @@ Tous n'utilisent pas le terme de « collectif » pour s'identifier : parlements,
     </div>
 </div>
 
-# **Réseaux européens**
+## **Réseaux européens**
 
 <div class="ksln-grid ksln-grid-collectifs">
     <div class="ksln-cards" style="margin: 0px auto auto auto;">
@@ -123,7 +124,7 @@ Tous n'utilisent pas le terme de « collectif » pour s'identifier : parlements,
     </div>
 </div>
 
-# **Autres ressources**
+### **Autres ressources**
 
 <div class="ksln-grid ksln-grid-collectifs">
     <div class="ksln-cards" style="margin: 0px auto auto auto;">
