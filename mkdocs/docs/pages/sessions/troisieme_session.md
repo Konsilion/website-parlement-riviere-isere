@@ -1,10 +1,10 @@
 ---
 hide:
-  -toc
   -navigation
 ---
 
 # Troisième session
+
 | Agenda |  |
 |---|---|
 | **Date** : | samedi 28 mars 2026, de 14h à 18h |
