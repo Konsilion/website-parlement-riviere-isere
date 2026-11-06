@@ -20,7 +20,8 @@ Le **Parlement de la rivière Isère** entend donner une voix à la rivière :
 
 <hr>
 
-[Au fil de l'eau ➜](./pages/fil_actualite/){ .md-button .md-button--primary }
+<!-- [Au fil de l'eau ➜](./pages/fil_actualite/){ .md-button .md-button--primary } -->
+
 [En savoir plus ➜](./pages/le_parlement/){ .md-button .md-button--primary }
 [Nous contacter](./pages/contact/){ .md-button .md-button--secondary }
 
