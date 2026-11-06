@@ -14,7 +14,7 @@ nav:
 
     - Documentation :
         - pages/documentation/index.md
-        - pages/documentation/PDIListe des collectifs_E1.md
+        - pages/documentation/liste_autres_collectifs.md
         - pages/documentation/services_informationnels.md
     - Contact : pages/contact.md
 
