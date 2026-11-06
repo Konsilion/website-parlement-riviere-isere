@@ -4,6 +4,8 @@ hide:
   -navigation
 ---
 
+# Deuxième session
+
 | Agenda |  |
 |---|---|
 |**Date** : |samedi 22 mars 2025, de 14h à 18h|
@@ -11,7 +13,7 @@ hide:
 |**Contexte** : |Journée Mondiale de l'Eau|
 |**Format** : |session publique, gratuite, ouverte à toutes et tous, sans inscription|
 
-### Contexte
+## Contexte
 
 Cinq mois après la première session, le collectif a transformé les **quatre axes de travail** identifiés en septembre 2024 en **quatre commissions thématiques** :
 
@@ -22,7 +24,7 @@ Cinq mois après la première session, le collectif a transformé les **quatre a
 
 Cette deuxième session a pour vocation de **présenter l'avancement des travaux** de chaque commission et d'**ouvrir un espace de participation** au public.
 
-### Déroulé
+## Déroulé
 
 Après un temps de présentation et d'échanges, les participant·e·s ont pu prendre part à :
 
@@ -33,7 +35,7 @@ Après un temps de présentation et d'échanges, les participant·e·s ont pu pr
 
 La session s'est conclue par un **temps informel et convivial** au Bivouak Café, le bar de La Correspondance.
 
-### Principaux résultats
+## Principaux résultats
 
 !!! quote "Déclaration des droits de la rivière Isère"
     Présentée et lue lors de cette 2e session, la Déclaration des droits de la rivière est le fruit des travaux de la commission juridique. Elle formalise la reconnaissance de la rivière comme sujet de droit et constitue un support de mobilisation pour la suite de la démarche.
@@ -41,11 +43,11 @@ La session s'est conclue par un **temps informel et convivial** au Bivouak Café
 !!! info "Naissance des Gardiennes et Gardiens de la rivière"
     La session marque le **lancement des Gardiennes et Gardiens de la rivière**, inspirés de la Charte de l'environnement (droit de vivre dans un environnement équilibré, droit d'œuvrer à sa préservation). Les Gardiens peuvent **alerter les pouvoirs publics** (DREAL, ARS) en cas d'atteinte à l'intégrité des eaux, et **saisir la justice** si nécessaire. Ils rejoignent le Parlement comme membres à part entière.
 
-### Ressources
+## Ressources
 
 [Devenir Gardien·ne de la rivière](mailto:parlement-isere@gresille.org){ .md-button .md-button--primary }
 
-### Revue de presse
+## Revue de presse
 
 - [Le Dauphiné Libéré (8 mars 2025) — *« Une deuxième session pour le Parlement de la rivière Isère »*](https://www.ledauphine.com/environnement/2025/03/08/isere-grenoble-une-deuxieme-session-pour-le-parlement-de-la-riviere-isere)
 - [ici Grenoble — Annonce de l'événement](https://www.ici-grenoble.org/evenement/deuxieme-session-du-parlement-de-la-riviere-isere)
