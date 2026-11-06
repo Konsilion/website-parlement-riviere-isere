@@ -26,6 +26,7 @@
 	font-size: 16px;
 	padding: 5px 2em !important;
 	border-radius: 25px !important;
+	margin-top: 5px !important;
 }
 
 .md-button--secondary {background-color: white;}
