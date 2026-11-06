@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# Les services climatiques
+# Les services d'informations
 
 ???+ info "Comment les classons nous"
 
