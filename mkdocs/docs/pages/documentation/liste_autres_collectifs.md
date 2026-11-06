@@ -1,9 +1,3 @@
----
-title: Les autres Parlements de fleuves et de rivières
-hide:
-    - navigation
----
-
 # Collectifs des fleuves et des rivières
 
 Recensement des collectifs (Parlements, assemblées, appels…) des fleuves et des rivières, en France et en Europe. Tous n'utilisent pas le terme de « collectif » pour s'identifier : parlements, assemblées de gardien·ne·s, appels, fondations : **un même mouvement, des noms différents.**
