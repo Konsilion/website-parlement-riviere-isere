@@ -5,9 +5,9 @@ hide:
 
 # Les services d'informations
 
-???+ info "Comment les classons nous"
+???+ info "Comment classer l'information ?"
 
-    Nous proposons de ranger les productions des services climatiques dans 3 catégories : 
+    Nous proposons de ranger les productions d'informations dans 3 catégories : 
 
     * Les **visualisations** sont des outils intéractifs permettant de rapidement obtenir une information utile.
     * Les **études** sont des regroupements de rapports, données travaillées, infographies relativement "complexes" à l'usage.
@@ -15,7 +15,7 @@ hide:
 
 === "Qu'est-ce que c'est ?"
 
-    Un service climatique désigne l’ensemble des dispositifs, outils ou systèmes permettant de fournir des informations climatiques utiles, fiables et scientifiquement fondées, destinées à appuyer la prise de décision dans des secteurs sensibles au climat, tels que la gestion de l’eau.
+    Un service d'information désigne l’ensemble des dispositifs, outils ou systèmes permettant de fournir des informations utiles, fiables et scientifiquement fondées, destinées à appuyer la prise de décision dans des secteurs sensibles au climat, tels que la gestion de l’eau.
     
     Dans le cadre de l’étude de la ressource en eau, ces services peuvent intégrer :
     
@@ -24,7 +24,7 @@ hide:
     
     Ces données climatiques sont généralement croisées avec des informations sectorielles pertinentes : occupation du sol, usages de l’eau, infrastructures hydrauliques, état des milieux aquatiques, ou encore données démographiques. Cela permet une évaluation fine de l’exposition et de la vulnérabilité des territoires face aux aléas climatiques, ainsi qu’une planification adaptée des politiques de gestion et de préservation de la ressource.
     
-    Les services climatiques ne se limitent pas aux seules projections à long terme : ils incluent également les services météorologiques, orientés sur les prévisions à courte échéance, utiles notamment pour la gestion de crise (crues, inondations, orages violents, etc.).
+    Les services d'informations ne se limitent pas aux seules projections à long terme : ils incluent également les services météorologiques, orientés sur les prévisions à courte échéance, utiles notamment pour la gestion de crise (crues, inondations, orages violents, etc.).
 
 === "Visualisations"
 
