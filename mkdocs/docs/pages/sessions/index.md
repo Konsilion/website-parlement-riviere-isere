@@ -6,10 +6,11 @@ hide:
 
 # Les sessions du Parlement de la rivière Isère
 
-Le Parlement de la rivière Isère se réunit régulièrement en sessions publiques. Ces moments forts rassemblent les gardien·ne·s, les associations et les habitant·e·s du bassin versant pour débattre, échanger et faire avancer la démarche.
+Le Parlement de la rivière Isère se réunit régulièrement en sessions publiques. Ces moments forts rassemblent les gardien·ne·s, les associations et les habitant·e·s du bassin versant pour débattre, échanger et faire avancer la démarche. Les sessions se tiennent à intervalle régulier, généralement **fin mars** (Journée Mondiale de l'Eau). Elles sont **gratuites et ouvertes à toutes et tous**.
 
-!!! info "Une session par an, autour de la Journée Mondiale de l'Eau"
-    Les sessions se tiennent à intervalle régulier, généralement autour du **22 mars** (Journée Mondiale de l'Eau) pour les sessions de printemps. Elles sont **gratuites et ouvertes à toutes et tous**.
+!!! info "Quatrième sessions"
+    La prochaine session du Parlement se déroulera le **samedi 27 mars 2027** avec un premier temps le jeudi 25 mars 2027 avec une simulation parlementaire. (plus d'information à venir : [abonnez-vous à la lettre d'information](https://liste.parlement-isere.org/subscription/form)) 
+
     
 ## [Troisème session](troisieme_session.md).
 Un an après la Déclaration des droits de la rivière et la création des Gardiennes et Gardiens, la troisième session fait un pas de côté : après avoir posé les **fondations** (session 1) et les **actes symboliques** (session 2), le collectif se tourne vers le **concret** — les usages quotidiens de l'eau sur le territoire.
