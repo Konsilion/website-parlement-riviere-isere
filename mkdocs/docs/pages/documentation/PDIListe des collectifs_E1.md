@@ -9,7 +9,7 @@ Tous n'utilisent pas le terme de « collectif » pour s'identifier : parlements,
 
 # **En Région Auvergne-Rhône-Alpes**
 
-<div class="ksln-grid">
+<div class="ksln-grid ksln-grid-collectifs">
     <div class="ksln-cards" style="margin: 0px auto auto auto;">
         <h3><b>SOS Durance Vivante</b></h3>
         Collectif pour la Durance, entre Alpes et Provence.
@@ -29,7 +29,7 @@ Tous n'utilisent pas le terme de « collectif » pour s'identifier : parlements,
 
 # **Collectifs en France**
 
-<div class="ksln-grid">
+<div class="ksln-grid ksln-grid-collectifs">
     <div class="ksln-cards" style="margin: 0px auto auto auto;">
         <h3><b>Parlement de Loire</b></h3>
         Le premier des parlements de fleuves français.
@@ -90,7 +90,7 @@ Tous n'utilisent pas le terme de « collectif » pour s'identifier : parlements,
 
 # **Réseaux européens**
 
-<div class="ksln-grid">
+<div class="ksln-grid ksln-grid-collectifs">
     <div class="ksln-cards" style="margin: 0px auto auto auto;">
         <h3><b>Osoba Odra</b></h3>
         L'Oder (Odra), fleuve frontalier entre Pologne et Allemagne. Fondation Osoba Odra.
@@ -125,7 +125,7 @@ Tous n'utilisent pas le terme de « collectif » pour s'identifier : parlements,
 
 # **Autres ressources**
 
-<div class="ksln-grid">
+<div class="ksln-grid ksln-grid-collectifs">
     <div class="ksln-cards" style="margin: 0px auto auto auto;">
         <h3><b>Vers une Internationale des rivières</b></h3>
         Camille de Toledo (Parlement de Loire).

@@ -203,6 +203,19 @@ article p, article li {
 
 @media only screen and (min-width: 1400px) {
 	.ksln-grid-4c {
-	  grid-template-columns: 24% 24% 24% 24%;
+		grid-template-columns: 24% 24% 24% 24%;
 	}
+}
+
+/* Cartes a boutons ancres en bas : titre / description / boutons.
+   Utilisation : ajouter la classe ksln-grid-collectifs au div.ksln-grid. */
+.ksln-grid-collectifs .ksln-cards {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    margin: 0px auto auto auto !important;
+}
+
+.ksln-grid-collectifs .ksln-cards > a.md-button:first-of-type {
+    margin-top: auto !important;
 }
