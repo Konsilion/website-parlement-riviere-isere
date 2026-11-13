@@ -13,7 +13,7 @@ Conformément aux remarques soulevées lors de la première session du Parlement
 * **Fournir des éléments pour des actions juridiques** : Préparer et fournir les éléments nécessaires pour soutenir des actions juridiques en faveur de la protection de la rivière, en collaboration avec des experts juridiques et des associations spécialisées. Explorer les moyens de faire évoluer le droit, y compris en refusant les décisions néfastes pour l'environnement et en soutenant des actions de désobéissance civile lorsque cela est justifié.
 * **S'appuyer sur le droit international** : Utiliser les exemples de reconnaissance des droits de la nature dans d'autres pays et s'appuyer sur le droit international pour renforcer les arguments en faveur de la reconnaissance des droits de la rivière Isère.
 
-## Des projets de droit de la nature comme entité juridique
+## Proposition de loi pour reconnaitre les droits d'entités naturelles
 
 - [Proposition de loi visant à reconnaître le fleuve « Loire » et son bassin versant comme une entité naturelle juridique dotée de droits](https://www.assemblee-nationale.fr/dyn/17/textes/l17b2949_proposition-loi)
 - [Proposition de loi relative à la personnalité juridique et aux droits de la Seine](https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53825)
