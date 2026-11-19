@@ -23,6 +23,19 @@ Recensement des collectifs (Parlements, assemblées, appels…) des fleuves et d
         <hr>
         <a class="md-button md-button--primary" href="https://mediascitoyens-diois.info/2026/01/die-la-riviere-drome-donner-une-voix-au-vivant-et-6-rendez-vous-autour-de-leau/" target="_blank">Lire l'article</a>
     </div>
+    <div class="ksln-cards" style="margin: 0px auto auto auto;">
+        <h3><b>Eau Bien Commun Lyon-Métropole</b></h3>
+        Lyon et sa métropole : une régie publique de l'eau potable et une assemblée des usagers de l'eau.
+        <hr>
+        <a class="md-button md-button--primary" href="https://www.helloasso.com/associations/eau-bien-commun-lyon-metropole" target="_blank">Fiche HelloAsso</a>
+    </div>
+    <div class="ksln-cards" style="margin: 0px auto auto auto;">
+        <h3><b>Eau et Services Publics</b></h3>
+        Saint-Étienne (Loire) : défense des usagers, pour une gestion publique, démocratique et transparente de l'eau.
+        <hr>
+        <a class="md-button md-button--primary" href="https://eaucitoyenne-biencommun.org/" target="_blank">Site web</a>
+        <a class="md-button" href="https://www.net1901.org/association/EAU-ET-SERVICES-PUBLICS,2297179.html" target="_blank">Fiche net1901</a>
+    </div>
 </div>
 
 ## **Collectifs en France**
